@@ -36,6 +36,7 @@ mod famsel;
 mod deadcls;
 mod gradml;
 mod famexport;
+mod ml3;
 mod tpsim;
 
 use std::process::ExitCode;
@@ -88,6 +89,8 @@ fn main() -> ExitCode {
         Some("devsum") if a.len() == 4 => entry1s::devsum(&a[2], &a[3]),
         Some("famdead") if a.len() == 3 => deadcls::famdead(&a[2]),
         Some("famexport") if a.len() == 3 => famexport::run(&a[2]),
+        Some("ml3") if a.len() == 5 && a[2] == "build" => a[4].parse().map_err(|_| "bad lat_s".to_string()).and_then(|l| ml3::build(&a[3], l)),
+        Some("ml3") if (a.len() == 4 || a.len() == 5) && a[2] == "eval" => ml3::eval(&a[3], a.get(4).map(|s| s.as_str())),
         Some("gradml") if a.len() == 4 && a[2] == "build" => gradml::build(&a[3]),
         Some("gradml") if a.len() == 5 && a[2] == "eval" => gradml::eval(&a[3], &a[4]),
         Some("deadcls") if a.len() == 4 => deadcls::deadcls(&a[2], &a[3]),
