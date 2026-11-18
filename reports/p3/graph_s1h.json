@@ -1,0 +1,115 @@
+{
+  "H1_single_linked_funding": 161,
+  "H1_single_linked_funding_or_signer": 269,
+  "creators": 590,
+  "edges": {
+    "funding": 387,
+    "signer": 217
+  },
+  "fund_status_creators": {
+    "creator_deep": 92,
+    "funder_infra": 3,
+    "funder_ok": 387,
+    "no_funder": 108
+  },
+  "funder_fanout_p50_p90_p99_max": [
+    1,
+    2,
+    13,
+    16
+  ],
+  "funding_lag_s_p10_p25_p50_p75_p90": [
+    0,
+    0,
+    901,
+    752438,
+    6297578
+  ],
+  "infra_rule": {
+    "min_fanout": 1000000,
+    "min_sigs": 3000
+  },
+  "infra_wallets": 3,
+  "launches": 1336,
+  "launches_in_networks": 312,
+  "networks_ge2_creators": 37,
+  "single_launch_creators": 471,
+  "single_with_ok_funder": 317,
+  "top_networks": [
+    {
+      "creators": 16,
+      "launches": 91,
+      "root": "5djUAtyhAJR6ZXKeYVqVJVGLDGtwxaGYuK4Tr3TEGGib"
+    },
+    {
+      "creators": 16,
+      "launches": 23,
+      "root": "6mTm3XNF2sm2PJx97A8P9EmGGkobpVR9D95f78h7fF17"
+    },
+    {
+      "creators": 4,
+      "launches": 16,
+      "root": "9AwHv2sHSyGXrsDUh1tgh7MZECuEiFLRXVQXzTp5nZQp"
+    },
+    {
+      "creators": 8,
+      "launches": 15,
+      "root": "2VpfXkj81CbFn3nYYbd8TDu8ZYXBehpSdG4UB8M2kV23"
+    },
+    {
+      "creators": 13,
+      "launches": 14,
+      "root": "CSFgLMJCmkihKrWo6sTPtUuy5gyrDxBUT1fSffkUCAvp"
+    },
+    {
+      "creators": 12,
+      "launches": 14,
+      "root": "5wr1TDdj2HMHHrkQWXG3G2akSqNe1Aykzw238R3Z7cK3"
+    },
+    {
+      "creators": 4,
+      "launches": 11,
+      "root": "Gzm6fMeAoERNL59nKBe66CMHjAKga8QVuD3hyTvxEoLS"
+    },
+    {
+      "creators": 10,
+      "launches": 10,
+      "root": "6oyy555a5SxtwA1gF91LQXdTSHdwDMrzLDgLcK8oG5qs"
+    },
+    {
+      "creators": 9,
+      "launches": 9,
+      "root": "Hh1gpnpQJAr9LTHquR6vGLjhZnpBc1qste4x7PtNJ5ug"
+    },
+    {
+      "creators": 8,
+      "launches": 8,
+      "root": "47zLB5iwk7B3wSMuaXKR2Wwjmf13wUgkAUMkE4qjd9tc"
+    },
+    {
+      "creators": 8,
+      "launches": 8,
+      "root": "BSnfnmaVYccYzBmRCvrB8svTSp2qHBdAXttZsLx4YkMv"
+    },
+    {
+      "creators": 8,
+      "launches": 8,
+      "root": "AorBTmYuFaUtvKUobSB4PESWEqUHvRxs7Rxz9KcHj1US"
+    },
+    {
+      "creators": 5,
+      "launches": 7,
+      "root": "9S4QuyR5ULM2etU4FN4MuTLNsVAmy8smCGJb2jpMYrDQ"
+    },
+    {
+      "creators": 6,
+      "launches": 6,
+      "root": "72k1ncJe1tTvTVTmGpbH1mUsCdoVEaAqq9Ym46uE3cfC"
+    },
+    {
+      "creators": 5,
+      "launches": 6,
+      "root": "HGmYLWpNRdgh3jM7MtWy8LGQ2K1xfn1t9ip7wEYCtCNx"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+2026-11-16T16:20:01Z refreshed base traded=12170 rising=1302 (10.7%) | trash devs removed=503 kept=7249 | rising devs=1156, >=2 rising=62 | funding of rising devs=Object {"BELUM_DICEK": Number(466), "DIDANAI_DEV_LAIN": Number(65), 
+2026-11-16T17:20:58Z refreshed base traded=16039 rising=1788 (11.1%) | trash devs removed=642 kept=9499 | rising devs=1597, >=2 rising=83 | funding of rising devs=Object {"BELUM_DICEK": Number(733), "DIDANAI_DEV_LAIN": Number(90), 
+2026-11-16T18:22:02Z refreshed base traded=21310 rising=2225 (10.4%) | trash devs removed=872 kept=12413 | rising devs=1957, >=2 rising=103 | funding of rising devs=Object {"BELUM_DICEK": Number(950), "DIDANAI_DEV_LAIN": Number(108

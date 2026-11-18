@@ -1,0 +1,32 @@
+INVALID (18 Nov review): unreachable entry and/or funding-coverage leak. Do not use.
+coins=4807 missing_launch=0 -> data/ml/outcomes.csv
+rows=4784 delay=0o s0_features=false -> data/ml/feat_d0o.tsv
+rows train=2293 valid=573 test=1769
+== loss curve: iter | train Logloss | valid Logloss | valid AUC
+0 | 0.6745 | 0.6715 | 0.7945
+100 | 0.3738 | 0.3441 | 0.8519
+200 | 0.3414 | 0.3371 | 0.8558
+300 | 0.3158 | 0.3375 | 0.8574
+400 | 0.2979 | 0.3380 | 0.8589
+500 | 0.2742 | 0.3398 | 0.8568
+600 | 0.2558 | 0.3404 | 0.8578
+700 | 0.2373 | 0.3426 | 0.8589
+800 | 0.2212 | 0.3459 | 0.8608
+900 | 0.2065 | 0.3500 | 0.8608
+1000 | 0.1954 | 0.3525 | 0.8600
+1100 | 0.1845 | 0.3596 | 0.8580
+best iteration (valid AUC): 882 0.8617846954
+valid: n=573 base_rate=0.176 AUC=0.8618 logloss=0.3480 (constant model 0.4657) brier=0.1113
+test: n=1769 base_rate=0.271 AUC=0.8641 logloss=0.3993 (constant model 0.5846) brier=0.1273
+test calibration (pred -> actual win): 0.01->0.03 0.02->0.01 0.04->0.04 0.07->0.06 0.13->0.12 0.22->0.23 0.33->0.28 0.46->0.51 0.64->0.57 0.84->0.82 
+test ALL coins: n=1769 menang=25.7% rata=+6.26% tanpa_top5=+4.69% biaya_x2=+1.88%
+test top 50% (thr 0.032 from valid): n=1386 menang=32.4% rata=+9.23% tanpa_top5=+7.24% biaya_x2=+4.77%
+test top 20% (thr 0.324 from valid): n=639 menang=56.2% rata=+18.02% tanpa_top5=+15.57% biaya_x2=+13.33%
+test top 10% (thr 0.569 from valid): n=334 menang=69.8% rata=+24.10% tanpa_top5=+20.56% biaya_x2=+19.26%
+test top 5% (thr 0.757 from valid): n=156 menang=83.3% rata=+33.90% tanpa_top5=+27.44% biaya_x2=+28.80%
+test top 1% (thr 0.892 from valid): n=43 menang=90.7% rata=+47.42% tanpa_top5=+30.92% biaya_x2=+41.97%
+== feature importance (top 12)
+17.86977031 tx_buy_sol;14.59816484 own_buy_sol;12.15271505 prev_launch_user;8.014404036 same_sym_24h;7.832755421 name_len;7.018306081 heat_5m;5.585294297 secs_since_prev;5.299929419 hour;5.190817719 sym_len;4.116712487 launch_24h_creator;3.371930257 prev_launch_creator;2.180424719 prev_closed_win
+== attack: shuffled train labels (test AUC must be ~0.5)
+test: n=1769 base_rate=0.271 AUC=0.5078 logloss=0.6864 (constant model 0.5846) brier=0.2466
+ML_DONE

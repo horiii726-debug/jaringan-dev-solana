@@ -1,0 +1,1 @@
+2026-11-16T14:21:20Z - teams with >=1 dev: 1389 ; with >=2 devs: 126 ; teams with a moonshot: 8 - SIGNALS (coins of qualified teams after qualification): n=115 menang=18% rata=-0.7% ; moonshot among signals with trades: 0 

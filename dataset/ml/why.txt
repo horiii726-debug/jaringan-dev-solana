@@ -1,0 +1,76 @@
+
+=== SEMUA: 17739 koin, naik 19.4%
+median per jenis:
+ciri                    MOONSHOT      NAIK     TURUN   RUGPULL      SEPI
+own_buy_sol           0.98696819         30.1459994871.7582528990.002050119
+tx_buy_sol            0.98765432         30.1460728141.9555555550.002050119
+tx_buyers                      1         1         1         1         1
+prev_launch_creator            0         0         0         0         1
+launch_24h_creator             0         0         0         0         1
+same_sym_24h                   8         4         0         4         7
+fund_lag_s                    -1        -1        -1        -1        -1
+heat_5m                      146       145       142       142       152
+peluang naik per kelompok:
+  bundle_wallet              0-1       n=17505 naik= 19.1%
+  bundle_wallet              2-3       n=   60 naik= 46.7%
+  bundle_wallet              >=4       n=  174 naik= 38.5%
+  dev_beli_sol               0         n= 2741 naik=  1.5%
+  dev_beli_sol               0.5-2     n= 4309 naik= 27.6%
+  dev_beli_sol               2-5       n= 2652 naik= 39.4%
+  dev_beli_sol               <0.5      n= 6612 naik=  3.7%
+  dev_beli_sol               >=5       n= 1425 naik= 64.4%
+  jam_UTC                    00-05     n= 5744 naik= 18.3%
+  jam_UTC                    06-11     n= 2824 naik= 17.1%
+  jam_UTC                    12-17     n= 4426 naik= 22.3%
+  jam_UTC                    18-23     n= 4745 naik= 19.3%
+  jeda_dana_ke_create        <1hari    n=  916 naik= 18.0%
+  jeda_dana_ke_create        <5mnt     n= 1116 naik= 27.3%
+  jeda_dana_ke_create        >=1hari   n= 1681 naik= 11.2%
+  jeda_dana_ke_create        tdk_tahu  n=14026 naik= 19.8%
+  jeda_dari_koin_sebelumnya  <10mnt    n= 4428 naik= 10.4%
+  jeda_dari_koin_sebelumnya  <1hari    n= 2975 naik= 15.4%
+  jeda_dari_koin_sebelumnya  >=1hari   n=  805 naik= 16.6%
+  jeda_dari_koin_sebelumnya  pertama   n= 9531 naik= 25.0%
+  koin_sebelumnya_dev        0         n= 9531 naik= 25.0%
+  koin_sebelumnya_dev        1-2       n= 2026 naik=  5.0%
+  koin_sebelumnya_dev        >=3       n= 6182 naik= 15.4%
+  nama_tiruan_24j            1-4       n= 3973 naik= 26.6%
+  nama_tiruan_24j            >=5       n= 8287 naik= 20.4%
+  nama_tiruan_24j            baru      n= 5479 naik= 12.6%
+
+=== TIM: 269 koin, naik 48.0%
+median per jenis:
+ciri                    MOONSHOT      NAIK     TURUN   RUGPULL      SEPI
+own_buy_sol           11.7810660223.9506172830.0395061711.9750003750.147847491
+tx_buy_sol            11.781066022         40.0395061712.962500580.147847491
+tx_buyers                      1         1         1         1         1
+prev_launch_creator            2         0         0         0         1
+launch_24h_creator             1         0         0         0         0
+same_sym_24h                   1         4         0         2         0
+fund_lag_s                  1177     61187   1892020     17953    435584
+heat_5m                      120       139       132       135       133
+peluang naik per kelompok:
+  bundle_wallet              0-1       n=  260 naik= 47.7%
+  dev_beli_sol               0         n=   20 naik= 20.0%
+  dev_beli_sol               0.5-2     n=   59 naik= 50.8%
+  dev_beli_sol               2-5       n=   50 naik= 58.0%
+  dev_beli_sol               <0.5      n=   76 naik= 17.1%
+  dev_beli_sol               >=5       n=   64 naik= 82.8%
+  jam_UTC                    00-05     n=   95 naik= 52.6%
+  jam_UTC                    06-11     n=   60 naik= 66.7%
+  jam_UTC                    12-17     n=   52 naik= 23.1%
+  jam_UTC                    18-23     n=   62 naik= 43.5%
+  jeda_dana_ke_create        <1hari    n=   65 naik= 44.6%
+  jeda_dana_ke_create        <5mnt     n=   23 naik= 56.5%
+  jeda_dana_ke_create        >=1hari   n=  140 naik= 43.6%
+  jeda_dana_ke_create        tdk_tahu  n=   41 naik= 63.4%
+  jeda_dari_koin_sebelumnya  <10mnt    n=   58 naik= 74.1%
+  jeda_dari_koin_sebelumnya  <1hari    n=   24 naik= 20.8%
+  jeda_dari_koin_sebelumnya  >=1hari   n=   25 naik= 24.0%
+  jeda_dari_koin_sebelumnya  pertama   n=  162 naik= 46.3%
+  koin_sebelumnya_dev        0         n=  162 naik= 46.3%
+  koin_sebelumnya_dev        1-2       n=   40 naik= 25.0%
+  koin_sebelumnya_dev        >=3       n=   67 naik= 65.7%
+  nama_tiruan_24j            1-4       n=   70 naik= 62.9%
+  nama_tiruan_24j            >=5       n=  104 naik= 58.7%
+  nama_tiruan_24j            baru      n=   95 naik= 25.3%

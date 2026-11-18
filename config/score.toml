@@ -1,0 +1,12 @@
+# QUANT score v1 - frozen 2026-11-16 before any test-day outcome was looked at.
+shrink_a = 10            # prior weight for p_hat = (k + a*p0)/(n + a)
+min_n = 3                # fewer closed coins = TOO_FEW
+good_lift = 1.5          # GOOD when p_hat >= 1.5 x p0 (p0 from train days)
+train_days = "2026-11-14"
+include_mayhem = 0       # Mayhem-mode coins reported separately
+# Team quality v2 (16 Nov, owner: drop rug/quiet teams, keep quality teams) - set before seeing v2 results
+team_min_moons = 2
+team_min_closed = 3
+team_max_rug_pct = 50
+team_max_quiet_pct = 50
+quarter_kelly_bp = 2250        # quarter Kelly 0.225 (from 9 Nov walk-forward picks)

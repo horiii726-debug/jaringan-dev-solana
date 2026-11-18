@@ -1,0 +1,4 @@
+# Infrastructure cut-offs (set from measured distribution, see reports/p3)
+infra_min_sigs = 3000
+infra_min_fanout = 1000000
+busy_tx_per_hour = 150   # funder with 1000 newest tx at >=150 tx/h = service/exchange/bot hub, not a team

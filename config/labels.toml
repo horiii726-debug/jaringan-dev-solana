@@ -1,0 +1,11 @@
+# QUANT label definitions v1 - frozen 2026-11-16 BEFORE any outcome was computed. Change = new version.
+version = 1
+horizon_s = 1800                 # trades followed for 30 min after create
+buy_lamports = 100_000_000       # our size 0.1 SOL
+tx_cost_lamports = 105_000       # per side: base 5000 + priority 100000 [U: to be measured]
+entry_delay_slots = "0,1,2,3,5,13"   # 0 = same block (after all trades in the create slot); 0o = right after create tx
+creator_sell_react_slots = 1     # we sell in the slot after the creator/create-signer first sells
+time_stop_s = 1800
+moon_mult = 2                    # peak sellable value / cost within horizon
+moon_creation_mult = 10           # v1.1 (16 Nov, before team results): team moonshot = curve >=10x creation price or graduated
+amm_horizon_s = 86400            # follow PumpSwap pool 24 h after graduation

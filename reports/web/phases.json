@@ -1,0 +1,10 @@
+{"INVALID":"18 Nov review: unreachable entry (0o/j1-j5/Jito-first), funding-coverage leak, gradsim cannot see crash; see reports/honest","updated":"2026-11-16","phases":[
+{"id":"P0","title":"SYSTEM AUDIT","status":"SELESAI","text":"VPS baru, folder /root/jaringan, Rust + clippy, kunci Helius di .env. Program Pump.fun + IDL resmi dicek. Contoh 1 jam: 1.336 koin, 160 kredit. Helius efektif 3-5 permintaan/detik."},
+{"id":"P1","title":"COLLECT DEV WALLETS","status":"BERJALAN","text":"Koin 9-15 Nov: ~290 ribu (+3 hari backfill dijeda). Creator, penandatangan, fee payer tersimpan. Bersih: 0 duplikat, 0 urutan rusak, cek silang 200/200. Funder dev 14-15 Nov: 12.207 dari ~29 ribu wallet. 78,8% koin = template (nama+simbol sama)."},
+{"id":"P2","title":"RECONSTRUCT COIN HISTORY","status":"BERJALAN","text":"Trade 8.779 dari 27.700 koin (14-15 Nov). 0 trade hilang, 9,5% terpotong (>500 trade). Hasil dari harga KITA (setelah 1 sniper, fee + tip Jito): rata-rata +1,8%/trade; moonshot 0,48% koin. Telat 1-13 slot: -6..-7%/trade."},
+{"id":"P3","title":"BUILD FUNDING TEAMS","status":"BERJALAN","text":"2.105 tim (1 funder = 1 tim), 163 dengan >=2 dev. Funder layanan/bot dibuang (8 sejauh ini; cek aktivitas 200 dari 1.768 funder)."},
+{"id":"P4","title":"TEAM REPUTATION","status":"BERJALAN","text":"GOOD 0, TOO_FEW 415, UNKNOWN 1.598, BAD 92 (dibuang). Aturan GOOD: >=2 moonshot, >=3 koin selesai, ragpul <=50%, sepi <=50%. Belum ada tim GOOD."},
+{"id":"P5","title":"BACKTESTING","status":"SEMENTARA","text":"Ikut tim setelah moonshot: 114 koin, menang 18%, -0,7% (koin biasa +1,8%). Bundle cluster 4 wallet: pembeli rugi -42% -> hindari. Buang dev ragpul: malah lebih jelek."},
+{"id":"P6","title":"MACHINE LEARNING","status":"DIJEDA (dicoba lebih dulu)","text":"CatBoost, latih 14 Nov uji 15 Nov. Telat 2 slot: AUC 0,79, tetap rugi. Jito setelah 1 sniper: AUC 0,86, 10% teratas menang 64% +14%/trade (tip termasuk). Belum terbukti: uji 1 hari, kena aturan terlalu bagus."},
+{"id":"P7","title":"SHADOW MONITORING","status":"BELUM","text":"Menunggu tim GOOD dari P4. Butuh stream pra-blok + Jito (disetujui untuk riset). Live hanya dengan kata tegas pemilik."}
+]}
