@@ -1,0 +1,28 @@
+TEST MultiClass logloss model 0.3827 vs tebak-rata-rata 0.5023 (+23.8%)
+confusion TEST (baris = asli, kolom = tebakan MATI/SCALP/LULUS/MOON):
+  MATI  [5405, 16, 1, 0]
+  SCALP [840, 15, 0, 0]
+  LULUS [91, 2, 43, 0]
+  MOON  [9, 0, 0, 0]
+
+ATURAN DIPILIH DI VALID: skor P(tidak MATI) >= 0.5602 (top 2% valid) | exit r_tp5_sl0.15_h15 | 1/4 Kelly 12.7%
+  VALID: n 50 (censored 1) | win 44.0% | mean +11.3% | median -4.7% | mean tanpa 3 terbaik -1.6% | rata menang +67.7% | rata kalah -33.0%
+  TEST : n 79 (censored 1) | win 12.7% | mean -6.0% | median -5.8% | mean tanpa 3 terbaik -10.3% | rata menang +54.3% | rata kalah -14.8%
+  $100, 1/4 Kelly 12.7%, compounding (maks 0,2 SOL per beli): $100 -> $51 | drawdown maks 58%
+    koin yang ternyata MATI: n 18 (censored 0) | win 11.1% | mean -25.8% | median -13.5% | mean tanpa 3 terbaik -31.6% | rata menang +6.1% | rata kalah -29.8%
+    koin yang ternyata SCALP: n 15 (censored 0) | win 40.0% | mean +4.3% | median -4.2% | mean tanpa 3 terbaik -13.3% | rata menang +62.0% | rata kalah -34.1%
+    koin yang ternyata LULUS: n 46 (censored 1) | win 4.3% | mean -1.7% | median -5.7% | mean tanpa 3 terbaik -5.5% | rata menang +79.4% | rata kalah -5.4%
+    koin yang ternyata MOON: n 0 (censored 0) | win 0.0% | mean +0.0% | median +0.0% | mean tanpa 3 terbaik +0.0% | rata menang +0.0% | rata kalah -0.0%
+  blok masuk setelah lahir (dibeli): min 1 | median 4 | 90% 7 | pool 41 dari 80
+
+PEMBANDING tanpa ML (beli SEMUA koin, exit terbaik di valid r_tp0.5_sl0.15_h15):
+  VALID: n 2505 (censored 26) | win 12.3% | mean -5.5% | median -6.6% | mean tanpa 3 terbaik -6.8% | rata menang +44.3% | rata kalah -12.4%
+  TEST : n 6377 (censored 45) | win 10.8% | mean -6.8% | median -6.6% | mean tanpa 3 terbaik -6.9% | rata menang +26.8% | rata kalah -10.9%
+  semua koin TEST dgn exit aturan ML (r_tp5_sl0.15_h15): n 6365 (censored 57) | win 10.3% | mean -7.0% | median -6.6% | mean tanpa 3 terbaik -7.2% | rata menang +27.5% | rata kalah -11.0%
+
+DIAGNOSTIK (bukan strategi): exit terbaik per kelas asli di TEST
+  MATI (5422 koin): r_tp0.1_sl0.15_h15 -> n 5390 (censored 32) | win 5.9% | mean -9.3% | median -6.6% | mean tanpa 3 terbaik -9.3% | rata menang +9.6% | rata kalah -10.5%
+  SCALP (855 koin): r_tp0.3_sl0.99_h1200 -> n 854 (censored 1) | win 96.7% | mean +36.8% | median +33.8% | mean tanpa 3 terbaik +36.2% | rata menang +38.7% | rata kalah -16.9%
+  LULUS (136 koin): r_tp2_sl0.5_h1200 -> n 88 (censored 48) | win 71.6% | mean +219.3% | median +213.3% | mean tanpa 3 terbaik +205.5% | rata menang +308.8% | rata kalah -6.2%
+
+KOIN FAMILY di TEST (0 koin, daftar data/ml3/fam_known.txt): exit r_tp5_sl0.15_h15 -> n 0 (censored 0) | win 0.0% | mean +0.0% | median +0.0% | mean tanpa 3 terbaik +0.0% | rata menang +0.0% | rata kalah -0.0%
