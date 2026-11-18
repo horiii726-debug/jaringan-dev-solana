@@ -224,6 +224,7 @@ pub fn dev_history(list: &str, max_pages: u32, out: &str) -> Result<(), String> 
         let mut creates: Vec<Value> = Vec::new();
         while pages < max_pages {
             let mut o = json!({"transactionDetails": "full", "limit": 100, "encoding": "jsonParsed", "maxSupportedTransactionVersion": 1, "filters": {"status": "succeeded"}});
+            if std::env::var("JAR_ASC").is_ok() { o["sortOrder"] = json!("asc"); } // 18 Nov: oldest first (creates of busy devs)
             if let Some(t) = &token {
                 o["paginationToken"] = json!(t);
             }

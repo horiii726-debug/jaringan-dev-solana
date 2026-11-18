@@ -1,0 +1,888 @@
+RINGKASAN FAMILY (induk | wallet | koin | lulus | DexScreener | gagal | dev awal)
+A3mHfEZp | wallet 137 | koin 53 | lulus 2 | DS 1 | gagal 51 | dev 1
+w7ziqBqH | wallet 138 | koin 36 | lulus 7 | DS 3 | gagal 29 | dev 1
+6KYWqU55 | wallet 40 | koin 29 | lulus 4 | DS 3 | gagal 25 | dev 1
+NgY5zDwL | wallet 75 | koin 27 | lulus 1 | DS 1 | gagal 26 | dev 1
+FtraLaFY | wallet 8 | koin 23 | lulus 1 | DS 1 | gagal 22 | dev 1
+BRSkJtCy | wallet 27 | koin 22 | lulus 2 | DS 2 | gagal 19 | dev 1
+DxJYkGVX | wallet 8 | koin 19 | lulus 1 | DS 1 | gagal 18 | dev 1
+55B8dD8p | wallet 55 | koin 17 | lulus 1 | DS 1 | gagal 16 | dev 1
+9etB97xr | wallet 160 | koin 16 | lulus 1 | DS 1 | gagal 15 | dev 1
+2t1DmPSw | wallet 2 | koin 14 | lulus 1 | DS 2 | gagal 13 | dev 1
+HarQWjjN | wallet 16 | koin 13 | lulus 1 | DS 1 | gagal 12 | dev 1
+AH1YZod3 | wallet 15 | koin 10 | lulus 2 | DS 1 | gagal 8 | dev 1
+Cyfxw8UL | wallet 12 | koin 8 | lulus 1 | DS 1 | gagal 7 | dev 1
+5knE9TU1 | wallet 12 | koin 5 | lulus 2 | DS 2 | gagal 2 | dev 1
+CqwCdPMS | wallet 11 | koin 5 | lulus 1 | DS 1 | gagal 4 | dev 1
+F5XZHyuH | wallet 232 | koin 4 | lulus 3 | DS 3 | gagal 1 | dev 1
+Gqjsj4b6 | wallet 45 | koin 4 | lulus 1 | DS 1 | gagal 2 | dev 1
+8YaS3RMU | wallet 5 | koin 3 | lulus 2 | DS 2 | gagal 1 | dev 1
+CeycTrPZ | wallet 112 | koin 3 | lulus 2 | DS 2 | gagal 1 | dev 1
+ERLC9rxa | wallet 7 | koin 3 | lulus 2 | DS 2 | gagal 1 | dev 1
+GNgDt5Gf | wallet 133 | koin 3 | lulus 2 | DS 1 | gagal 1 | dev 1
+33eB4rf6 | wallet 25 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+3GaqEe5L | wallet 37 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+3jvjgx3i | wallet 10 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+7jq6vReJ | wallet 5 | koin 2 | lulus 1 | DS 2 | gagal 1 | dev 1
+8K7acNB8 | wallet 44 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+8d9aV5LR | wallet 11 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+AseWQadH | wallet 32 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+CMjz6eWZ | wallet 34 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+DiMEQj7R | wallet 7 | koin 2 | lulus 1 | DS 1 | gagal 1 | dev 1
+12i11k1y | wallet 16 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+2KmEY94r | wallet 33 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+2e5ykhhc | wallet 21 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+2eDPhrgW | wallet 0 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+2wA71mpu | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+2ySFpmup | wallet 3 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+33S75LTR | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+3DLpaDtk | wallet 12 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+3j5NrcnM | wallet 0 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+3sH3skEA | wallet 13 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+48bWKToV | wallet 0 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+4M3L4eWz | wallet 85 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+4NFva8Cx | wallet 0 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+4eJaKT5K | wallet 3 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+64XmKavr | wallet 5 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+6G9SjKeR | wallet 4 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+6XARUUbJ | wallet 29 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+6XXTHhhH | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+6ZZeNd1D | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+72yV1KDW | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+77JMok8F | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+7ze8qead | wallet 3 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+8DS5MBCQ | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+8eABXPpk | wallet 18 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+8nyRizUw | wallet 3 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+939b1Y9w | wallet 5 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+96JvcF7L | wallet 5 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+9fwKjxM4 | wallet 12 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+Ai9n2sNz | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+AwYdAgUo | wallet 4 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+BWpYfk5w | wallet 72 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+Bp6dazBC | wallet 15 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+Bui98JUc | wallet 7 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+C3PUPpRd | wallet 4 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+C9f3RYDh | wallet 5 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+CPG2tZBH | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+CidJj3zd | wallet 4 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+D5s7mZ4f | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+DE5ay3L1 | wallet 6 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+DN7PY5DZ | wallet 4 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+DsSUBZrs | wallet 5 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+DtkW9urQ | wallet 40 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+DtneVfUJ | wallet 5 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+DwA8ivZ1 | wallet 16 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+E1HKaZL7 | wallet 219 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+EDzwVSiM | wallet 19 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+EJQ8nDXC | wallet 49 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+EL8m4iP7 | wallet 0 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+EqSwc29h | wallet 5 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+EziVqn7A | wallet 46 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+F47Ew4Ao | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+FTSfah7L | wallet 204 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+Ffezg5sj | wallet 9 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+GD81LHEg | wallet 34 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+GDqktKSG | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+Ggnz4y26 | wallet 13 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+GkR7sLwP | wallet 93 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+Gxv1pcs8 | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+H1pVSSf1 | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+HFaZVVqQ | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+HHRF63Yd | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+HVPhTGo8 | wallet 9 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+J1XsnSXc | wallet 17 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+JDxwADe6 | wallet 2 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+KDuoAd8W | wallet 38 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+KzSx8FVA | wallet 7 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+SJ65zfYw | wallet 6 | koin 1 | lulus 1 | DS 1 | gagal 0 | dev 1
+
+=== FAMILY induk 12i11k1y1VkxQ1RoF3FjDcw9WSk3wHUgrYH6e4rEBdx1
+  ujung atas: EXCHANGE_SERVICE:F7p3dFrjRTbtRp8FRF6qHLomXbKRBzpvBLjtQcfcgmNe | wallet keluarga: 16 (ramai/tak dibuka: 12) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 55vi54w1 | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 0.3 | rantai: 55vi54w1(14tx,0.20SOL) <- 12i11k1y(161tx,0.59SOL)
+    3MG          CZiKhMmpsSC3zxTYxZufPHGCoRV8S1KZyBqEQ4oJpump | DEXSCREENER | mcap $55k | ATH - | dibuat oleh 55vi54w1 | bt 1792723948
+
+=== FAMILY induk 2KmEY94rkFWy8uUzMt35M1VypspK15ir26nV1jEpk3Ue
+  ujung atas: max_depth | wallet keluarga: 33 (ramai/tak dibuka: 3) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 8ukPQtkv | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: 8ukPQtkv(3tx,99.00SOL) <- E542AmX5(2tx,99.00SOL) <- FeEWvNDw(3tx,100.00SOL) <- DYFPaLdE(2tx,100.00SOL) <- HDcTA7MP(2tx,100.00SOL) <- SxHv47Uk(2tx,100.00SOL) <- BJUSt6Lz(2tx,100.00SOL) <- 6U6HR23b(2tx,100.00SOL) <- E9VRj4gY(5tx,100.00SOL) <- AKp1fgEM(4tx,100.00SOL) <- GRNeKbCs(5tx,7905.88SOL) <- 7MgBC8uZ(2tx,7905.88SOL) <- 4kWFwPru(2tx,7905.88SOL) <- CQy45nzr(2tx,7905.88SOL) <- 2KmEY94r(2tx,7905.88SOL)
+    USOE         XJyGXMxYZPTvb3HUp8CGssDrHQW6A7so18mH4Z5pump | DEXSCREENER | mcap $160178k | ATH - | dibuat oleh 8ukPQtkv | bt 1794889237
+
+=== FAMILY induk 2e5ykhhcXT1HiTX89uyhDPEwq3j3bjcKr4AmHxhuscxp
+  ujung atas: induk_akumulasi | wallet keluarga: 21 (ramai/tak dibuka: 10) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev GmjV59UM | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: 7.0 | rantai: GmjV59UM(10tx,0.00SOL) <- HXQefHMc(44tx,4.00SOL) <- 2e5ykhhc(11tx,0.00SOL)
+    PEARL        ZEZr9GMaP65S7a4mYMmVgxJaQGtkdpxEW4hp3UQpump | DEXSCREENER | mcap $72k | ATH - | dibuat oleh HXQefHMc | bt 1794582391
+
+=== FAMILY induk 2eDPhrgWawUZfdyEEKgC4ewDwfkruZ6vpS7u3XJB46Lm
+  ujung atas: KNOWN_LIST:ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ | wallet keluarga: 0 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 2pJQZSy5 | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 2pJQZSy5(151tx,1.01SOL) <- 2eDPhrgW(140tx,4.20SOL)
+    Clash        67CaK7YoCr6fVhWWmZ4F6hF1KBwked3ZgPWiGXpRpump | DEXSCREENER | mcap $10k | ATH - | dibuat oleh 2pJQZSy5 | bt 0
+
+=== FAMILY induk 2t1DmPSwYRc3RmLjr6u4rLLSQPRviChYUpaG8Mi8U424
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 14 | lulus: 1 | DexScreener: 2 | gagal lulus: 13 | terlalu baru (>1794964937): 0
+  dev FodHiggU | dev aktif/lama | koin oleh dev: 14 | SOL balik ke keluarga: -0.0 | rantai: FodHiggU(1047tx,4.16SOL) <- 2t1DmPSw(124tx,0.00SOL)
+    Leonida      BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump | DEXSCREENER | mcap $417k | ATH 25x dari lulus (~$748k) | dibuat oleh FodHiggU | bt 1793906941
+    TRAIN        6bYMEsNWWtioQtBqEDqdvnxnHNTNcxdnftsVHhxUTYfj | DEXSCREENER | mcap $57k | ATH - | dibuat oleh FodHiggU | bt 1794673761
+    MONA         2HzRnJKB9qTNddazGnQhX26AUkki57QyRvPbXmdbVhby | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1794923919
+    PARROT       4FS15eknCM8A9rQwhmazEcjEokMN9yoXjWjLmhp9FMK9 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1794923756
+    TRAIN        6LcYpUh7D9Ja49DRRFgoN657hF8LPQMTQfMfkVmRyLcz | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1794673550
+    PARROT       72j7LP1zbJ1KWiHD2QPg3jGLJaMkw1BzKnCbxhnSig1T | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1794923711
+    TRAIN        97WUd7HUK8oipnKtqNq6pY7ffh4N8KzgctnHPHKvNV7m | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1794673618
+    BBC          BM55cCeQYSPcquVWYz2kQ6AARqMHvWDEYZMGcQ2fYJa8 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1793903023
+    BUBBA        DoZdfSRvJHPua8SzVCriXxjEwVFJec2EgKuLY9XPpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1794900289
+    JASON        E5oM75og4X8M53c15f7CxR8V6rZuTzAb9h1nEPGm4r65 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1793914004
+    TRAIN        GtoV3SXDJkxuMM2KnoT73v9XbibbVFpnC4JiDH2aadm7 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1794673424
+    SSS          HS9nnitPsqrFC744rDxFqN3cKEvzogKmgCbLiJfF44Zu | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1793903525
+    Richbl4ckm   NuTnuQZgyAeLMpMNeyQzHPYm9oHi6VFcWvBiS5Ypump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1793902522
+    $Leonida     Y8ixzitqYvNRKEFF7oAeH4zW5tYskfu2M9pnGHXpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FodHiggU | bt 1793906831
+
+=== FAMILY induk 2wA71mpu95J4vZNJ7xbPWLJyZKRSP5YEFniWsWUGxTdg
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 2qpXFLZ1 | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 2qpXFLZ1(223tx,3.01SOL) <- 2wA71mpu(9tx,3.50SOL)
+    files        4eiNbSrXgtbeuBSvyKLvZjZB1NTz1DsLrUrHXS3Npump | DEXSCREENER | mcap $33k | ATH - | dibuat oleh 2wA71mpu | bt 1794151242
+
+=== FAMILY induk 2ySFpmupCKbqvpcNZUJRhAXSvXCqfJvPVhmzWWQhYKbY
+  ujung atas: induk_akumulasi | wallet keluarga: 3 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev CsmUGt9R | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 160.3 | rantai: CsmUGt9R(124tx,20.00SOL) <- 2ySFpmup(1tx,0.00SOL)
+    YILONGMA     GU5NkUVLzmJQxJKuho5dG4d1owChpcSQnhARrjYQpump | DEXSCREENER | mcap $17k | ATH - | dibuat oleh CsmUGt9R | bt 1791885885
+
+=== FAMILY induk 33S75LTR4bPiavGdmJVSnSvcCEVZL23DtV8MM61uX8Hj
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 4AAcHT9L | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 4AAcHT9L(2517tx,2.96SOL) <- 33S75LTR(1669tx,0.00SOL)
+    worth        7mH4PaR9BMxAid2i1QNDBmziAwxyXBsPNKSMiWySpump | DEXSCREENER | mcap $71k | ATH - | dibuat oleh 4AAcHT9L | bt 0
+
+=== FAMILY induk 33eB4rf6Y2519sdyLrMoFebUJ36eR8H8yqKmbSeKmM8r
+  ujung atas: KNOWN_LIST:AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS | wallet keluarga: 25 (ramai/tak dibuka: 20) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev GEdo1BUD | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: GEdo1BUD(1152tx,1.51SOL) <- 33eB4rf6(1679tx,1.24SOL)
+    ABORTMAS     BmgFFq39ahs65CWDsSS6RWnJ2FRMrHwcvykRVXzRpump | DEXSCREENER | mcap $30k | ATH - | dibuat oleh 33eB4rf6 | bt 1791234203
+    Flockwork    8pTfdWs5xkaJU8NJH2onxXp7XWmq4RGVt1cEj8gvpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 33eB4rf6 | bt 1791088100
+
+=== FAMILY induk 3DLpaDtkL6d9P4NGw648Hjz5xCxshLR74Hi25wYsXhB7
+  ujung atas: max_depth | wallet keluarga: 12 (ramai/tak dibuka: 2) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev FrPxt753 | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: FrPxt753(671tx,100.00SOL) <- HQ6BFwCE(2tx,100.00SOL) <- DgguWTUD(3tx,7128.38SOL) <- 668AhTMR(2tx,7128.38SOL) <- 637dXooP(2tx,7128.38SOL) <- B9ezfB5b(2tx,7128.38SOL) <- 7s9N2Nv4(609tx,1570.17SOL) <- 3hjcnMvQ(2tx,1570.17SOL) <- J2xHJ47M(4tx,7370.17SOL) <- 6zFjrdFb(2tx,7370.17SOL) <- DmnETquC(2tx,7370.17SOL) <- 6C35xwfv(2tx,7370.17SOL) <- 6SBzr8fZ(2tx,7370.17SOL) <- 3oVrXQGx(2tx,7370.17SOL) <- 3DLpaDtk(2tx,7370.17SOL)
+    UDTF         jQVZ6DiJnZGTmLy8ReL8CTfB7CK5JwBwGCTVCVgpump | DEXSCREENER | mcap $129723k | ATH - | dibuat oleh FrPxt753 | bt 1794928224
+
+=== FAMILY induk 3GaqEe5Ly3tBBtUdYL6wvfZxyFtB6LXcj5HcFbLo9Dnf
+  ujung atas: EXCHANGE_SERVICE:F7p3dFrjRTbtRp8FRF6qHLomXbKRBzpvBLjtQcfcgmNe | wallet keluarga: 37 (ramai/tak dibuka: 7) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev F8Re5ct1 | PERANTARA (wallet sekali pakai) | koin oleh dev: 3 | SOL balik ke keluarga: -0.0 | rantai: F8Re5ct1(293tx,0.62SOL) <- Ej3Cc4eu(8tx,9.60SOL) <- 3GaqEe5L(32tx,77.72SOL)
+    ELEVEN       6ufeVaW78uhhTVRgk16ruB7GbPJn7X4Tzdi9487ppump | DEXSCREENER | mcap $367k | ATH 21x dari lulus (~$610k) | dibuat oleh F8Re5ct1 | bt 1793234361
+    SunCity      FeVVf23ut1EobamxqfFhLUioUEPb2n6T384XWC4qpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh F8Re5ct1 | bt 1793237880
+
+=== FAMILY induk 3j5NrcnM9ZgLf7z9LaBiywUYpfEezqXTGHySx9yENw9W
+  ujung atas: KNOWN_LIST:u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w | wallet keluarga: 0 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 9WivGEKj | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 9WivGEKj(13tx,4.91SOL) <- 3j5NrcnM(1674tx,5.90SOL)
+    ARNOLD       nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump | DEXSCREENER | mcap $10k | ATH - | dibuat oleh 9WivGEKj | bt 0
+
+=== FAMILY induk 3jvjgx3ikpNPh8WY5CifMaB38M8fBsqKayMdN5EZAoZf
+  ujung atas: KNOWN_LIST:Biw4eeaiYYYq6xSqEd7GzdwsrrndxA8mqdxfAtG3PTUU | wallet keluarga: 10 (ramai/tak dibuka: 5) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev GjsoJfUi | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: GjsoJfUi(1121tx,0.04SOL) <- 8pxcrCkb(232tx,0.10SOL) <- 3jvjgx3i(178tx,0.23SOL)
+    LARPCHECK    t9bnCGiZVUYsRKvx4d5dPcoDCSyuBM9C33ZNGNULARP | DEXSCREENER | mcap $80k | ATH - | dibuat oleh 8pxcrCkb | bt 1791479739
+    BURGERINU    DmKz3pxcVjeM1TXpXGek6nK7gYunbCqgx1yBhdZNAuFf | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 7A4CMvmh | bt 1790944995
+
+=== FAMILY induk 3sH3skEAowaRvNetywjuBGjJE1k6HeEsoxRQxbWAY8U7
+  ujung atas: induk_akumulasi | wallet keluarga: 13 (ramai/tak dibuka: 2) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 6ZGRbLpf | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 5.3 | rantai: 6ZGRbLpf(26tx,0.02SOL) <- HmXtV2z6(5tx,0.01SOL) <- E4RPxsLN(5tx,0.01SOL) <- HXLsfmDQ(5tx,0.01SOL) <- GdTg3KKf(2tx,0.02SOL) <- ChThJKA6(12tx,0.01SOL) <- FRJaraPV(2tx,0.01SOL) <- Cs93SjsV(2tx,0.01SOL) <- HvfnVd2a(2tx,0.23SOL) <- EePcCGQ7(1322tx,19.83SOL) <- 3sH3skEA(172tx,0.00SOL)
+    USOF         5XkgM2UVFd5a5yLDq6W6FMXnRR7NyUbiHhBarF28pump | DEXSCREENER | mcap $15k | ATH - | dibuat oleh 6ZGRbLpf | bt 1791375585
+
+=== FAMILY induk 48bWKToVfyeMt167Crmh5qxGrJsSpYgXzqtogWkabvMC
+  ujung atas: EXCHANGE_SERVICE:FHpcNSe6tb2n15bAdq4BkeYWGyZKFD7yLYrH92ng7wCT | wallet keluarga: 0 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 3weV9XQn | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 3weV9XQn(221tx,0.38SOL) <- 48bWKToV(1452tx,0.02SOL)
+    BI           6AJASJJi16YncPgRofq5Evixk7Ws2ardShBnPArtpump | DEXSCREENER | mcap $10k | ATH - | dibuat oleh 3weV9XQn | bt 0
+
+=== FAMILY induk 4M3L4eWzFZ7DZbA6Eq3NbPcioqXMwL4cnGjiXzKwg3pG
+  ujung atas: induk_akumulasi | wallet keluarga: 85 (ramai/tak dibuka: 77) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev ACYcvPeR | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: 15.5 | rantai: ACYcvPeR(291tx,1.10SOL) <- 4M3L4eWz(1093tx,0.00SOL)
+    Neighbors    33fBYettXQYZtf4gKRjb29SarVw3PXttJ4PtiyFVpump | DEXSCREENER | mcap $13k | ATH - | dibuat oleh ACYcvPeR | bt 0
+
+=== FAMILY induk 4NFva8CxRMDb9PByjBoNhgNTAHV8JE4NMbBcPkNJ6F1P
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 0 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 721b5WEc | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 721b5WEc(487tx,0.76SOL) <- 3GngDNPK(2391tx,0.00SOL) <- 4NFva8Cx(30tx,1.93SOL)
+    攀豹豹          6ZbWPYxFf8XyQ6dncrPAef1yz4W9nRF6rX3CYuE7pump | DEXSCREENER | mcap $11k | ATH - | dibuat oleh 721b5WEc | bt 0
+
+=== FAMILY induk 4eJaKT5Kz5x6efAJCBSsJYYpqSVYwkbux5Q3aQDBczbT
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 3 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev FvUe91vs | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: FvUe91vs(40tx,0.01SOL) <- FpbCoK8F(8tx,2.20SOL) <- 4eJaKT5K(3tx,2.33SOL)
+    WORLDCRAFT   6ErRss728CstWJD9wHNeVEdVmKncYMRpsWHKLbxopump | DEXSCREENER | mcap $16k | ATH - | dibuat oleh FpbCoK8F | bt 1794861140
+
+=== FAMILY induk 55B8dD8pGSKbQGHGUW6n5dkV7FDeHRAukBx3Z3xaCMEr
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 55 (ramai/tak dibuka: 44) | koin dibuat: 17 | lulus: 1 | DexScreener: 1 | gagal lulus: 16 | terlalu baru (>1794964937): 0
+  dev Dk7jvNaV | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: 7.6 | rantai: Dk7jvNaV(272tx,0.40SOL) <- 4BZ14vej(535tx,0.00SOL) <- 55B8dD8p(5tx,0.59SOL)
+    hamster      2wFebWh1YQMRDmEZmWA5gCEzjWz1V8fPbQvfPv1Jpump | DEXSCREENER | mcap $41k | ATH - | dibuat oleh 55B8dD8p | bt 1794953643
+    WIF          2GUN8Eb4jUS12ERYVpYZFk32GhNnkFFRGf4x8JAPpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1792912481
+    JEYZEE       414ZRhakfwenH4ro5CeKA4631AAZoei8TVFnhTo1pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793066227
+    LOOOONGCAT   5RSRksNm88JpWKJiVuxFEd9Qriqjb6YBjuc95mbbpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793212599
+    LOOONGCAT    5V8KYsiFc9ovxo9dW2T2DjkqRcFrBjKmMwrTEf37pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793247936
+    LONGCAT      5bN7sBWn4wS1xkJT8hihvbi3QWoQZzAd4QKvKjoMpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793420835
+    Buckazoid    9Lq8U9ekDsE1ukw2jQk4vZamFavxrMZ63epvSQrUpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793132088
+    BABYDRONE    9h6P5c9V1JDhLVF3k8gVZAyERt6cpygXcguC9qs7pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1792974524
+    CHINU        ATP26Hu2isFivTD3RA8ZtZwn3wH2wSZuekwk4LzRpair | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793135199
+    JEYZEE       BTj7ZEZ1yEDtGRJdCp1ywQM4Rx22YQua7g6XH1LCpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793066313
+    DRONE        BeK8xTv4uwy7WvnpSt9HzCS9hk4rjWGf3iEqVrV9pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793156891
+    Drugcoin     Bod62yB2MNNgygj8csNNSdGYS5mN3KT7stdb73btpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793402786
+    ZIP-ZAP      CdcDM3TmC4fDG5ePcDyE4mMGhrGmMn7ggLKmptzTpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1792903076
+    SAT          DqVFCGF6jQXjXz4XXM2cLPPR2ziNgJkYCz2K6QMepump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1792910635
+    Peptides     DsAAJDtRKm4D98cqFxwFaSAauHSbFfgzeRVGPupcpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793402948
+    SAT          Qt59m8AAV477K8DVvfWg9C69asDKLFX52zQQKHdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1793131770
+    Bitcat       c2zMBGbywnXAwkfhAXJovUC3BrSi1PTU48aqg9Mpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ap5T2gM | bt 1792902851
+
+=== FAMILY induk 5knE9TU1o2k6YHCYU3yi5Wz4x2KnMsvMkc5WJckqB4zF
+  ujung atas: induk_akumulasi | wallet keluarga: 12 (ramai/tak dibuka: 5) | koin dibuat: 5 | lulus: 2 | DexScreener: 2 | gagal lulus: 2 | terlalu baru (>1794964937): 1
+  dev FPuHuMDT | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: FPuHuMDT(380tx,11.01SOL) <- 5knE9TU1(226tx,0.01SOL)
+    CROW         GtV6g1ey2NERrcbvL5bdzrxRJQDfxpMaLU9oLtRipump | DEXSCREENER | mcap $31k | ATH - | dibuat oleh 5knE9TU1 | bt 1790863180
+    SCARECROW    Dm7uQVngPSs82eWfVnx3rb7hbqoDb6f2E455R783pump | DEXSCREENER | mcap $7k | ATH - | dibuat oleh 5knE9TU1 | bt 1793545210
+    test         41brJiocaxdSzrQDqNZYtHipJhkhwhHviytpzTz5pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2RZ5tJA8 | bt 1793244072
+    TEST         G9wFDzb5Vk3ar6Rv452G9Mv7PnUUvJPaz3kpQcZXcrow | baru (belum dinilai) | mcap $0k | ATH - | dibuat oleh RxPr68YL | bt 1794982882
+    test         HG3JwX35j6fxEiaaSCqYFF97p6o5Y67mJf4Ej4f8pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2RZ5tJA8 | bt 1791853842
+
+=== FAMILY induk 64XmKavrofPA2CZbjCXhyZ5rZ5rutxMe2oFas3eZqVZx
+  ujung atas: EXCHANGE_SERVICE:5dxvr2A9TwMs1gnQ7gCpYiem9ArtcqmnuKHF76Yr2mT6 | wallet keluarga: 5 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev HDxACpfs | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: HDxACpfs(746tx,95.00SOL) <- 5hKCxx3N(2tx,95.00SOL) <- 91WmqcV7(2tx,95.00SOL) <- 3oUn9LdC(2tx,95.00SOL) <- 64XmKavr(2tx,95.00SOL)
+    VTC          DngzJTHeVRD7JftRLQFCcdW9UvKL1n9hhyoc8ojEpump | DEXSCREENER | mcap $283989k | ATH - | dibuat oleh HDxACpfs | bt 1794884274
+
+=== FAMILY induk 6G9SjKeRPoPMsDCbCyAdocqSkjZubV1BCnJFmpAzDBUp
+  ujung atas: KNOWN_LIST:ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ | wallet keluarga: 4 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 25Kfcc7V | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 0.1 | rantai: 25Kfcc7V(117tx,0.05SOL) <- Dbp5yqxh(4tx,0.00SOL) <- 6G9SjKeR(5tx,0.10SOL)
+    CASSO        4GMG7T7HvXhsYYTDHP9n1qT7jWiyaZky4jxSSwH7pump | DEXSCREENER | mcap $37k | ATH - | dibuat oleh 25Kfcc7V | bt 1793831563
+
+=== FAMILY induk 6KYWqU554sjddq58R5ZQDrNdWXZ4THAA9W6vHxWmcWzB
+  ujung atas: induk_akumulasi | wallet keluarga: 40 (ramai/tak dibuka: 17) | koin dibuat: 29 | lulus: 4 | DexScreener: 3 | gagal lulus: 25 | terlalu baru (>1794964937): 0
+  dev 7ubEhFxj | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 16.5 | rantai: 7ubEhFxj(208tx,1.00SOL) <- 6KYWqU55(370tx,0.29SOL)
+    PUNCH        8HJY9GTiEGgPoUAs3YSRiwLUukZKhKcH1ngqLB8qcBxx | DEXSCREENER | mcap $21k | ATH - | dibuat oleh 7ubEhFxj | bt 1790882650
+    BNICE        CNfzT1Ha63GTeJ99N9ii73HzCwyLUTXj3mbiwCyvtZD3 | DEXSCREENER | mcap $3k | ATH - | dibuat oleh 5ZQSdB2d | bt 1792329494
+    POKE         Cy3bFG4L4ZjZydoV7Ak4QRihRR1PZCNBjsMqgs9upKQR | DEXSCREENER | mcap $1k | ATH - | dibuat oleh HEULreCe | bt 1794440097
+    KOLD         28HAKf9tDP9Kr55ahDe1kNDXCVvpRssmFLthMUGXyDmE | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8LjUgre7 | bt 1793111062
+    NOBUY        29krNcmg9Kbv1VMYwCR7MmgXuk6WvPPLJisCn178wz3P | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1792104435
+    NOBUY        2FPFzRZogJUpXAMwaBNVD4pcYPLj2pJbZq81MZBPweNw | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1792087488
+    KIMCHI       2bq5PV8JhiPRsaPdcipg1MZAX9xDDJa8kxcaVcAiT7F9 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1792707939
+    LUNCH        2ph8Z9FB9tr51iBQgEp8h6zsYuMFYbfWuZi1WYUGvL3G | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6KYWqU55 | bt 1793049637
+    PUNCHIT      3cgA9NeXxH5MYPTwqwFDzaYA2EtjNdMobQEe9XVN2pgY | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1793028406
+    HEADS        4Chhu9xMVJ4W6j2ZkFjbKpn2pHEVovzTfDGgBjKoYDj7 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 7YqaUfqM | bt 1792009361
+    BROUGE       4wkNF7f4YBin6b3ypxpNPnBRJtxEX7oHtnFr4o9cNBjs | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1792556639
+    ACHOO        5Rs8jY91eo5ybPd6XSsnmt2TcLVrz5T2Q823MmUhe24M | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1793155084
+    TAILS        5bkSWhz5Gwfg9EfrmnYscpyp3yL1PrkDGHYprku5YVoj | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 7YqaUfqM | bt 1792009361
+    SNIPE        7R2iodufr5e7q39Hkmaa69DTso5vsdu5hBHvQQCN8faW | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1793545871
+    TESTPI       7XEj7sBiQUMGjWHBQdjMiLUPvydwYdyYUX6EWMDa18Cu | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1793033108
+    CREAM        B2WCxWps69JzPMfjXE4MKpMkgiTgLcat1JGGpYzpXVjX | lulus, hilang | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1791223803
+    90DAYS       BKwMss6JAem5GsKZjHB7KhHQZe3ztZf2RDVmoMU4jHks | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1793242598
+    IBTC         BgzUqDbEtr4Xn7ByAYgdeNjigdYZUCoTK2GuneRB8ntE | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8LjUgre7 | bt 1793926321
+    NOBUY        Bxq6goCavMuEX3YUbZ7sxjXzib1GowvFuyWDuyhdszPR | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1792103909
+    HUGE         CdBSMazrbDErAoKzXQaEXfHLX5hzsGyWjAAZjWt82gy8 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1793749318
+    GREATPUMP    EH1AT7PGH3zWkH9yio7cbrAAC1YpDXHej3GhBvYjcxxN | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1793459487
+    GUITAR       F2vgsmDb5VjB9X3S66Py4gLqfCndsAnD3QesixPhQQzi | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1791555276
+    BSHOT        FLtPUw5FQV4aCV1CmsmFZYZYwQfsgbVJt1Ljb8ADTkEj | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1793322506
+    HcnuP        FZZRpTHXv8JLEuLhjqhoQkQYxYXGfGF3XSNvJsVkpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DMTvgo5v | bt 1794448747
+    VHIVE        FcmESXxLVG8RTz7sw6WQmM2kYbAfmPnqYc1nG2LTTJCx | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1792336098
+    BREW         GAaRCvuWJt1MPxdX5MF4rapWYnXgoJZ3uMqEEhhfmyWw | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HEULreCe | bt 1793158844
+    2PIZZAS      HM2UWpWhK9KV9paPr5ELAYE6dAiJ71YETuQemTU7cQ5B | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1791678756
+    RIDEPEPE     HYAtJzn1j7VdSEWdJNQHgkvZMmR9M1c3JeWA9Yu5t62d | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6KYWqU55 | bt 1793501120
+    SIMPLE       HxK61x1QKQb17HCbBZQWM4LPVVSwH1Szm5vBmHcq5bPr | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5ZQSdB2d | bt 1793332149
+
+=== FAMILY induk 6XARUUbJc2cCk4VcnPXuWfENB3DtEZecH2oiB6SDCqM6
+  ujung atas: induk_akumulasi | wallet keluarga: 29 (ramai/tak dibuka: 11) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev pyrGirKy | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: pyrGirKy(1271tx,110.85SOL) <- 2R5MxiMA(2tx,110.85SOL) <- 47GuoESj(54tx,310.85SOL) <- 5vEYvyjg(2tx,310.85SOL) <- 3CVZtnmc(4tx,1310.85SOL) <- 3QwjDXCN(2tx,1310.85SOL) <- GMmegi95(145tx,1312.28SOL) <- CvKcS5FK(2tx,1312.28SOL) <- 6XARUUbJ(292tx,0.01SOL)
+    COGE         ATWR4SqMvGaj1tz94DuK2fWDtdf4nEHS6XPkxDmpump | DEXSCREENER | mcap $3577k | ATH 119x dari lulus (~$3592k) | dibuat oleh pyrGirKy | bt 1794913084
+
+=== FAMILY induk 6XXTHhhH8iEth4H1k93NJYUdZWdb6Qq3gSHrTxWBqrfe
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev EmpDRUAs | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: EmpDRUAs(256tx,0.50SOL) <- 6XXTHhhH(1389tx,9.00SOL)
+    WOJAK        9Bn4iAbrYEj5xL2Y2Fq2LPeXtd6fryra1ftjBYJMpump | DEXSCREENER | mcap $14k | ATH - | dibuat oleh EmpDRUAs | bt 0
+
+=== FAMILY induk 6ZZeNd1DqCXopZXiDpeH8nV6FPLeATzFY4nc11Ta3eDu
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 5CBxn2Tm | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 5CBxn2Tm(998tx,1.17SOL) <- 6ZZeNd1D(1337tx,0.00SOL)
+    Huss         CUg7AzWL5p8imZVqqdjEPgRhUsXAkBMW5JxkSJ9fpump | DEXSCREENER | mcap $75k | ATH - | dibuat oleh 5CBxn2Tm | bt 0
+
+=== FAMILY induk 72yV1KDWFixhx3MKuRSXpg3R2DExhC8rGV2FEeNPT2P6
+  ujung atas: EXCHANGE_SERVICE:D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev CesnW4Bz | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: CesnW4Bz(828tx,1.01SOL) <- 72yV1KDW(14tx,1.30SOL)
+    OTCity       6XmLjA6vMheTT4HkiXXAV1PyNPoTRjWphrVjVSFa5E5o | DEXSCREENER | mcap $25k | ATH - | dibuat oleh 72yV1KDW | bt 1793583008
+
+=== FAMILY induk 77JMok8FvXB4YMkqG3KYcmTa3FzrHMgtHfPb3CBAhjpP
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 5Mo3MzVz | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 5Mo3MzVz(510tx,1.27SOL) <- 77JMok8F(1174tx,0.00SOL)
+    Krillion     7zV4gfwUj31GRAnHBmW1hNx5sfHRBMeA9yAgsxt3pump | DEXSCREENER | mcap $37k | ATH - | dibuat oleh 5Mo3MzVz | bt 0
+
+=== FAMILY induk 7jq6vReJ3FmwBuDhUxxzYdUTvW51LwRrjBH98eRHgrGB
+  ujung atas: induk_akumulasi | wallet keluarga: 5 (ramai/tak dibuka: 3) | koin dibuat: 2 | lulus: 1 | DexScreener: 2 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev HBSQFcW6 | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: 0.5 | rantai: HBSQFcW6(395tx,0.24SOL) <- FUz1WLJy(817tx,0.00SOL) <- J7cFUBNj(655tx,18.26SOL) <- 5cgMMqbQ(2tx,18.26SOL) <- 7jq6vReJ(18tx,0.00SOL)
+    RUGRIOT      EWuKfiF8mQFo4YWtKbALzyFtYMhxePjs1HJ4eCG9pump | DEXSCREENER | mcap $428k | ATH 16x dari lulus (~$461k) | dibuat oleh J7cFUBNj | bt 1791478117
+    RiotDegen    32tfZ7z9fwLEv2ReyjpmMqH4MuFTpjACBCEaP8VLpump | DEXSCREENER | mcap $141k | ATH - | dibuat oleh J7cFUBNj | bt 1794427883
+
+=== FAMILY induk 7ze8qead8tQiYSN7ocL7dZdqpKJeS9EthKfe1KfErZfV
+  ujung atas: KNOWN_LIST:6LY1JzAFVZsP2a2xKrtU6znQMQ5h4i7tocWdgrkZzkzF | wallet keluarga: 3 (ramai/tak dibuka: 2) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 6xHpmEvm | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 6xHpmEvm(1292tx,0.90SOL) <- 7DsDPMzv(2072tx,0.00SOL) <- 7ze8qead(601tx,3.20SOL)
+    KIM          2tKjPFvzeWqBmmxjtGBb3zfb8zfFVePjpBhHbE2epump | DEXSCREENER | mcap $59k | ATH - | dibuat oleh 7ze8qead | bt 1794960668
+
+=== FAMILY induk 8DS5MBCQAkFT7fHxGMharovoGwQ3GiQkJJw7iugAMnuU
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 97KURDao | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 97KURDao(465tx,1.51SOL) <- 8DS5MBCQ(930tx,0.00SOL)
+    nma          Fvv62MhgjrXpvXmKcLci2HoiCAxFmSkUm1Niamvipump | DEXSCREENER | mcap $21k | ATH - | dibuat oleh 97KURDao | bt 0
+
+=== FAMILY induk 8K7acNB8rubHNfqoMyF4v8pKkzxwmZ4qJWZBQJ5QSXCH
+  ujung atas: EXCHANGE_SERVICE:5ndLnEYqSFiA5yUFHo6LVZ1eWc6Rhh11K5CfJNkoHEPs | wallet keluarga: 44 (ramai/tak dibuka: 18) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev J3zU1KPL | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: J3zU1KPL(283tx,0.01SOL) <- J3ndnkKz(175tx,2.70SOL) <- 8K7acNB8(186tx,13.92SOL)
+    ROULANA      ttH5rJWVxCFBdjd3x2AnBxtYDJtRCFa9ty4QpmUpump | DEXSCREENER | mcap $17k | ATH - | dibuat oleh J3ndnkKz | bt 1791907200
+    PLAGUE       5BRAMrUGPY6XU6BgkDxP3fP92Y5KxiqtWjUQgdqdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh B1rBWqbN | bt 1791778356
+
+=== FAMILY induk 8YaS3RMUjXWrEbMnpFQ5pcmWYrVhqLePF3GprexA85jw
+  ujung atas: induk_akumulasi | wallet keluarga: 5 (ramai/tak dibuka: 2) | koin dibuat: 3 | lulus: 2 | DexScreener: 2 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev BkJaLZ24 | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: BkJaLZ24(1628tx,100.00SOL) <- AhgDWLpu(4tx,100.00SOL) <- 8YaS3RMU(1686tx,0.00SOL)
+    UDTF         hPQpJNrG4XGiFr2SgzCy1EMbUdgdgwj78a6tmhHpump | DEXSCREENER | mcap $17695k | ATH - | dibuat oleh BkJaLZ24 | bt 0
+    EXEN         yRF87PH1NUedLxfMDjXxNxEvMdv8JWXjPxZLnV2pump | DEXSCREENER | mcap $2k | ATH - | dibuat oleh BkJaLZ24 | bt 1794792914
+    AOTF         vADAuKfnEg3XFvx3P2pmdc1376iuBTApdN4hwrjpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8YaS3RMU | bt 1794529813
+
+=== FAMILY induk 8d9aV5LRyFV17xm3EBhaWbXv6vYMF8AerZCPPCN3EAGj
+  ujung atas: induk_akumulasi | wallet keluarga: 11 (ramai/tak dibuka: 8) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev CJiNnmBY | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: CJiNnmBY(533tx,0.05SOL) <- 64rq3riw(2121tx,1.00SOL) <- 8d9aV5LR(1619tx,0.05SOL)
+    EPYH         ABkr21iDncsKabf4CVfXuvkUjCWQkJszGyASL9M7pump | DEXSCREENER | mcap $13k | ATH - | dibuat oleh CJiNnmBY | bt 0
+    PINO         61o5Uzgs5E5S7xziDCpdQcg4WpnfxzXbkJwpPhgk74fv | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8d9aV5LR | bt 1794658061
+
+=== FAMILY induk 8eABXPpkRnxQJqnRDS7UxuFDffaqZ2fjcCJh1FAZtuNS
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 18 (ramai/tak dibuka: 12) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 7ASSp5zL | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: 0.4 | rantai: 7ASSp5zL(1495tx,0.28SOL) <- 5mvJtHW9(2597tx,0.00SOL) <- DUithAMc(17tx,3.21SOL) <- 7AcuaUaa(2tx,3.21SOL) <- 8eABXPpk(2tx,3.21SOL)
+    Anne         5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump | DEXSCREENER | mcap $25k | ATH - | dibuat oleh DUithAMc | bt 1794650427
+
+=== FAMILY induk 8nyRizUwUqmbqVVKfts22rgS46fAhhxEZeKnfio2Zhgp
+  ujung atas: EXCHANGE_SERVICE:2UPzAimP45QrxJbp5GvxtGYSgdQ1yxYemL6oZrTgMt4s | wallet keluarga: 3 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 4soRa5SM | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 6.9 | rantai: 4soRa5SM(37tx,21.08SOL) <- 8nyRizUw(4tx,21.08SOL)
+    Christmax    D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump | DEXSCREENER | mcap $190k | ATH 11x dari lulus (~$315k) | dibuat oleh 4soRa5SM | bt 1794521787
+
+=== FAMILY induk 939b1Y9wPp1JjF3xmDxHzqZ8rzMenNamuDcc9Rh8ttfB
+  ujung atas: EXCHANGE_SERVICE:5dxvr2A9TwMs1gnQ7gCpYiem9ArtcqmnuKHF76Yr2mT6 | wallet keluarga: 5 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev BZUzeLCK | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: BZUzeLCK(745tx,100.00SOL) <- 82ormnid(2tx,100.00SOL) <- GLuZTKNo(2tx,100.00SOL) <- CQMFww3J(2tx,100.00SOL) <- 939b1Y9w(2tx,100.00SOL)
+    EXEN         DqjcmC1XDqHwXBsDvug7T5XuZaJH4MEQSgCB9u3spump | DEXSCREENER | mcap $16944k | ATH - | dibuat oleh BZUzeLCK | bt 1794783907
+
+=== FAMILY induk 96JvcF7LSHFH7XCMBRXBMRZwZMUM7JPR3rgY7znP22eo
+  ujung atas: EXCHANGE_SERVICE:5dxvr2A9TwMs1gnQ7gCpYiem9ArtcqmnuKHF76Yr2mT6 | wallet keluarga: 5 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev FrKGhL2z | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: FrKGhL2z(744tx,100.00SOL) <- 6Ajx7YyJ(2tx,100.00SOL) <- AgVnSfL7(2tx,100.00SOL) <- A3R1858c(2tx,100.00SOL) <- 96JvcF7L(2tx,100.00SOL)
+    GTA6         A4BeFbdjGNK2KCHmyNQ3fLBSGcbSK6AKr37pEqBxpump | DEXSCREENER | mcap $4277k | ATH 156x dari lulus (~$4277k) | dibuat oleh FrKGhL2z | bt 1794927596
+
+=== FAMILY induk 9etB97xrbiDk37UWe67fwXzXLgNaTUSUKUqSggpfUVGh
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 160 (ramai/tak dibuka: 1) | koin dibuat: 16 | lulus: 1 | DexScreener: 1 | gagal lulus: 15 | terlalu baru (>1794964937): 0
+  dev 4Kpxvt1D | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 19.0 | rantai: 4Kpxvt1D(62tx,0.05SOL) <- FmFCCf6h(5tx,0.01SOL) <- CSMhkbik(5tx,0.01SOL) <- j1kQPLC4(5tx,0.01SOL) <- Dzfy2q7e(2tx,0.05SOL) <- AZ9nAC14(12tx,0.03SOL) <- 74DJpFwm(2tx,0.03SOL) <- 49BobmD2(2tx,0.03SOL) <- DQsrcf2R(2tx,0.50SOL) <- tbUctWdJ(139tx,268.65SOL) <- 9etB97xr(3tx,268.65SOL)
+    SHARKBUX     ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v | DEXSCREENER | mcap $15k | ATH - | dibuat oleh 4Kpxvt1D | bt 1794526371
+    IGNITE       2ShfqA2iLmQ5f77dEYAszSVXDppfn5XBKob9CL3rpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794779703
+    PUMPAI       4iSEZDQytszevz83ioEw7UXAHQbpPhmPCqCoK3fcpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1791997648
+    ignite       5cbJyirbwk2DKBG5S2a6ZTnMsozfkQ3hYfZyZjt1pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794781201
+    CRTX         6WBhqBAmum9RgEoWTP1PZjULm5odWwa8imWqc3sJpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794347867
+    NVAI         6b75yzSFm5G1NCVMEcU2unw5qrF7tEh3XeRgKuc1pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794435170
+    NOVA         7qTCVfXh7bA2RPwX2jcFegH7vb1dNidSZqst5WNdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794434813
+    CTAI         8ea97WZj3MBHrgGm9aPWz3UMaz7LV2ZdxoPBfUCdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794348969
+    CORTEX       9dLihKRT39EXYekdfHng8p5HUaVpDWcdUTrL68ywpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794349680
+    AAI          AzrBp6T7zDKnPAhPKkWHrw9FiVCqRhfBphS32MtZpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1792270909
+    PLAI         BWhaCRwG1rFcaiNvaSFxb5bep5yjQST9bzcabtUEpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794867868
+    IGFUN        DBkCMZxJQtizbjSbuzpeMpJqdVdHCzhJbKFSsuZtpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794780486
+    VYRA         FHe3pcTjwDBfsU8KfvKchHDbF5cbBmTc1dSrLYJGpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794426909
+    NOVA         FYTebcGMLwtdtkT91kHKW8otktaZsz1evxbs3viGpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794434515
+    PLSX         HFG7Ad17NbH4FWn4FTgDbEhJDkZgP1GN4TZoRu1pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794866450
+    PULSE        J1e6FaaUAhXfwhrkAxD25WeqduCdETvBma9wPpPppump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HfgvoCNC | bt 1794867299
+
+=== FAMILY induk 9fwKjxM4xDjoCdtdLBGSjSh24YmGBE9H2Qo27cSYyjq7
+  ujung atas: EXCHANGE:GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE | wallet keluarga: 12 (ramai/tak dibuka: 4) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 64bWLYjP | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 0.4 | rantai: 64bWLYjP(81tx,0.02SOL) <- B2LjyBDU(2tx,0.02SOL) <- F3Rk9Mqm(2439tx,0.15SOL) <- 9fwKjxM4(117tx,0.15SOL)
+    BIS          62ko9prPCoRFPYGpe7gTRop7fZGQspEn8YbJAYgdpump | DEXSCREENER | mcap $55k | ATH - | dibuat oleh 64bWLYjP | bt 1791039697
+
+=== FAMILY induk A3mHfEZp3zLf3Q5SschZ2tawZ6w2dwZBjtMmqjX5V3fe
+  ujung atas: KNOWN_LIST:BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6 | wallet keluarga: 137 (ramai/tak dibuka: 28) | koin dibuat: 53 | lulus: 2 | DexScreener: 1 | gagal lulus: 51 | terlalu baru (>1794964937): 0
+  dev 9RwYLMjR | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 9RwYLMjR(650tx,0.15SOL) <- BD1x4Tr5(399tx,0.03SOL) <- BGsNabL6(5tx,0.01SOL) <- EtTgAZej(5tx,0.01SOL) <- C4wWvPcQ(5tx,0.01SOL) <- FFEW2L4W(2tx,0.03SOL) <- EB3oCLyw(12tx,0.02SOL) <- 9rwfSb37(2tx,0.02SOL) <- DmwckTfc(2tx,0.02SOL) <- CHgc81T2(2tx,0.35SOL) <- FmEoT2pQ(359tx,1.00SOL) <- 8Gsbfwaa(891tx,3.90SOL) <- Ehr93GSU(13tx,2.19SOL) <- A3mHfEZp(2tx,23.88SOL)
+    TM           6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump | DEXSCREENER | mcap $12k | ATH - | dibuat oleh BD1x4Tr5 | bt 1791611556
+    MAGIC        3FfQHmHuDwvFKPjSeoTFN4y1KsK4zPo8A4ysQnafpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792766027
+    MC           3k6jhFbVn36VtUhryVZeCmoYMu2f2aAUijv3Ctuupump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792475418
+    GTAVI        3xRagiHHsr6kPuG2PS3QHtJj4qgkePhbjmMzcPcupump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1794962444
+    JUICE        4BwMrfNhnVZNJcTLESMyiWcvj69ZcCNrMV6krvMbpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792509344
+    GTAVI        4SJbZe3y75N3XgRBbFvxUJxp1ufDs8cqeWrdupCLpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1794962300
+    $MFRG        4ZUw9pkKdnKbgyLKPVXyJUX9FYmeW3pDcPqJ7Efbpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792872014
+    MC           54PvQ59uQ6mYnBWvR4kdA6Ei2Bjod8iJ4UfxEoa6pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792476076
+    JARVIS       5VnK9jMDBskMVDSiNWUJcPsRMHETjPPeeh7gjjEgpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792503065
+    MNY          5ZXaFACYZ8fg7k4QxS1yi6tHoKgWghcY5iNpc1fzpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792585503
+    DGP          5kLSGGRKyvshJvhnyX5XDTPHFL1aDbLkBtevRZKwpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792537911
+    SKIDWALL     6DwrYsuLShjnXk4pXeTXaXTdMhSdGHpqRGQUhd7Pnhq8 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh AhVe7LVf | bt 1791992401
+    HALH         6mHqA22ok7fqRQPgMcpXsCxQWLq2j1LV7GrzCDMYpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792586040
+    MC           7tx4q48SHqxbU7wsAENa4WHDi2VAiy8wLnFBy8rLpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792475209
+    wAPE         88qRz7zx93AUXaYWjM2EUtRbUMJ7NCQJAziKcTespump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792767360
+    dogdog       89zLLYZNBSvEeRrZNQhnS2zD1gfUCKbsFWwuCFKCpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792509963
+    AIRDUCK      92BH3YVjVQ2EZgPYDwvG7e6G9LuWg5npufuiYXvUpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792503454
+    Kimchi       99KsfMsqUozzQnKc4eidYX835BXxzA7CnwAEXPfEpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792539283
+    DGP          9sgyAcJfKh6iA2v3uPE2shKzzwDsDGCVp4cizsErpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792539511
+    nihao        ACYiDWcF3ypsSiA5s8yFkDFWRdVyKhy7i9kFupSNpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1794836799
+    KIRU         ARyZTDaTx9HgxXZAXuy9TYo4kWLQRnopPspDHFyxfork | GAGAL lulus | mcap $0k | ATH - | dibuat oleh AhVe7LVf | bt 1794342059
+    MNY          ATEu5wesbuFvY83FT5dtbWFwEBisazduvxjpq8DEpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792585458
+    CLAUDOGE     AeGxaF1DdJRtknW6pTzvpr9ai3JRVtNUZCnUapdo7UEy | GAGAL lulus | mcap $0k | ATH - | dibuat oleh AhVe7LVf | bt 1791999505
+    ALON         AngoUMxKECcUrtRp4YMXBzxk8qzpxR5fkYqVcjvA9msq | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8Gsbfwaa | bt 1791614269
+    $LA BEAST    Aq4AuUH4JRLWM194DUBnHwzVhhP6b2br9EynKRWUpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792766634
+    S            ArjgDRPy4EVPDJ1nsswWBAEdQC3pJgzvbkVAY1Empump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792511849
+    NOUS         B8Noaw9e8QY231WuiqtobtGFvcKfuRcQ46azYomT963U | GAGAL lulus | mcap $0k | ATH - | dibuat oleh AhVe7LVf | bt 1792065730
+    DCT          BFct7xCGBw18i3GCHg9xSxt4QA1QnUxth7SA2Yh5pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792537777
+    SNIFF        BXNJKF65WwrNQQPPL6fLoapzSKd2kCYNb48Exdb8pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792537500
+    KING         BpRYy8nFtontmaBzBXVsiu5PmUk2p88cDKTQdGVdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792585692
+    True         Bs9dqvdenQiFGe3NWdWvSswsgDghvxygdGPK7ynDpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792973492
+    TOAD         CnixRk7kb1eZZvBLoEf73K4HQGSZxF2cSSxJrerXpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792509776
+    SXSN         CttgQ8qQu7iCuJCdjTueUnm5SFWs6ZubVTczLUwupump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792503604
+    MC           DY7pfAW3JwW6BdF6vjCf9h4gZAPk2X8vxu3dwSdppump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792475518
+    HELLO        DYmZsfwQuaw4yfNe3uFnQqLNKQh7ruwQZBKnnouRhfy1 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8Gsbfwaa | bt 1791613292
+    SCAM         DokkrGzQdMNgyr1Fo5P35JwGzZbGm3DJhwJyWuUrpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792511541
+    KIMCHINU     EYcXuep5cQ2PVoLfK85h5JvtJz4hMBWNFoXFpg86pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792539137
+    NOTRIP       EvyWobWvJNN3cRkw5rc2V19PT9kmNu9xhqTG1FuApump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792767207
+    Kimchi       F71KFvcNyCChLbVfDtPK3ip9KwgaYhxbHMdM41CDpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792538310
+    INUX         FFRmxRMhAwPMQgXptDgTQLxaz6W9pxcenwrd3v2vpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792503874
+    GTAVI        FQXEAb8z1ToA8JBMUQRAPiVesKU7iPa68jgsy1NTpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1794962140
+    jew          GSAp3JCCnVqnoAx9JGWfkMGQ8RZBBuarsVbA8jHkpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792765681
+    SOL          GbVBSfQ2ya8pEoBE3q9jmBx6JaKGMCAAB3WJEnz5pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1794837014
+    MIRA         GfqsYT9ynD8XCikmA7ird8Yz1nunW3SqYueJayAYR1EX | GAGAL lulus | mcap $0k | ATH - | dibuat oleh AhVe7LVf | bt 1791985222
+    CCOW         GgD8WBDPM8RqpN3izqwVY3h4kMdB7SyAjxTiVTcMpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792586126
+    MC           H7QRv8oagqcmmRjFfbysdvHwRczUi6Sp7HEWDDDTpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792475576
+    TCEO         HKZXderuPezhrNnShzVmxEAdMgiyPkbJZ477ustwpump | lulus, hilang | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792509452
+    DERP         HVddWqx23Gf7nJZtsYSLYfMpag6YmGRy11jLVcBApump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792511658
+    KING         HXEsWN3EFruBqcqh3WW7Co82YX3sVwQANawhuP8gpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792503720
+    SOOTS        HXRJoZH9FHoHitan1YNM2Ec5GjBtpGaRKAFUKVbqpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792509207
+    INUX         HXW4Px98Yk9rcKdseaFvX8Twc89VighJzbtZZnYvpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792502443
+    🚀            QNH7jkRM4BAF8pFp2tbfZmhVE1iDz9uC6cuW7Udpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1794836908
+    TOAD         UDH8mZ3XfuFHT1h9yBgEcxuPjBJrk7H5CY4BiFApump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 77okdmAG | bt 1792766862
+
+=== FAMILY induk AH1YZod3hDtisSX9cmKrRnpVGymurshvasFCCX715jNf
+  ujung atas: max_depth | wallet keluarga: 15 (ramai/tak dibuka: 1) | koin dibuat: 10 | lulus: 2 | DexScreener: 1 | gagal lulus: 8 | terlalu baru (>1794964937): 0
+  dev FPhbiswV | dev aktif/lama | koin oleh dev: 3 | SOL balik ke keluarga: -0.0 | rantai: FPhbiswV(360tx,2.41SOL) <- BUFJwuiL(8tx,2.41SOL) <- 8rgmAQKs(10tx,2.41SOL) <- 3iM5L4Jf(2tx,2.41SOL) <- 4Umr9NaW(9tx,2.42SOL) <- D3htN2VP(2tx,2.42SOL) <- 69JT1inp(9tx,2.43SOL) <- CwEfv4tp(2tx,2.43SOL) <- 8ds4ngdd(9tx,2.44SOL) <- 3jz5k1m5(2tx,2.44SOL) <- YkXFUjYJ(9tx,2.44SOL) <- 64o3sTpy(2tx,2.44SOL) <- 3L3dtkzw(9tx,2.45SOL) <- 78ZdtsJo(2tx,2.45SOL) <- AH1YZod3(9tx,2.45SOL)
+    GODF         fXwcDSnhPAiqv8b9vZ7EY6yKtZ2TfuvniiAABvZpump | DEXSCREENER | mcap $25713k | ATH - | dibuat oleh FPhbiswV | bt 1794557541
+    USOE         2vr9xEUXYdfD8t7t7eK2tm2Tk6QExEofaRivm2MEcUTK | GAGAL lulus | mcap $0k | ATH - | dibuat oleh AH1YZod3 | bt 1794003915
+    USOE         5mZvaauHtUvNe47xhUzNJdD8pcNRcKJHU2TC8WVXa4hv | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 3L3dtkzw | bt 1794003942
+    USOE         9EPnwkwSNJJMupW6vBCEBY6y8bZeXF6cusFgrK4td4wG | GAGAL lulus | mcap $0k | ATH - | dibuat oleh YkXFUjYJ | bt 1794003969
+    USOE         Bxv7PfFb3JECtkTNxoqr6iBPEGjdhp44PHVLKBRGSqkZ | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8ds4ngdd | bt 1794003996
+    USOE         Qt6CPLxhNLuWjEVgt4rSgCeATUwpieBd76xeZjgpump | lulus, hilang | mcap $0k | ATH - | dibuat oleh FPhbiswV | bt 1794004113
+    USOE         R8n1iiQ7B4ii3P2aMiqaQ11XPXRjzf4FohK6e6Rpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 69JT1inp | bt 1794004027
+    USOE         anGP4rE2Uy88ZZWMaFY5XQjMk9P1GqGvTHabu2Rpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4Umr9NaW | bt 1794004051
+    GODF         hLEyUxQmVP2U8wF8Fki3Q4WTGd7wbpZc4m1fZCppump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FPhbiswV | bt 1794557309
+    USOE         jPrrNddfSmu1n7mNRqipDLDJs4usyn6s12RipgPpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8rgmAQKs | bt 1794004079
+
+=== FAMILY induk Ai9n2sNz6WorXT3BXqcdHE2cJuaHHwcCWn6Y6PN6mYci
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 234pwYhS | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 234pwYhS(1271tx,1.75SOL) <- Ai9n2sNz(2206tx,0.00SOL)
+    Spud         47mUZNAjSFA3nmxnRa1y7P9Jmi5WPWpVP1ACPQZqpump | DEXSCREENER | mcap $16k | ATH - | dibuat oleh 234pwYhS | bt 0
+
+=== FAMILY induk AseWQadHA5cowGWJYr3fv1uGfPeZdhWEwMSZFQzGGQYG
+  ujung atas: induk_akumulasi | wallet keluarga: 32 (ramai/tak dibuka: 1) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev H9XgvNAn | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 38.0 | rantai: H9XgvNAn(32tx,5.22SOL) <- AseWQadH(126tx,0.00SOL)
+    Looby        E2HPtLCsgb5fK3fxWBAJ4djqAejepWK6ZTqFazf5kgR6 | DEXSCREENER | mcap $36k | ATH - | dibuat oleh H9XgvNAn | bt 1794337104
+    Jantus       D5YRWdqYps41KQZRd5jCr7VBVtDfuFRMbSpPq4H4DF6K | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6D6G9Rj9 | bt 1794322645
+
+=== FAMILY induk AwYdAgUomGjhTMLqBWbjePuAbMcMgj4adZYaP6xHNaUc
+  ujung atas: KNOWN_LIST:Biw4eeaiYYYq6xSqEd7GzdwsrrndxA8mqdxfAtG3PTUU | wallet keluarga: 4 (ramai/tak dibuka: 2) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 9kTvQtoq | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 9kTvQtoq(380tx,0.02SOL) <- 2FhKaXvL(1013tx,0.05SOL) <- AwYdAgUo(219tx,0.06SOL)
+    Conway-Sol   5wyVHQcToNiSZsDVzDViZWQ8gRQng6TGTJ2U3NKSpump | DEXSCREENER | mcap $15k | ATH - | dibuat oleh 2FhKaXvL | bt 1792326083
+
+=== FAMILY induk BRSkJtCyHESoT5i4EjDr6Yyt6c8F7zaRSTQYt41kLjgg
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 27 (ramai/tak dibuka: 11) | koin dibuat: 22 | lulus: 2 | DexScreener: 2 | gagal lulus: 19 | terlalu baru (>1794964937): 1
+  dev GznPsejb | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: GznPsejb(135tx,1.19SOL) <- BRSkJtCy(109tx,1.26SOL)
+    PAYDAY       uHMWNFjUNxbPy1q43WrdbzygmJwdeh6AiQm1NKdxPAY | DEXSCREENER | mcap $147k | ATH 15x dari lulus (~$417k) | dibuat oleh BRSkJtCy | bt 1794247808
+    HODL         F63zJ8AM4RnHHxnHzGAPgM8Amv8KTSqG9knPd7yvpump | DEXSCREENER | mcap $2k | ATH - | dibuat oleh ELj5RdRs | bt 1794627353
+    LEPTEP       2WRTmZq6ByjLYQiaSvLWEEHwQxRKRT3gGLMUruLSpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1793330998
+    COOK         3BsKB1CWbkbPL6jKgJAiPSAMxw3UTmaQhJKQqcXKpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794498550
+    P(DOOM)      4MPbToC7VBUkV3Ru58BtA5Ay9NoGmrhxdAV9iCnWpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh ELj5RdRs | bt 1794607603
+    POLYHELPER   8UizuTLCcRDV6daxRviyCz9mW4QXX9h4DX5t9pUjpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794678577
+    test         8kYy4zVXeHKPBdWbpTGZAu8vhHejQkxmyy5M39wzdrop | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794108495
+    test         9AfRHHDFJYdByeAxyN5L9r8cYWnXth5fX5G5FQX4pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794859519
+    test2        Abw4Vz1tyom1dqxAQ2wZH8TogsHktUk85UcwTaxpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794928366
+    Dior         AhUgsrnV4QNUgXuXnYY7qUqF2tzkmqRsrgrWe2Espump | baru (belum dinilai) | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794965852
+    tst          B5jZ4WFy9bhniwLeB7XKo2iyRkWcTpJSwbGVtVHupump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794926374
+    TESTICLE     BUE9LE3nQSvKk1uzRQpWzCiJiiUFPrUQTArqBiR1pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794451563
+    test         ByojCgTYnqHDdL6U9VahisLzSsmi241tJqFXCraKpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794341703
+    LISA         D5gNyPEmspNY9zLWszpqMSUY7yf9zjVMM9yMAebnpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794506789
+    test         DAq32cMxVeb8eKbnyB4nypQdVGwQzSaKgEWpUtfdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794937754
+    test         DRcFjeW6Cush2t6q78zMJgWtbz7DZqAmkrXg5cL8pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794612826
+    Huang        EsdsfB3iuwuDmYJjm9qfojteX6XKdc3QZ2WtcZnzpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794508454
+    test fund    F4pzTHaK6QdEMm9fjdWiiV1WRdAr8i1LddVABH1rpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794687385
+    test4        Gx5XnSPoGx8JN2Gh9EhHU6EgWCDLkU3wtkebJ1BQdrop | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794116670
+    ALTCOIN      Heyiw4UPi2MEgqghKxHyAF5CtUi9Ut7cM5if1cPVHpay | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794278548
+    Test Basket  Hgr2NTzePYrM7cPtXmkeg1qGYHabyvtxgDixGwyNpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794682397
+    test2        HpXrzx2XhN9vhqVpS6dFmNHKFX9mdbTcJasXJycadrop | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 6xTXd9Kj | bt 1794115063
+
+=== FAMILY induk BWpYfk5wWrENow9NrE9ZCXU1QHaHP1bKhcumD2ZuqZKu
+  ujung atas: induk_akumulasi | wallet keluarga: 72 (ramai/tak dibuka: 12) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev CriU9pEm | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: CriU9pEm(7tx,1.49SOL) <- BWpYfk5w(25tx,0.13SOL)
+    TIMQ         5hvGRZsrfWqi2pMKE51KFKQR9zEFVyvXx2mhVkH7pump | DEXSCREENER | mcap $56k | ATH - | dibuat oleh BWpYfk5w | bt 1792517693
+
+=== FAMILY induk Bp6dazBCbNckVkzN9rwR8tHaPGsXU9UbqfSrNtSBgXaH
+  ujung atas: KNOWN_LIST:ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ | wallet keluarga: 15 (ramai/tak dibuka: 3) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 53UQAULN | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 53UQAULN(111tx,1.11SOL) <- 7UfU6tV3(186tx,1.20SOL) <- 3qR7kBmf(177tx,0.65SOL) <- FWpZFvek(2051tx,0.00SOL) <- Bp6dazBC(73tx,5.84SOL)
+    AVX          4E481AXn2wKxf61jwkXAQaLMhxFU5vWk3KZFyhPZpump | DEXSCREENER | mcap $49k | ATH - | dibuat oleh 7UfU6tV3 | bt 1794241529
+
+=== FAMILY induk Bui98JUcZRcYfRhmFRvXCPKoGxSspNCvuZeJuXUB3Xyp
+  ujung atas: induk_akumulasi | wallet keluarga: 7 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 7sm7etMb | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: 7sm7etMb(657tx,100.01SOL) <- BDWHyuxW(2tx,100.01SOL) <- H7RRFGwg(4tx,600.01SOL) <- 2XRMmRcu(2tx,600.01SOL) <- 4CjtHhzV(102tx,601.01SOL) <- 6jvozhAt(2tx,601.01SOL) <- Bui98JUc(203tx,0.01SOL)
+    BLACKX       sTbXthDDqewmmnn1MFyhYHaeekYq229M7nBizqRpump | DEXSCREENER | mcap $2045k | ATH 70x dari lulus (~$2045k) | dibuat oleh 7sm7etMb | bt 1794886207
+
+=== FAMILY induk C3PUPpRdBUnpx724SYEAnT36SVEUbbzLfUWMtw31u3ic
+  ujung atas: max_depth | wallet keluarga: 4 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 3fqBTehg | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: 3fqBTehg(1047tx,94.70SOL) <- WnNE5bFW(2tx,94.70SOL) <- Gvz4ZsP8(116tx,940.92SOL) <- 7a7tebp8(2tx,940.92SOL) <- 3nLDf8Qn(4tx,2446.20SOL) <- 8Aw7gtyL(2tx,2446.20SOL) <- 5iMaCutj(2tx,2446.20SOL) <- GpKfeXiq(1549tx,938.29SOL) <- 6UoQGT2d(2tx,938.29SOL) <- 5h3LD3e2(171tx,2446.45SOL) <- Ew2hFinj(1548tx,941.39SOL) <- A4n4QJuQ(170tx,2445.91SOL) <- Lq4Trrxw(2481tx,944.45SOL) <- HtdcHgR7(5tx,2394.27SOL) <- C3PUPpRd(277tx,2446.21SOL)
+    UKFLMS       6RoZaaTxbe76fDRUJHZQNDS4GSRWNtnRd6ZhhbBXpump | DEXSCREENER | mcap $19430k | ATH - | dibuat oleh 3fqBTehg | bt 1794751777
+
+=== FAMILY induk C9f3RYDhBdGRwVi5cBeCgALCj8EqwVpBZquSAURPcX3c
+  ujung atas: EXCHANGE_SERVICE:5dxvr2A9TwMs1gnQ7gCpYiem9ArtcqmnuKHF76Yr2mT6 | wallet keluarga: 5 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 2ejsP74c | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: 2ejsP74c(744tx,100.00SOL) <- HZLw4W43(2tx,100.00SOL) <- 7M97rNYr(2tx,100.00SOL) <- 2Bv5VApx(2tx,100.00SOL) <- C9f3RYDh(2tx,100.00SOL)
+    USAR         2LnyacmR18pmQJ6jW58KSixC2ApSuLooZ5MWa5Ggpump | DEXSCREENER | mcap $71069k | ATH - | dibuat oleh 2ejsP74c | bt 1794925089
+
+=== FAMILY induk CMjz6eWZkKGa29YUvz1JREiUnpcjaWr3BahFgzByoQYA
+  ujung atas: EXCHANGE_SERVICE:F7p3dFrjRTbtRp8FRF6qHLomXbKRBzpvBLjtQcfcgmNe | wallet keluarga: 34 (ramai/tak dibuka: 3) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev AY8KcaMx | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 0.5 | rantai: AY8KcaMx(10tx,0.08SOL) <- CMjz6eWZ(6tx,0.22SOL)
+    FATBURN      FR4YEvKpPFWy3iWSBehPd7dXaMHcdxzoN66ip27gpump | DEXSCREENER | mcap $13k | ATH - | dibuat oleh AY8KcaMx | bt 1794149969
+    BUSTED       AkrGMWYJkk5fz8rZqh75SHsektkueRM4tV7xx7HdMubN | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 7tMRh3Vg | bt 1794674535
+
+=== FAMILY induk CPG2tZBHP53bqMaywy68W74yTfUp2pbfgHDe2oPq8hDE
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 2 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 8rndPVMT | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 8rndPVMT(802tx,1.01SOL) <- CPG2tZBH(703tx,1.50SOL)
+    LEGENDARY    GiupoJJ6b3oBHtLaDhsYQufbzabaxTHg3HVLQNyYpump | DEXSCREENER | mcap $17k | ATH - | dibuat oleh 8rndPVMT | bt 0
+
+=== FAMILY induk CeycTrPZfhGzb1WrcYW6F1Dt1Lh1kpAncYA4pnZtuL1P
+  ujung atas: max_depth | wallet keluarga: 112 (ramai/tak dibuka: 49) | koin dibuat: 3 | lulus: 2 | DexScreener: 2 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev Fw2gmoWz | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: Fw2gmoWz(3tx,105.17SOL) <- FXi1YgqY(2tx,105.17SOL) <- Edp2oKy2(3tx,1605.17SOL) <- 5D3AHmE4(2tx,1605.17SOL) <- Hhd5mDw8(146tx,1606.60SOL) <- F5gBzL6z(2tx,1606.60SOL) <- HDjhVhip(44tx,2406.60SOL) <- E3z9D4SY(2tx,2406.60SOL) <- g8ubR72y(372tx,332.83SOL) <- 8o7CL9XE(2tx,332.83SOL) <- 3b3g3ZbL(1280tx,200.00SOL) <- 3cW9z8gB(2tx,200.00SOL) <- AaUFW7DU(3tx,2000.00SOL) <- DrceU3Lc(2tx,2000.00SOL) <- CeycTrPZ(2tx,2000.00SOL)
+    USEF         sFoTr4DqBN6DPaNyrNEBeG6oURdyif8ebzzNsd3pump | DEXSCREENER | mcap $10234k | ATH - | dibuat oleh Fw2gmoWz | bt 1794943660
+    Rings        fCUfAnDQE3ioVPTXE79edopugd31eFwgWH1TW3hpump | DEXSCREENER | mcap $1k | ATH - | dibuat oleh 3b3g3ZbL | bt 1794846873
+    UCI          CEprDmLF9mQTJ3nFXmLcozwgZUVzP5V5X4FLtrrpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh BhwGmUEH | bt 1794523827
+
+=== FAMILY induk CidJj3zdoGzTiaNzL6LJPw11RA9NpMabGYG4toiSFevw
+  ujung atas: KNOWN_LIST:B48kNVXs4YK4amkBCH2XokQiv1SeiVQGHDR17xDeKAAn | wallet keluarga: 4 (ramai/tak dibuka: 3) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 9enyesk9 | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 9enyesk9(1455tx,0.72SOL) <- EowobhUD(1553tx,0.00SOL) <- CidJj3zd(7tx,2.96SOL)
+    Debu         D2uhMKwe4uLc7mhN4PKgwNPziLnrtYgz8V3j9ee5pump | DEXSCREENER | mcap $22k | ATH - | dibuat oleh CidJj3zd | bt 1794867277
+
+=== FAMILY induk CqwCdPMStfeUxeggBTfpYeihni3XdFqKn5146Tso7n4g
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 11 (ramai/tak dibuka: 2) | koin dibuat: 5 | lulus: 1 | DexScreener: 1 | gagal lulus: 4 | terlalu baru (>1794964937): 0
+  dev 4ngVs2GK | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 115.2 | rantai: 4ngVs2GK(91tx,22.24SOL) <- GoLV5Yay(19tx,21.00SOL) <- 3x8mEi4F(22tx,21.15SOL) <- b61VJHfp(15tx,21.20SOL) <- CqwCdPMS(24tx,26.00SOL)
+    GOAT         7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump | DEXSCREENER | mcap $97k | ATH - | dibuat oleh 4ngVs2GK | bt 1794494284
+    GOAT         43iB2wrDZpP9jn4ubyecWmpGStXsa6j1QZEgsfvUpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh CqwCdPMS | bt 1794489809
+    GOAT         5qxvGcfyhrWQCif4fYsug8SS6priF8dcJ9zdqu9Ypump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 3x8mEi4F | bt 1794491795
+    GOAT         8TDFnA26G4znvTmC4UJ7g1ty1qQGKz8pZiDSxJCmpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh GoLV5Yay | bt 1794493925
+    GOAT         Eiyb5nuGZWqKY8RVToz3aguuhWnPm5GzuNB1UFmTpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh b61VJHfp | bt 1794491567
+
+=== FAMILY induk Cyfxw8ULasrj33E7tib27GtyovrVYxt6ArcJ1dSqM7RR
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 12 (ramai/tak dibuka: 1) | koin dibuat: 8 | lulus: 1 | DexScreener: 1 | gagal lulus: 7 | terlalu baru (>1794964937): 0
+  dev 6qBGNCA5 | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: 0.3 | rantai: 6qBGNCA5(127tx,0.80SOL) <- Bb3fH9Vo(305tx,0.00SOL) <- BpZaQKBs(37tx,14.04SOL) <- ACCLPEqV(14tx,14.13SOL) <- 3h4meRHQ(9tx,14.09SOL) <- CM8NxMW7(7tx,14.27SOL) <- A2f8XaJG(29tx,15.70SOL) <- GQLWXDje(22tx,15.17SOL) <- 2ZfqPprR(15tx,10.25SOL) <- Cyfxw8UL(12tx,10.09SOL)
+    OAI          HiBjrSyWXjDospLQ4fTmyWodR5dBhZzgQSy9EQS6pump | DEXSCREENER | mcap $25k | ATH - | dibuat oleh BpZaQKBs | bt 1794857618
+    OAI          3mtKLhC9jcsEMe1hJPxNGnRRPUGvb6A6MYS35Jvypump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh ACCLPEqV | bt 1794857433
+    OAI          7b9cMBW4pzMB1vy2AZLfBAooNbEGenrTxx5Fx3x1pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh GQLWXDje | bt 1794851934
+    OAI          7edkZF2p1XzN51K4g1hUkcuXeXyjFFefHpXY1qUGpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZfqPprR | bt 1794851369
+    OAI          ANCVsiC7hWhNvatGEku7JD16am87nYW5oYRAiKFzpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh A2f8XaJG | bt 1794852527
+    OAI          CyNHu5cPyTkEJ5zzwDQBpshpRYx5ndsrAVhwby2vpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh Cyfxw8UL | bt 1794851088
+    OAI          FkL8MLVuGi6UWtXP3TNJXkVz3kzBEmwYkt5Q7en2pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 3h4meRHQ | bt 1794857258
+    OAI          G3D7U5gcS54nC5ZYk4kYGa1bJce8xMkWnnUatJ63pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh CM8NxMW7 | bt 1794857129
+
+=== FAMILY induk D5s7mZ4fSm2AgRb7otmAL9ZfdDLpEt2cLTRv6qEV4Q7u
+  ujung atas: EXCHANGE_SERVICE:timeworn2X1EwMLSzeVhdVTbVSzSCKuibKd2kQ2Lsyn | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 53RgokEJ | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 53RgokEJ(1555tx,0.82SOL) <- D5s7mZ4f(2927tx,0.00SOL)
+    Lemon        FsFqQGxCNd7dbFuimCW4hMiFRdvvM8PoLyp4WZrxAUnN | DEXSCREENER | mcap $22k | ATH - | dibuat oleh 53RgokEJ | bt 0
+
+=== FAMILY induk DE5ay3L19VwgLmWo9XVRi6h85JmYC3tfCRRQQxbqST9T
+  ujung atas: induk_akumulasi | wallet keluarga: 6 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev AnjN8oon | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 3.2 | rantai: AnjN8oon(26tx,2.00SOL) <- 388rKrt3(5tx,1.72SOL) <- DE5ay3L1(120tx,0.00SOL)
+    BK           2NsmLQRks2DBPLFB7bFeJeoTAgzW6EFZCdgVAzs9pump | DEXSCREENER | mcap $20k | ATH - | dibuat oleh AnjN8oon | bt 1791577289
+
+=== FAMILY induk DN7PY5DZFurDCE9rdbqZhviWzGEHd9CC5deveeMVWsAb
+  ujung atas: KNOWN_LIST:8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU | wallet keluarga: 4 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 53nCUgRb | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 53nCUgRb(261tx,0.01SOL) <- DN7PY5DZ(14tx,1.04SOL)
+    HATCH        46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump | DEXSCREENER | mcap $17k | ATH - | dibuat oleh DN7PY5DZ | bt 1794005348
+
+=== FAMILY induk DiMEQj7RTHq9GNu9ENFPDLa14i2f3TQuETCfYB1SRdKa
+  ujung atas: KNOWN_LIST:DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo | wallet keluarga: 7 (ramai/tak dibuka: 2) | koin dibuat: 2 | lulus: 1 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev 9eGA9bdE | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: 9eGA9bdE(1878tx,0.72SOL) <- DiMEQj7R(33tx,1.06SOL)
+    Sclans       5PwYusKfXKZJk6HHbiPo8fvfaH5t8KLzBiHDPWynpump | DEXSCREENER | mcap $158k | ATH 6x dari lulus (~$167k) | dibuat oleh 9eGA9bdE | bt 1791645891
+    CheckMint    7vnenmA8SpjyMTdvSEeeviA5UAhMeDBB6FkpCdy8pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FLEk47ve | bt 1791564428
+
+=== FAMILY induk DsSUBZrsgKedH4MVGnXhe3cm3xuoaYvAzmDKPt7pHizc
+  ujung atas: EXCHANGE_SERVICE:5dxvr2A9TwMs1gnQ7gCpYiem9ArtcqmnuKHF76Yr2mT6 | wallet keluarga: 5 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev AAefD9uA | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: AAefD9uA(3tx,100.00SOL) <- EGdYYUAF(2tx,100.00SOL) <- DRC9x8tw(2tx,100.00SOL) <- 9i6c6Yko(2tx,100.00SOL) <- DsSUBZrs(2tx,100.00SOL)
+    USOI         CycnRmuR217hT8bkSp6Q886et3z51zZfnogHBqa3pump | DEXSCREENER | mcap $56354k | ATH - | dibuat oleh AAefD9uA | bt 1794942881
+
+=== FAMILY induk DtkW9urQYKSMobxbrPpycptmFajCPK3KSuLi58BaLi2t
+  ujung atas: max_depth | wallet keluarga: 40 (ramai/tak dibuka: 4) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 8WiRXent | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: 8WiRXent(1338tx,99.00SOL) <- m8CbBu9Y(2tx,99.00SOL) <- 6WpJAqwn(3tx,7469.17SOL) <- 9k8UvGm2(2tx,7469.17SOL) <- 5G2X3B9y(2tx,7469.17SOL) <- EHwLNKKn(2tx,7469.17SOL) <- 99mcYvca(2tx,7469.17SOL) <- Efs9im8S(2tx,7469.17SOL) <- 2YoRcV3x(604tx,7692.28SOL) <- 8zkAdena(2tx,7692.28SOL) <- EZLqSh9m(2tx,7692.28SOL) <- 7XCt6Jgz(2tx,7692.28SOL) <- 59Eh1TLC(2tx,7692.28SOL) <- oss6urnY(2tx,7692.28SOL) <- DtkW9urQ(405tx,2712.18SOL)
+    USOI         ae2AFvKknNNx3Bof6DPxRtYzEZfUmfr2inJY7Smpump | DEXSCREENER | mcap $159033k | ATH - | dibuat oleh 8WiRXent | bt 1794889974
+
+=== FAMILY induk DtneVfUJRBvNc7r4jYW3e4bcbEBx3CL8w6VQkhuUsXrY
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 5 (ramai/tak dibuka: 2) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev HGDiaay1 | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: HGDiaay1(665tx,0.53SOL) <- 9QUW2i1M(1159tx,0.00SOL) <- DtneVfUJ(12tx,0.39SOL)
+    GOAT         D7iafdwzzpB7tisqQqT5T9aRrYPtHLqzwxhnLoWJgoat | DEXSCREENER | mcap $62k | ATH - | dibuat oleh DtneVfUJ | bt 1794780507
+
+=== FAMILY induk DwA8ivZ12WrMwAaCrSWoMssnSJTooNDnZx83nY2JoG4r
+  ujung atas: max_depth | wallet keluarga: 16 (ramai/tak dibuka: 2) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev E43aSHgn | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: E43aSHgn(655tx,0.00SOL) <- FYJhEdFT(330tx,0.00SOL) <- 3yrWhAuF(628tx,0.07SOL) <- 4wHnp5iq(4tx,0.07SOL) <- 6DjLwS5D(2tx,0.07SOL) <- 9sZKa6UJ(794tx,0.18SOL) <- B13rdJ6U(2tx,0.18SOL) <- GHx9HrQF(172tx,0.01SOL) <- 8V2YrxxL(2tx,0.01SOL) <- 92M7gn4w(760tx,0.02SOL) <- 5Px5t8vt(2tx,0.02SOL) <- 8vjue2Pd(2tx,0.02SOL) <- 9EhiWGoG(711tx,0.04SOL) <- Ga4yQU8T(2tx,0.04SOL) <- DwA8ivZ1(1110tx,0.16SOL)
+    PLAGUE       CscZaq5twomhUkvCY8Jdd1tge32L4Yj9FbkFFEZQpump | DEXSCREENER | mcap $14k | ATH - | dibuat oleh E43aSHgn | bt 0
+
+=== FAMILY induk DxJYkGVXCxyYMXUejw14RJMpdzKPEHA3Rfhr6mA4htse
+  ujung atas: EXCHANGE_SERVICE:5g7yNHyGLJ7fiQ9SN9mf47opDnMjc585kqXWt6d7aBWs | wallet keluarga: 8 (ramai/tak dibuka: 6) | koin dibuat: 19 | lulus: 1 | DexScreener: 1 | gagal lulus: 18 | terlalu baru (>1794964937): 0
+  dev 3J3vYUpu | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 3J3vYUpu(454tx,0.01SOL) <- DxJYkGVX(90tx,0.29SOL)
+    POKEHOOD     BLYdKSwcRnEmtesj5aP6NzV9EyRA9Dr83sL5yhW8pump | DEXSCREENER | mcap $42k | ATH - | dibuat oleh DxJYkGVX | bt 1794002410
+    Fingerdick   2vdmnbvvRLJEeZW2GprcReQN2MvM98J5PhR6g67rpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794111919
+    DinoDog      4ajGszzk9MvBP5aofzDNVsPogJssA8r9DFAzEVR3pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794114319
+    Son          6SJHTzBsUttYezRyXdd847X79Uu1s71s8c6MggZspump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794112708
+    General      6zLWahuStCZCVjgFc1gwPZ6dE9vkjoswWysKrHQ9pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh GZfmwAT1 | bt 1792041453
+    muhehehehe   8Qq2AsNzGXYvzGKzkM5CrM7b5LqA6gxNw7fzAoQBpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1792370534
+    Birdwatcher  9W4DZDeWPjLYFchbu9WJ3VqzqXn9yEzXwHThB6hNpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794928508
+    Heist        ABLMQjh1aeqdR47UGQsPrzL33PSiSZbyXegWuVP9pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1792430507
+    POKÉBONK     ALvmoxC9wr4UCQbByzrHh47HxDDLz4Tw1Sy7Bki7pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1792366951
+    bitcat       Ac8B7AozotZLdY77JG6JZF4z8GKBvRgAwCmPBgWNpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1792386746
+    Raccoon      AgVKupX6tFHCFh5wFA56dqBGKgtV6CbNeMEPaTVcpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794265969
+    Santa        BDxZXAoC3WaiBEmWTwBv6JiK2gYF75WAwWXpX5oVpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh GZfmwAT1 | bt 1791934968
+    Unc          BiE77CnbYvHp5uTwttUfks6mZBPZ8kLNAU9EFag6pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh GZfmwAT1 | bt 1791960211
+    Wukong       C25wHjozSotYW5mno4pnko8oYE186YYyKdmQ6Vxkpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794947315
+    Oppy         ExLRMsfxsaMZ9UzjYSw6cc4FSPtbMb6PiAayczajpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1792044675
+    Whistle      FNqDWzaU5szQ1TZGxr7GiRcJHZCvNhatDmizvDNupump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh GZfmwAT1 | bt 1791872445
+    Chad         GzC1AwKdQ26qz1TuTC4vpfL8jMLoTggRouNuXPULpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794267391
+    Hoodbone     HRAuwiChwzyNNGMKjbzDTnSK2JLhE2jzqhv9sdbdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh GZfmwAT1 | bt 1794011389
+    Mikan        HXZV39eAfMusaXvngtTvdnYw5viSgaPbjiut1Rwqpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DxJYkGVX | bt 1794179026
+
+=== FAMILY induk E1HKaZL75MTgdFDNxAorgHN8PCPMUTH3g9CvNkDFFGgp
+  ujung atas: max_depth | wallet keluarga: 219 (ramai/tak dibuka: 5) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev FaoSHFBc | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: FaoSHFBc(343tx,0.88SOL) <- 8kAVnHKm(525tx,1.00SOL) <- BSbCHzwT(2tx,1.00SOL) <- 6QvUwx1i(55tx,36.01SOL) <- CEQHXTNE(51tx,0.80SOL) <- 76pGvUZK(11tx,0.08SOL) <- 5iT7ZruY(5tx,0.02SOL) <- 2BrYbQyX(5tx,0.02SOL) <- DqyhH5ST(5tx,0.02SOL) <- CNHthBZG(2tx,0.08SOL) <- 63MGY3JX(12tx,0.04SOL) <- BrBkkv54(2tx,0.04SOL) <- 7pJyvdjX(2tx,0.04SOL) <- BexewH63(2tx,0.80SOL) <- E1HKaZL7(66tx,38.00SOL)
+    Heisto       9HrYC4PH4A3d5o7LUvwjDrxkWyZDjVQpvFvWVwbKpump | DEXSCREENER | mcap $18k | ATH - | dibuat oleh 8kAVnHKm | bt 1793984445
+
+=== FAMILY induk EDzwVSiMbnxwpkqhECBou4uVVWDkJwxqRDbTakbodWMn
+  ujung atas: KNOWN_LIST:AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51 | wallet keluarga: 19 (ramai/tak dibuka: 3) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 7yWo2Tta | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: 2.7 | rantai: 7yWo2Tta(863tx,0.47SOL) <- D3HcjaZD(830tx,0.00SOL) <- EDzwVSiM(7tx,0.00SOL)
+    6STARS       24FdcgGT6L349K4GgbdzATMB4YEf6BjxygykXxFbpump | DEXSCREENER | mcap $11k | ATH 2x dari lulus (~$83k) | dibuat oleh EDzwVSiM | bt 1794850865
+
+=== FAMILY induk EJQ8nDXCKaRcSz2uXasrk9PHrvFszCqmTqs5Ky2CxChx
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 49 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 7ahLeRZw | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 7ahLeRZw(76tx,0.55SOL) <- Gxn4qBzP(898tx,0.00SOL) <- 8T41RQkZ(34tx,0.39SOL) <- BnkNkNs9(5tx,0.10SOL) <- 3j1JkQhh(5tx,0.10SOL) <- 7M9hDJNT(5tx,0.10SOL) <- Fuvxv7VJ(2tx,0.39SOL) <- 3SmrjXs8(12tx,0.19SOL) <- AD8EKkMA(2tx,0.19SOL) <- FGHwJeWt(2tx,0.19SOL) <- 3tbTsqZz(2tx,3.90SOL) <- EJQ8nDXC(65tx,36.85SOL)
+    HEK          7LJaDVSg6BdHB7SBgH2JzLUs4rE5tP9zZHUQaNydpump | DEXSCREENER | mcap $11k | ATH - | dibuat oleh 8T41RQkZ | bt 1794939990
+
+=== FAMILY induk EL8m4iP7Y9ERJX7VVUMofqo5whJ4qTV26ms5yXo2hJap
+  ujung atas: induk_akumulasi | wallet keluarga: 0 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 1X3bWdwi | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 1X3bWdwi(13tx,1.15SOL) <- EL8m4iP7(220tx,0.00SOL)
+    Hold2027     DSn5NZCxQaRHTFTDRzTMgj7hs8gEE4gdFskdrcmbpump | DEXSCREENER | mcap $10k | ATH - | dibuat oleh 1X3bWdwi | bt 0
+
+=== FAMILY induk ERLC9rxaG6uZDUpetW56jb4kN9N5sNP7G58F18HLBkeQ
+  ujung atas: KNOWN_LIST:AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS | wallet keluarga: 7 (ramai/tak dibuka: 3) | koin dibuat: 3 | lulus: 2 | DexScreener: 2 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev GR9qcD3e | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: GR9qcD3e(397tx,2.59SOL) <- BunYyucz(395tx,0.99SOL) <- BJ76SGjp(773tx,0.00SOL) <- DXwDhZPi(454tx,0.00SOL) <- CVFdSVQV(274tx,0.00SOL) <- ARGucXpK(89tx,0.00SOL) <- ERLC9rxa(1050tx,0.34SOL)
+    ROCCO        9nxtkTZzMuukme6LN4orxCfVoujAZPKfCoin6zSupump | DEXSCREENER | mcap $14k | ATH - | dibuat oleh GR9qcD3e | bt 1794868278
+    GTA 6.0      2hwaRQs4WqThnp26XLpch5MBZhAHqses3vSv1Bkupump | DEXSCREENER | mcap $2k | ATH - | dibuat oleh BunYyucz | bt 1794441513
+    Rocco        9zX8c6wgdLVDRDtkWPxJChFRKhuYN8bgZx729fuDpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh BunYyucz | bt 1794867246
+
+=== FAMILY induk EqSwc29hwKvDqRDGs9PX91hgGxNQj8P7iWMk2v8CLK3m
+  ujung atas: EXCHANGE_SERVICE:9RDPo8GiSFAEG8SRXuNopz7jK7z7T69FcG1nN7aqFFAc | wallet keluarga: 5 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev DuuAWERJ | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: DuuAWERJ(1405tx,1018.78SOL) <- GLqDXczG(2tx,1018.78SOL) <- 7pD3Xs8k(2tx,1018.78SOL) <- 3T9GcGkk(2tx,1018.78SOL) <- EqSwc29h(2tx,1018.78SOL)
+    AODT         2q33nHFNvbNM6D8MaGP9UEfwdvy6otMct6PWynMipump | DEXSCREENER | mcap $1348k | ATH 44x dari lulus (~$1348k) | dibuat oleh DuuAWERJ | bt 1794620661
+
+=== FAMILY induk EziVqn7AfudBCYjF7hqSLpi9ERTWFynHQb4YCSHrb7gW
+  ujung atas: induk_akumulasi | wallet keluarga: 46 (ramai/tak dibuka: 4) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev H3gSatbG | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: H3gSatbG(49tx,20.00SOL) <- EziVqn7A(251tx,0.00SOL)
+    FLIPIF       5jLj1jr2BtTBL8czd6xdpYoFkEqyG89W3bz5Jq6Mpump | DEXSCREENER | mcap $137k | ATH - | dibuat oleh H3gSatbG | bt 1794391913
+
+=== FAMILY induk F47Ew4AoFsM23ZmUMRrxZ4pVXBifebnFkwbhUuoHzi3L
+  ujung atas: EXCHANGE_SERVICE:FHpcNSe6tb2n15bAdq4BkeYWGyZKFD7yLYrH92ng7wCT | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 8wBA6NTt | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 8wBA6NTt(703tx,0.77SOL) <- F47Ew4Ao(2113tx,0.02SOL)
+    YHT          GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump | DEXSCREENER | mcap $25k | ATH - | dibuat oleh 8wBA6NTt | bt 0
+
+=== FAMILY induk F5XZHyuHMht2uAvaH4MF4HX8a444mJs3jGANtbtXKxJc
+  ujung atas: induk_akumulasi | wallet keluarga: 232 (ramai/tak dibuka: 74) | koin dibuat: 4 | lulus: 3 | DexScreener: 3 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev HceTsPi8 | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 35.9 | rantai: HceTsPi8(60tx,140.00SOL) <- BCRLLqJG(4tx,140.00SOL) <- ELSXqWPq(22tx,659.09SOL) <- F5XZHyuH(57tx,0.00SOL)
+    COGE         BRf3SXRk8BdXmBZDJfKyEhbYmqBVf8843ctEMcD4pump | DEXSCREENER | mcap $64k | ATH - | dibuat oleh HceTsPi8 | bt 1794851537
+    DOGESTER     8RpybikpGLbKsYJ4FXz12ExDz89R7VXAUZ3JXNcKpump | DEXSCREENER | mcap $7k | ATH - | dibuat oleh CRrC7ujM | bt 1792340913
+    COGE         7ZjZzrbsbahEbqSmTE6qzyUqR8aYMvtpsxUATM4zpump | DEXSCREENER | mcap $1k | ATH - | dibuat oleh Ewg6irv9 | bt 1794850579
+    Babybaton    HvBSeQT5ebQJngUAzmT3b7586Edq5zW73C5fH5typump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh C8onc15A | bt 1791809131
+
+=== FAMILY induk FTSfah7LFtFvwKVJZg2jCS3hu83EEUyenVnUVkPsToCb
+  ujung atas: induk_akumulasi | wallet keluarga: 204 (ramai/tak dibuka: 6) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev HqJMtkm5 | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: HqJMtkm5(57tx,18.06SOL) <- 2SkRQLny(97tx,1.94SOL) <- FTSfah7L(15tx,0.49SOL)
+    LOCUS        5MvyRRwvyo8sRRH4H43tDXf7QLHf9M4T2WRfCwNVpump | DEXSCREENER | mcap $12k | ATH - | dibuat oleh 2SkRQLny | bt 1794546082
+
+=== FAMILY induk Ffezg5sjFV9y7Bx8btwUtGgZUFKFvNwcpQBvK7aV9HMA
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 9 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 23SFDAVx | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 23SFDAVx(726tx,0.59SOL) <- Ffezg5sj(81tx,0.89SOL)
+    DMOTH        9ueEeBuYUc9X1GrNCyWHbKGnHJq1kaD2nvDapDsMpump | DEXSCREENER | mcap $12k | ATH - | dibuat oleh Ffezg5sj | bt 1793638936
+
+=== FAMILY induk FtraLaFYxmhmVsradRF5mTQZBwz9weBzboGd8jFC4Uqi
+  ujung atas: induk_akumulasi | wallet keluarga: 8 (ramai/tak dibuka: 2) | koin dibuat: 23 | lulus: 1 | DexScreener: 1 | gagal lulus: 22 | terlalu baru (>1794964937): 0
+  dev 2ZeYieQE | dev aktif/lama | koin oleh dev: 13 | SOL balik ke keluarga: -0.0 | rantai: 2ZeYieQE(417tx,0.03SOL) <- YzLw2gLb(25tx,4.50SOL) <- FtraLaFY(131tx,0.10SOL)
+    BBX          38EDtQs36gXcjnjcdnLbuF1b7Ppv4i5sbgF4muJ4pump | DEXSCREENER | mcap $21k | ATH - | dibuat oleh 2ZeYieQE | bt 1792015229
+    HOODWAR      2csRwLjeFA9QAhvRLyJRrtRYgQcgX8FY6zF3rSEWpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FtraLaFY | bt 1791829783
+    SECURITIT    3sGcqM44NrArimdfqhnr6MWHWkHMo5xpnwmXAfrTpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 51vYNGqp | bt 1792929882
+    TTWO         3w7fWGVWoA5q8KaseWKQRGbwj3XNLGV8FfjLKuxopump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792874295
+    MACCA        4HCV9EDD8NCm348kRBWvSMeSdap4iym5kCwGy99dpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1794695050
+    MASHA        4Hcojxdncyx9GQbp95M5c2pcBkBhh638cnZhUEBspump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 51vYNGqp | bt 1793009700
+    Bitcan       4x2Sfmkt8hvzKTM6SC88jbNpjYUSPF38SiJgzovSpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 51vYNGqp | bt 1792399845
+    DOGE         6Uy2HhV1XrfkRoSRfAQkbDQ9WpPAT4F1CLS9cdqGpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792534484
+    DOGE         8h4HqaUASyy2Cge1my3stgY8evYAtADctgJoMDQbpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792867555
+    BTC          9BHd4g2ioYWJX8mjS7hEWKzudZZAwgjc1jToanMopump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792946205
+    ELONUS       Amzz2SKmWSWc83oYZfRyxod7MeN6GTv62besCmEQpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792885838
+    Boola        Bc2fvuQTPtjfpHbKvyrptGx2Sfc7Lwn8iiZJ7b3ypump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 51vYNGqp | bt 1794646977
+    POPPY        CVFdMK5AdtYH48miBjLw7iHpqwqYGfrsDvx5puWSpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792537659
+    STCK         D3c2dinA5kfdmY5qFJe2pd5M2cgaD3UwNArvnwzdpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792714574
+    DOGE         DzNScGQbw2AXjwddCqSQSKgNwmfwiGEz1Nfovtkpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792945015
+    ANALOS       EP5e9wQSMTVYhvEx1ab7wAXp8S8SK3kUrzLwUDCxpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 51vYNGqp | bt 1792920432
+    Arena        EuAAyePGZNLu1PXjotAw43j6DVcTUEwH6HJwsDb3pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FtraLaFY | bt 1791806651
+    PEPE         GGLzp2PPhqb16PB3tkFKV1xRq6hcPvFq7G62VrDmpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792536541
+    BLACKBOX     GJHXGYHdQj4N4cYPbWsYCcdSCSpbLsKYeK4jxmWspump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh YzLw2gLb | bt 1791818242
+    FRAMEXTV     GiLbnuSNoCkv1qWxEkEj1Y53trGny3cWdCAizeuppump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FtraLaFY | bt 1791804899
+    PEPE         HDVd46jR6LTRPRrp9d7HoyHQfeAaLSsFCvqZ8bwDpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792536667
+    GTA          J8AK9tqbJEZmUWpoTj7PmKbK1k9SaBW2pRQit8Mjpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2ZeYieQE | bt 1792536046
+    BLACKBOX     oPNdrFdimcSFXMJy1zXuMCFXzEYw6rXa5nbquPfpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh YzLw2gLb | bt 1791818587
+
+=== FAMILY induk GD81LHEgBhQ1FhXGG8T1xhesvVZ76T6z7XzNqPLs1EDg
+  ujung atas: KNOWN_LIST:AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS | wallet keluarga: 34 (ramai/tak dibuka: 23) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 9kZaJhCU | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 9.9 | rantai: 9kZaJhCU(178tx,0.00SOL) <- BmDWtggS(363tx,0.00SOL) <- GD81LHEg(1312tx,0.00SOL)
+    AUGUR        7yqTtb47Sa1w2KNabXCSLkv99DH1uCLLehK8uDpapQEe | DEXSCREENER | mcap $20k | ATH - | dibuat oleh 9kZaJhCU | bt 1793017052
+
+=== FAMILY induk GDqktKSGaEjxovTyJ3UfjE4wdoZF8ZiVKx9gZpZJb5qq
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev Fczj4y6V | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: Fczj4y6V(1403tx,5.16SOL) <- GDqktKSG(1689tx,0.00SOL)
+    GIFs         EYX9NaK8NnFc55dvRE8Hv6pu5HgCCLsunvsAsqa4pump | DEXSCREENER | mcap $21k | ATH - | dibuat oleh Fczj4y6V | bt 0
+
+=== FAMILY induk GNgDt5Gf4omgd7BWeAGQi7FqAhxUxUq6ETCv1CndW4Qu
+  ujung atas: induk_akumulasi | wallet keluarga: 133 (ramai/tak dibuka: 8) | koin dibuat: 3 | lulus: 2 | DexScreener: 1 | gagal lulus: 1 | terlalu baru (>1794964937): 0
+  dev 9wKC6biE | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: 9wKC6biE(3tx,113.36SOL) <- FKEkfH1v(2tx,113.36SOL) <- 6mm6q748(3tx,2113.36SOL) <- 5UfrrgLh(2tx,2113.36SOL) <- Gyzti92Q(145tx,2114.79SOL) <- 4bTRmYb8(2tx,2114.79SOL) <- 6xWnYU6k(202tx,1914.80SOL) <- 5F9B1PdL(2tx,1914.80SOL) <- GNgDt5Gf(291tx,0.01SOL)
+    U0DF         oZ5neAELPt86Ssb3SCeW8YeSxNuqR4cikWBc4d8pump | DEXSCREENER | mcap $17229k | ATH - | dibuat oleh 9wKC6biE | bt 1794963349
+    XT O⚡️       rDfxW6u8qKoGk3LNAa3KaZ8TW7qPzCnutMWcnUypump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh J6TyzZoK | bt 1794334848
+    UODF⚡️       zj7AKYXfGLxk9oRa13hs5HquZgjaCqDjUQ1HiKxpump | lulus, hilang | mcap $0k | ATH - | dibuat oleh 8cPxiXfB | bt 1794245420
+
+=== FAMILY induk Ggnz4y26nGu7EC2BcbLzZ9DLdRNJHYG17SycTRGfvGQQ
+  ujung atas: KNOWN_LIST:6tckHFBpiJ8YgYN8FUskvtvTpXQZ55g5LHeo1kvELoDQ | wallet keluarga: 13 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev H3UpP24N | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: H3UpP24N(80tx,1.07SOL) <- Ggnz4y26(35tx,1.12SOL)
+    $TRENCHMAS   HZXfbN8D6cYiZfKeep8kSM5pjEngaXh1TC8oAB4hpump | DEXSCREENER | mcap $26k | ATH - | dibuat oleh Ggnz4y26 | bt 1793305811
+
+=== FAMILY induk GkR7sLwP6R3AvwpPAqz9JXrvbhVh3M7V1fPf5adLDtvr
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 93 (ramai/tak dibuka: 28) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev HUCppwFF | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: HUCppwFF(15tx,0.59SOL) <- GkR7sLwP(150tx,2.97SOL)
+    WEALTH       8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump | DEXSCREENER | mcap $254k | ATH 32x dari lulus (~$1049k) | dibuat oleh GkR7sLwP | bt 1793891073
+
+=== FAMILY induk Gqjsj4b6396HGxXi7QdVCHPwx4oqLJmxmC72oG7k91nv
+  ujung atas: EXCHANGE_SERVICE:F7p3dFrjRTbtRp8FRF6qHLomXbKRBzpvBLjtQcfcgmNe | wallet keluarga: 45 (ramai/tak dibuka: 23) | koin dibuat: 4 | lulus: 1 | DexScreener: 1 | gagal lulus: 2 | terlalu baru (>1794964937): 1
+  dev 7NNJS7Sp | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: 8.9 | rantai: 7NNJS7Sp(30tx,0.50SOL) <- Gqjsj4b6(568tx,0.01SOL)
+    MOONVALE     5p9G6DiiG1ffqqsvxeGhyTY5Gqe2d5J6yCx1qaqNpump | DEXSCREENER | mcap $162k | ATH 9x dari lulus (~$230k) | dibuat oleh 7NNJS7Sp | bt 1794668582
+    GTS          63sgLLxdgUWCxG4zuhVtETkwbPJSDk8KcAtCdUPLpump | baru (belum dinilai) | mcap $0k | ATH - | dibuat oleh 4U8zo3tP | bt 1794970131
+    HUNT         Fm8vw8kduMqjiPQTz9UgXn1MZ6TF5KgCVXbxkPTjpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh Gqjsj4b6 | bt 1792241239
+    lula         GzNhZkT581nD6d9wqcg9AXxkT9fmRgDBUtuxT14npump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4U8zo3tP | bt 1791058399
+
+=== FAMILY induk Gxv1pcs82Lp9MRGxNj3cXzSZrWpd9ZKDnCPSq4uQPDB2
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 8KcM9vn2 | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 8KcM9vn2(697tx,1.42SOL) <- Gxv1pcs8(626tx,0.00SOL)
+    CAT          2HVqzNisr463WMDpp6Q45ekuVfcjm8kEaiKd4ra8pump | DEXSCREENER | mcap $12k | ATH 2x dari lulus (~$34k) | dibuat oleh 8KcM9vn2 | bt 0
+
+=== FAMILY induk H1pVSSf1QrzEv4yGidM1VjrHqF7T2heG6Cp7wgXV1vau
+  ujung atas: KNOWN_LIST:BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6 | wallet keluarga: 2 (ramai/tak dibuka: 0) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev AnxY6sFm | PERANTARA (wallet sekali pakai) | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: AnxY6sFm(26tx,3.30SOL) <- H1pVSSf1(4tx,3.71SOL)
+    SHELLY       7dnVH3aC95d55BMr1pH29bAz4Qi4FYu3Nc6pQsEqpump | DEXSCREENER | mcap $30k | ATH - | dibuat oleh AnxY6sFm | bt 1793546821
+
+=== FAMILY induk HFaZVVqQgnPqcDGt7Ag1KqtQ7ZXjHxcgN5n6Au5ZbWvg
+  ujung atas: EXCHANGE_SERVICE:timeworn2X1EwMLSzeVhdVTbVSzSCKuibKd2kQ2Lsyn | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev CXjJH39m | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: CXjJH39m(274tx,0.82SOL) <- HFaZVVqQ(815tx,0.00SOL)
+    MOOHAN       e9YfLKXrAUswEFgrgCjxjVF3yHU6Vcu4QJBE6k648WT | DEXSCREENER | mcap $16k | ATH - | dibuat oleh CXjJH39m | bt 0
+
+=== FAMILY induk HHRF63YdM8XT1BctiQD43j9iSAG13Ehbc7EBJapMD4PM
+  ujung atas: EXCHANGE_SERVICE:5ndLnEYqSFiA5yUFHo6LVZ1eWc6Rhh11K5CfJNkoHEPs | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev ESQrWxTo | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: ESQrWxTo(943tx,2.49SOL) <- HHRF63Yd(13tx,2.64SOL)
+    SOLV         5wQn3vMRohsB5ep6jRnu6MoHFGEsmy9oXP8WRJz4pump | DEXSCREENER | mcap $178k | ATH 12x dari lulus (~$263k) | dibuat oleh ESQrWxTo | bt 1793883435
+
+=== FAMILY induk HVPhTGo85SYMpNYgRZ2sd1hWe4cjmBQsUz3hF9Hnep4L
+  ujung atas: induk_akumulasi | wallet keluarga: 9 (ramai/tak dibuka: 2) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev BZmbJvQ9 | dev aktif/lama | koin oleh dev: 1 | SOL balik ke keluarga: -0.0 | rantai: BZmbJvQ9(657tx,100.01SOL) <- 8LbywXxC(2tx,100.01SOL) <- AnLQFtQA(4tx,600.01SOL) <- 7zKoqbUk(2tx,600.01SOL) <- 8tN6aK7T(102tx,601.01SOL) <- B9Yha9BV(2tx,601.01SOL) <- HVPhTGo8(208tx,0.01SOL)
+    SPAX10R      941dyEVrMt8uEmtABhXiJQ6yZSGqepumQZQwLYzpump | DEXSCREENER | mcap $1900k | ATH 64x dari lulus (~$1900k) | dibuat oleh BZmbJvQ9 | bt 1794878306
+
+=== FAMILY induk HarQWjjNjJoi7Koftn6FoG67FFgzTjiiak6NJmynoXCN
+  ujung atas: EXCHANGE_SERVICE:H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS | wallet keluarga: 16 (ramai/tak dibuka: 10) | koin dibuat: 13 | lulus: 1 | DexScreener: 1 | gagal lulus: 12 | terlalu baru (>1794964937): 0
+  dev H4jDrBnJ | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: H4jDrBnJ(1013tx,0.86SOL) <- HarQWjjN(873tx,4.00SOL)
+    BAWSAQ       4La95NEVJdYK9kr375SfKPXnLA8ef8GtsjfVfW27pump | DEXSCREENER | mcap $491k | ATH 36x dari lulus (~$1073k) | dibuat oleh HarQWjjN | bt 1794864356
+    CLUCK        6ebVAzQQXTDFDGjjoq5gkJLAF27qa6tMVYjsBzJvvCDJ | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794864850
+    SPRUNK       7P7aaN7eMY264PpXW7VynNaqPwiv3vkGmZaw8FdWpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794867040
+    AMMU         8myBcnVYbd7ymJecYfPi7CYZ7yguJWEqpDPgRh1W6hHU | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794865030
+    PISS         8vDauAzNNewDwzrxCZApRYZ2RSw7a7EocXDKkgjxbkAa | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794864920
+    BURGER       A27dLc33GGKULs5d8jz7iEkS6wKkCBdB1gnzkyxmPEQ7 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794864773
+    MAZE         A4tdsso9PYcgrnENgnbtF1LBGFTZ4LREfSCjn4Jbs6N3 | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794864569
+    LIFE         Cyd32iiRamqhih2aWHjPpp8tpdheEBQdmYUfcVSJpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794866801
+    ECOLA        DXGWgeSRGYkeUYherwSbZueSdXK8GZ7Te5HMgTZrpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794866869
+    ATOM         DdtPzLT1NorpHe2BUBXQgrdqJ2MPVN6uzNJ6wEGCpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794867931
+    VAPID        FhoZ6Jv8soRN63VuBrRbb5voioUNWXwkRymN1ZedwNrs | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794867598
+    BEAN         GSQUem4f5vrHarQQXWYh8UjXxYWkGD6vpym7zzF9pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794866930
+    FLEECA       HyeVVLsk3pKVoiAtqrjq4LAMrBwkLPSQeB7Ykj9Tpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HarQWjjN | bt 1794868366
+
+=== FAMILY induk J1XsnSXcZgvq9FfXJBiVeWoJwGcEnrfGAfTXQQJWuMiK
+  ujung atas: EXCHANGE:GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE | wallet keluarga: 17 (ramai/tak dibuka: 13) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 55EHe7D2 | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: 9.8 | rantai: 55EHe7D2(542tx,2.12SOL) <- J1XsnSXc(162tx,8.40SOL)
+    SICKNOTE     9GgsHTYtP9b4ZtUg2yNngJLYVrtHAsYJJ16gwLmXpump | DEXSCREENER | mcap $40k | ATH - | dibuat oleh 55EHe7D2 | bt 0
+
+=== FAMILY induk JDxwADe6FLaYRUDSks87oHrji2N897w5Esazz4LvWuDo
+  ujung atas: induk_akumulasi | wallet keluarga: 2 (ramai/tak dibuka: 1) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 3ipsxEWq | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 3ipsxEWq(609tx,1.92SOL) <- JDxwADe6(1645tx,0.00SOL)
+    Mikan        EugsQhveCEQGoapBEUrMQxJxWNdshJrSmaLtN4ArRMM1 | DEXSCREENER | mcap $14k | ATH - | dibuat oleh 3ipsxEWq | bt 0
+
+=== FAMILY induk KDuoAd8WLKg3SbBndzVAygpXdPugMje2oPNG5rGLkKU
+  ujung atas: EXCHANGE_SERVICE:H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS | wallet keluarga: 38 (ramai/tak dibuka: 15) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev HCDA5vEw | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: 0.3 | rantai: HCDA5vEw(21tx,20.00SOL) <- 6pb7vYVX(1314tx,54.00SOL) <- KDuoAd8W(9tx,244.76SOL)
+    PBUG         7ERq23T83CExrHwag6FR4mdVWKSAP1jLgV3gBXsmpump | DEXSCREENER | mcap $27k | ATH - | dibuat oleh HCDA5vEw | bt 0
+
+=== FAMILY induk KzSx8FVA1izJASq1jDXb5tCSaAggWJMxdeDiiXyPFPC
+  ujung atas: induk_akumulasi | wallet keluarga: 7 (ramai/tak dibuka: 5) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev 9jHDsN3i | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: 0.4 | rantai: 9jHDsN3i(110tx,1.30SOL) <- KzSx8FVA(1321tx,0.00SOL)
+    APED         ATLqiQSDCMCBUHjrNX4G5HushJuxDbZSN4QkKVT7pump | DEXSCREENER | mcap $22k | ATH - | dibuat oleh 9jHDsN3i | bt 0
+
+=== FAMILY induk NgY5zDwLoY8gtErtyEkJKKVMepQHvpbCH3TYLTeEU7R
+  ujung atas: KNOWN_LIST:BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6 | wallet keluarga: 75 (ramai/tak dibuka: 48) | koin dibuat: 27 | lulus: 1 | DexScreener: 1 | gagal lulus: 26 | terlalu baru (>1794964937): 0
+  dev 9bCVV514 | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: 9bCVV514(476tx,0.01SOL) <- NgY5zDwL(20tx,10.94SOL)
+    CHAT         5sarqEo32KeSxPHFuTiwSk7doGabU4j8hZBcPuhRpump | DEXSCREENER | mcap $11k | ATH - | dibuat oleh NgY5zDwL | bt 1791844967
+    SCAM         2NSxv8byEZhAmc4Jz7LrByXPsJQZz78yUgeYkYQ5pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8q47SL66 | bt 1794160040
+    RUNNER       2g3BUeoYcnyybK8ZfD4C5GorbUws9SxwjpcoW84Hpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 33V8rYb1 | bt 1792642332
+    DIP          58c2eNwAuZrykKgKR1SHKX8YQDYPMMTMcHhpLKXHpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791580465
+    PLUMBER      5kkaW7eD48n7KiPhyeiczqWgoRuy1rTWicHizH3Cpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 33V8rYb1 | bt 1792635814
+    BROKE        5p3QBNDjk9uk9UJqa7LS7yjREcPs5sin1ZwV6E1Qpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4PCHFL45 | bt 1791927337
+    McCat        6oswTRhBs9hCictRqjTUxoUJRPXEcXNdzcZdBVtFpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791675344
+    Catnip       8Ak4FUE5vHGYX2wbdnvUdZnnFbVfdmFBmpmwVasBpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791578299
+    LITTLEGUY    8uDrdt1dAVApjHQaVeaWFTzoZEqZmDbSnUV52WwQpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 33V8rYb1 | bt 1792641956
+    punchcat     98qG1cjenFQHGS5464g9j2nnbQnXQdAHDtDiTCsQpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8q47SL66 | bt 1794355701
+    SYMBIENT     A7FSoVkCHMFgKYRbn72erBKEZ23MDQHjDFZ51PYiVPgv | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1790918039
+    targeting you BHQn2NsuqAd8HRyHDK1imDfMGSZ2LLVWbAd493Vb3aZb | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791159466
+    PUMP         BNx9jaUizGQPrpWtzVHupatB5AzXeTShF3EguSTnpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 33V8rYb1 | bt 1792640639
+    Catnip       CsrozkeuH5LBWf91MKUQYYnEEmwNoPavS5zPBx4Spump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791578185
+    Memecoin     DC7jiy1uX3eDSZXpir3d5qUnogx7iFRzhV29yQPVpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791580374
+    RUNNER       DHrYcYLRG7pogq1ZVkQhZoDxefJzv9BwWaS6sK5ipump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 33V8rYb1 | bt 1792642322
+    Lula         DUPRgPoNWA39K5cMT5paJyzAxH9JdEFSamqFYN6ypump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791580400
+    Nigchi       DfY2WvQ6rwCK8fabHGWjEJFnu3epYmWWNUBhGzKEpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 33V8rYb1 | bt 1792543321
+    Quinnie      EEdezSrS5xCs2kBz45Yw5qVAkbwG9Thy2V68V6Mvpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791580414
+    BROKE        F4HYGnwFWQw5PbFXk4xCRrD1QmxM32Tk88ZmFvv7pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4PCHFL45 | bt 1791926883
+    BUFORD       FK7kbeWRNMxCZWiPdCC5XvrXWn16NThVjFwkCqzkpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8q47SL66 | bt 1794335085
+    MUSCK        FanpHMMqkvK7yHCXMi9fK4ZZjd5t8UJ9t3DQySXtpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 8q47SL66 | bt 1793451038
+    Q/ACC        FkNoimtiQop7oVpqatCU4tNtBfmTUVn6UtCiNZyjpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791580520
+    TikTok       HU4dEiiuCM835RJosvP5v7EwfthBPVJ4hVTNMcr2Bgyq | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791485647
+    Tesselai     HrakicYAM6jQdbVaaBuJyYWfnuGqrJTdbHZqpzjKpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791675288
+    punchcat     HtmmiypCuJ5Bpy7FzkvtDdcwXdwwxuGKz3WCJLKspump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1794355791
+    白毛股神         SscYCWGCrLVT7oVMbGJc4tyKDcCqQgqYP3ifATKpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh FYWJE1Qu | bt 1791578208
+
+=== FAMILY induk SJ65zfYwi9egzqoV3w3eqjN59m2iEhQP9qEChLJBTF7
+  ujung atas: KNOWN_LIST:AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51 | wallet keluarga: 6 (ramai/tak dibuka: 3) | koin dibuat: 1 | lulus: 1 | DexScreener: 1 | gagal lulus: 0 | terlalu baru (>1794964937): 0
+  dev Ax7KAFTy | PERANTARA (wallet sekali pakai) | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: Ax7KAFTy(110tx,0.10SOL) <- 43mswCss(532tx,0.82SOL) <- DMDbHeLT(13tx,0.01SOL) <- SJ65zfYw(17tx,0.00SOL)
+    KALEB        GKj42uUGCAgHUZhAwPPC41WGchYhyfgycatJ8Vzqpump | DEXSCREENER | mcap $35k | ATH - | dibuat oleh Ax7KAFTy | bt 0
+
+=== FAMILY induk w7ziqBqHBBcduCD7xbTD99zTFZJdgEUC59UcMmprwGh
+  ujung atas: KNOWN_LIST:iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu | wallet keluarga: 138 (ramai/tak dibuka: 99) | koin dibuat: 36 | lulus: 7 | DexScreener: 3 | gagal lulus: 29 | terlalu baru (>1794964937): 0
+  dev HZxKqkpB | dev aktif/lama | koin oleh dev: 0 | SOL balik ke keluarga: -0.0 | rantai: HZxKqkpB(537tx,1.85SOL) <- DbVPqZe2(102tx,65.64SOL) <- w7ziqBqH(370tx,3.45SOL)
+    uni          jM9r9PJFyPaMEbhGZPbDeZJiysn2pfyz5TzdDs5pump | DEXSCREENER | mcap $5568k | ATH - | dibuat oleh HZxKqkpB | bt 0
+    Bella        7QEmyQsLBULrN5692LkrnYFn9TLDGQr3nsaW119Rpump | DEXSCREENER | mcap $15k | ATH - | dibuat oleh yHCxHBEa | bt 1794855000
+    F. A. R. M   CHeTSFudhQxWXEgEf9TPVnxDkFFJRSSV1R1nNdjUpump | DEXSCREENER | mcap $2k | ATH - | dibuat oleh yHCxHBEa | bt 1794939331
+    TANK         1v1hhdUp9xtgmtDpmpVnsQfjiSUHCYuTTQbnbrRh8d | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1792412185
+    WHITEWHALE   2PDdMd3ynwT3Dv7EYq9PFVdChBeRtiLn3T6r66Gxpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1792934380
+    STONKV2      2WtRQdsX5qfwqVfpM2UTVi5KfhX5b1QntmJKFAdLpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1792971125
+    HEDGE        38ttfySkH56rX11CwBBe9g6b1qn6rCAn9XGFoBrPpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 61FM14zo | bt 1793660530
+    ELON         3Fu3By862kRtjHwx7y8FAhJEQ2K2BkYTyKSuCKfJpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 23wvpcte | bt 1792367927
+    EZECK        3R9RZg8GTx3r9Gdhd6rhf95sozfTvX47HLkwq27Vpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1792356614
+    ASHKASH      3RYiyKGFjQ7trmPfsTgFjDsinScuP4Jf9QXYLqb1s9qA | lulus, hilang | mcap $0k | ATH - | dibuat oleh yHCxHBEa | bt 1790815165
+    ELON         3iXYnsoM5Ayr6atxyRLT3qBHbxycDwS9SexusbEKpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 23wvpcte | bt 1792368537
+    NOMA         5bRNKejD9iYqMVM4d4q2cuzDi48tUj8pggyVGDonnoma | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 5K1vGuQT | bt 1791405429
+    GREEN        7LbqCuP9RZMkwfC3k367dKRExgyU4ghhUtvFyzmNpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1792971226
+    Bananaut     7pmGZLnuyk36KQ2uEuw4kGXqM6Wn2GXLxawNJPs9pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 61FM14zo | bt 1794770094
+    Banks        81DVLmZD8mrY68Z9StECi8wvcy58H9JctViXNJS6pump | lulus, hilang | mcap $0k | ATH - | dibuat oleh 4p8H6MbD | bt 1792698066
+    ELON         8mhh9f1MCo6d2GpbXgCNH4qnWQDUoki2xA1xC8FJpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 23wvpcte | bt 1792411994
+    COMPUTE      8wrDxFUzfi42fYZJu4FByngoSdyDsUbMkwkZwEGDcomp | GAGAL lulus | mcap $0k | ATH - | dibuat oleh BqXq5BUG | bt 1791989030
+    COMPANY      9b4dP1cZYDVCY4zEZPwhb7Jht5GsJK1QDMvbmzGipump | lulus, hilang | mcap $0k | ATH - | dibuat oleh 9n9jG3Uz | bt 1791498716
+    alex         9hPfbRiRibJWHEvHK5atoE6tuEyKjfuweBat3nhWpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh DUSwZnpD | bt 1792506652
+    INFLUENCER   AMdx2McE8iaHRKSyXRtdtBDAYdxCpHaw3XCELDddpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh E1HRy5H8 | bt 1791136124
+    orcat        DNUWzxruz7E92eEzSK8bK2J7XepdWnhCPsZeLRnopump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4Bci3z9W | bt 1791389791
+    ELON         DeuBLaB269Evum71g1cRayLYoF9hGT2YuVURMnAvpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1792341036
+    Squeeze      Dix5mPULur7o3na8fbHnE7KcUTcHLyjkhfDAYcNPpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2wyFM9fr | bt 1793660152
+    BUY          DsTxA4pULsYvZhs5tjHtQ5d4KJJMK8fVHd6E5HaBELoN | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1793276734
+    Cranker      DxXRPwKrR2P72cwaTHrEfWqSCFo7n14VVyu9zwYXykxm | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 9fQfVqbG | bt 1791128159
+    Q4           Ebfvgax1Y4n8VHkewqpejFmMovkRvrtzwY8fV9L4pump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh ASGpVWpk | bt 1790873006
+    1            Eh1JwC4LMhkZeFi12nVCsfygrzCcHMQQoetWaeoopump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 974ht2Ug | bt 1791996388
+    NET          FKNwNVTSV89H6ebPB6FBujoWkZCU4bMrgALqQ1FFYTZv | GAGAL lulus | mcap $0k | ATH - | dibuat oleh HFo4MCKK | bt 1791146879
+    MITCH        FQVo6UFd6j2h1bTwoqpLCpGKA3Mu6w4iyT4CL1xBpump | lulus, hilang | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1792546499
+    munity       Fer5UkF9w8KntL6dRMZ5eBL7UHUuehe8H29pDBywmun | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1793229444
+    .pump        FkiFNg9dAShQzLWSLUWakUjUyf4Qg49pfwQxFSxApump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh AVnAiic7 | bt 1791399723
+    HOLDUP       GxSGcM1uMX4RFWHMq6mpoNgQxrNqtY42bWfQnZTuhMd | GAGAL lulus | mcap $0k | ATH - | dibuat oleh D9X4dwKU | bt 1791230721
+    DOBRIK       HiAyYhfQ5A1b3foUWkQUgVbm9izTw4vqTLmrmnCwpump | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4uWXJUZS | bt 1793470072
+    SGI          Hj3ECMHDP3vuX4RkrQZvGG74VQPd3NvS1pMB2ASsBazc | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 2842p5JS | bt 1791147894
+    PPL          HjrK7fW5G9RtXbXEdCq5s6JpGwit3d4eUVnHPxq3kcJb | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4xAU6HSd | bt 1791121078
+    avina        oQQ455et7ormhTcoutDjPTLZSFC6GiAogPh8Uhvokvw | GAGAL lulus | mcap $0k | ATH - | dibuat oleh 4p8H6MbD | bt 1792341572

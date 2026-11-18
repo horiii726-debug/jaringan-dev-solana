@@ -56,6 +56,7 @@ pub fn deadcls(dir: &str, trades_f: &str) -> Result<(), String> {
     }
     let tr: HashMap<String, serde_json::Value> = read_lines(trades_f).into_iter().filter_map(|v| Some((v["mint"].as_str()?.to_string(), v))).collect();
     let mut per_root: BTreeMap<String, [usize; 5]> = BTreeMap::new(); // RUG, NAIK, SEPI, LEMAH, no data
+    let mut rugs: HashMap<String, usize> = HashMap::new();
     let mut total = [0usize; 5];
     let mut lines = Vec::new();
     for l in fs::read_to_string(format!("{dir}/dead.tsv")).map_err(|e| e.to_string())?.lines() {
@@ -92,9 +93,15 @@ pub fn deadcls(dir: &str, trades_f: &str) -> Result<(), String> {
                 buyers.insert(u.to_string());
             }
         }
-        let peak_x = peak / entry;
-        let drop = if peak > 0.0 { 1.0 - last / peak } else { 0.0 };
-        let k = if fb > 0.0 && fs_ >= 0.5 * fb && drop >= 0.5 { 0 } else if peak_x >= 3.0 { 1 } else if buyers.len() < 10 { 2 } else { 3 };
+        // non-SOL quote coins: the decoder has no SOL reserves (price 0) -> judge only by who sold to whom
+        let priced = peak > 0.0 && entry > 0.0;
+        let peak_x = if priced { peak / entry } else { 0.0 };
+        let drop = if priced { 1.0 - last / peak } else { 0.0 };
+        let fam_dump = fb > 0.0 && fs_ >= 0.5 * fb;
+        let k = if priced {
+            if fam_dump && drop >= 0.5 { 0 } else if peak_x >= 3.0 { 1 } else if buyers.len() < 10 { 2 } else { 3 }
+        } else if fam_dump && buyers.len() >= 10 { 0 } else if buyers.len() < 10 { 2 } else { 3 };
+        *rugs.entry(root.to_string()).or_default() += (k == 0) as usize;
         per_root.entry(root.to_string()).or_default()[k] += 1;
         total[k] += 1;
         lines.push(format!("{mint} | {} | puncak {:.1}x dari harga beli kita | turun dari puncak {:.0}% | pembeli luar {} | family jual {:.0}% dari belinya",
@@ -112,5 +119,61 @@ pub fn deadcls(dir: &str, trades_f: &str) -> Result<(), String> {
         println!("  {} | {} | {} | {} | {}", &r[..8.min(r.len())], c[0], c[1], c[2], c[3]);
     }
     fs::write(format!("{dir}/dead_cls.txt"), lines.join("\n")).map_err(|e| e.to_string())?;
+    let rt: Vec<String> = rugs.iter().map(|(r, n)| format!("{r}\t{n}")).collect();
+    fs::write(format!("{dir}/rugs.tsv"), rt.join("\n")).map_err(|e| e.to_string())?;
+
+    // Owner rule: a family that rugs often is dropped, unless it also makes many big DexScreener coins.
+    let mut ds: HashMap<String, f64> = HashMap::new();
+    for v in read_lines("data/roots/ds.jsonl") {
+        ds.insert(v["mint"].as_str().unwrap_or("").to_string(), v["mcap"].as_f64().unwrap_or(0.0));
+    }
+    let mut coins: HashMap<String, HashSet<String>> = HashMap::new();
+    let mut cbt: HashMap<String, i64> = HashMap::new();
+    for c in read_lines(&format!("{dir}/creates.jsonl")) {
+        coins.entry(c["root"].as_str().unwrap_or("").to_string()).or_default().insert(c["mint"].as_str().unwrap_or("").to_string());
+        cbt.insert(c["mint"].as_str().unwrap_or("").to_string(), c["bt"].as_i64().unwrap_or(0));
+    }
+    for v in read_lines("data/roots/ds.jsonl") {
+        let m = v["mint"].as_str().unwrap_or("").to_string();
+        let b = v["pair_created"].as_i64().unwrap_or(0) / 1000;
+        cbt.entry(m).or_insert(b);
+    }
+    const ACTIVE_SINCE: i64 = 1_794_700_800; // 15 Nov 00:00 UTC (data ends 18 Nov)
+    let mut dev_root: HashMap<String, String> = HashMap::new();
+    for u in read_lines(&format!("{dir}/up.jsonl")) {
+        if u["induk"] != u["dev"] && u["end"] != "wallet_ramai" {
+            dev_root.insert(u["dev"].as_str().unwrap_or("").to_string(), u["induk"].as_str().unwrap_or("").to_string());
+        }
+    }
+    for v in read_lines("data/roots/pool_creators.jsonl") {
+        if let Some(r) = dev_root.get(v["coin_creator"].as_str().unwrap_or("")) {
+            coins.entry(r.clone()).or_default().insert(v["mint"].as_str().unwrap_or("").to_string());
+        }
+    }
+    let mut rows: Vec<(usize, String)> = Vec::new();
+    let (mut keep, mut drop_n) = (0, 0);
+    let (mut n_moon_fam, mut n_moon, mut n_moon_active) = (0, 0, 0);
+    for (r, ms) in &coins {
+        let n = ms.len();
+        let big = ms.iter().filter(|m| ds.get(*m).copied().unwrap_or(0.0) >= 100_000.0).count();
+        let mil = ms.iter().filter(|m| ds.get(*m).copied().unwrap_or(0.0) >= 1_000_000.0).count();
+        let k40 = ms.iter().filter(|m| ds.get(*m).copied().unwrap_or(0.0) >= 40_000.0).count();
+        let k50 = ms.iter().filter(|m| ds.get(*m).copied().unwrap_or(0.0) >= 50_000.0).count();
+        let on_ds = ms.iter().filter(|m| ds.contains_key(*m)).count();
+        let rg = rugs.get(r).copied().unwrap_or(0);
+        let often_rug = rg >= 2 && rg * 3 >= n; // >= 2 rugs and >= 1/3 of its coins
+        let status = if often_rug && big < 2 { drop_n += 1; "KELUARKAN (sering rug)" } else if often_rug { keep += 1; "PAKAI (rug, tapi banyak koin besar)" } else { keep += 1; "PAKAI" };
+        let last = ms.iter().filter_map(|m| cbt.get(m)).copied().max().unwrap_or(0);
+        let recent = ms.iter().filter(|m| cbt.get(*m).copied().unwrap_or(0) >= ACTIVE_SINCE).count();
+        let akt = if recent > 0 { format!("AKTIF ({recent} koin sejak 15 Nov)") } else { "tidak aktif sejak 15 Nov".to_string() };
+        if mil > 0 { n_moon_fam += 1; n_moon += mil; if recent > 0 { n_moon_active += 1; } }
+        rows.push((mil * 100_000 + big * 1000 + on_ds, format!("{} | {status} | koin {n} | rug {rg} | di DexScreener {on_ds} | >=$40k {k40} | >=$50k {k50} | >=$100k {big} | MOONSHOT >=$1jt {mil} | {akt} | terakhir bikin {last}", &r[..8.min(r.len())])));
+    }
+    rows.sort_by(|a, b| b.0.cmp(&a.0));
+    println!("\nfamily dgn moonshot (>=$1jt): {n_moon_fam} | total koin moonshot: {n_moon} | family moonshot yg masih AKTIF sejak 15 Nov: {n_moon_active}");
+    println!("\nATURAN PEMILIK (sering rug = >=2 rug dan >=1/3 koinnya; kecuali >=2 koin >=$100k): pakai {keep} | keluarkan {drop_n}");
+    for r in rows.iter().take(20) {
+        println!("  {}", r.1);
+    }
     Ok(())
 }

@@ -125,6 +125,7 @@ pub fn devsum(devhist: &str, up: &str) -> Result<(), String> {
         .filter_map(|u| u["dev"].as_str().map(String::from)).collect();
     for (label, only_known) in [("SEMUA DEV", false), ("DEV ASAL JELAS (family)", true)] {
         let (mut devs, mut coins, mut g, mut d, mut big, mut incomplete) = (0, 0, 0, 0, 0, 0);
+        let (mut k40, mut k50, mut m1) = (0usize, 0usize, 0usize);
         let mut buckets = [0usize; 4]; // dev success rate: 0%, <25%, 25-50%, >=50%
         for v in read_lines(devhist) {
             let w = v["w"].as_str().unwrap_or("");
@@ -137,12 +138,14 @@ pub fn devsum(devhist: &str, up: &str) -> Result<(), String> {
             let nd = cs.iter().filter(|m| ds.contains_key(**m)).count();
             let nb = cs.iter().filter(|m| ds.get(**m).copied().unwrap_or(0.0) >= 100_000.0).count();
             coins += cs.len(); g += ng; d += nd; big += nb;
+            let mc = |t: f64| cs.iter().filter(|m| ds.get(**m).copied().unwrap_or(0.0) >= t).count();
+            k40 += mc(40_000.0); k50 += mc(50_000.0); m1 += mc(1_000_000.0);
             let r = nd as f64 / cs.len() as f64;
             buckets[if nd == 0 { 0 } else if r < 0.25 { 1 } else if r < 0.5 { 2 } else { 3 }] += 1;
         }
         let pct = |a: usize| 100.0 * a as f64 / coins.max(1) as f64;
-        println!("\n== {label}: dev {devs} (riwayat terpotong {incomplete}) | koin dibuat {coins}\n  mati di Pump.fun (tak lulus) {} ({:.0}%) | lulus {g} ({:.0}%) | masih di DexScreener {d} ({:.0}%) | mcap>=$100k {big} ({:.1}%)\n  dev menurut % koin yang masih di DexScreener: 0% = {} | <25% = {} | 25-50% = {} | >=50% = {}",
-            coins - g, pct(coins - g), pct(g), pct(d), pct(big), buckets[0], buckets[1], buckets[2], buckets[3]);
+        println!("\n== {label}: dev {devs} (riwayat terpotong {incomplete}) | koin dibuat {coins}\n  mati di Pump.fun (tak lulus) {} ({:.0}%) | lulus {g} ({:.0}%) | masih di DexScreener {d} ({:.0}%) | mcap>=$40k {k40} ({:.1}%) | >=$50k {k50} ({:.1}%) | >=$100k {big} ({:.1}%) | >=$1jt {m1} ({:.1}%)\n  dev menurut % koin yang masih di DexScreener: 0% = {} | <25% = {} | 25-50% = {} | >=50% = {}",
+            coins - g, pct(coins - g), pct(g), pct(d), pct(k40), pct(k50), pct(big), pct(m1), buckets[0], buckets[1], buckets[2], buckets[3]);
     }
     Ok(())
 }
