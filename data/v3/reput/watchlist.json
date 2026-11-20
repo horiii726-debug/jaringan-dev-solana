@@ -1488,6 +1488,23 @@
     ]
   },
   {
+    "ath_max_usd": 52053.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "AMD9cJMKwmDn2fQsfBYVSZnkN6t2B68HuBFxWE4J7cki",
+    "jam_sejak_launch": "60",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "DACT:$52k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "AMD9cJMKwmDn2fQsfBYVSZnkN6t2B68HuBFxWE4J7cki"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 96611.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "AdTpbBwBSJTYPiVNPK7X6Y4CHH8Ziov4kqRdq3oY7LG4",
@@ -2256,7 +2273,7 @@
     "ath_max_usd": 72409.0,
     "berhasil_ath_ge50k": 2,
     "entitas": "UNKNOWN",
-    "jam_sejak_launch": "1",
+    "jam_sejak_launch": "2",
     "koin": 178,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
