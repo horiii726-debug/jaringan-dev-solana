@@ -1,3 +1,5 @@
+> DIGANTIKAN (21 Nov): versi 18 Nov; angka & status terbaru di STATUS_V3.md dan README.md
+
 # STATUS jaringan-dev-solana — 18 Nov 2026
 
 Laporan kerja 18 Nov (sesi "family / induk"). Ditulis untuk pemilik dan untuk sesi berikutnya.

@@ -1,3 +1,5 @@
+> DIGANTIKAN (21 Nov): versi 18 Nov; angka & status terbaru di STATUS_V3.md dan README.md
+
 # Data ringkas 18 Nov (diselamatkan dari log sesi)
 
 Ini BUKAN data lengkap. File data asli (`data/family_a/*.jsonl`, `data/family/*.jsonl`, `data/roots/*`,

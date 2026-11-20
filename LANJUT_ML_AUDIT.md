@@ -1,3 +1,5 @@
+> DIGANTIKAN (21 Nov): versi 18 Nov; angka & status terbaru di STATUS_V3.md dan README.md
+
 # Lanjutan 18 Nov malam — ML v3 + audit kode (STATUS SAAT DISIMPAN)
 
 ## Sudah dikerjakan

@@ -1,3 +1,5 @@
+> DIGANTIKAN (21 Nov): versi 18 Nov; angka & status terbaru di STATUS_V3.md dan README.md
+
 # Hasil penelitian & masalah — 18 Nov 2026
 
 Ditulis untuk pemilik. Ringkas: apa yang ditemukan, apa artinya untuk trading, dan apa yang masih jadi masalah.

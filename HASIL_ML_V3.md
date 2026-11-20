@@ -1,3 +1,5 @@
+> DIGANTIKAN (21 Nov): versi 18 Nov; angka & status terbaru di STATUS_V3.md dan README.md
+
 # Hasil ML v3 (jujur) — 18 Nov 2026
 
 Model CatBoost menebak, saat kita beli ±1 detik setelah koin lahir: **MATI** (mati di Pump.fun, tidak pernah +30%),

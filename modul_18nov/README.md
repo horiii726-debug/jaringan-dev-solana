@@ -1,3 +1,5 @@
+> DIGANTIKAN (21 Nov): salinan modul 18 Nov; versi aktif ada di src/
+
 # Modul Rust 18 Nov
 
 Salinan modul yang dipakai di VPS (`/root/jaringan/src/`). Versi lengkap (beserta `main.rs` yang sudah
