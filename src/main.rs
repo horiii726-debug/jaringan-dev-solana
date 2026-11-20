@@ -3,6 +3,7 @@ mod qdev;
 mod reput;
 mod athgt;
 mod udpprobe;
+mod streamrise;
 mod mosq;
 mod fam2;
 mod coinrise;
@@ -132,6 +133,7 @@ fn main() -> ExitCode {
         Some("qfam") if a.len() == 6 => qdev::run_family(&a[2], &a[3], &a[4], &a[5]),
         Some("reput") if a.len() == 8 => reput::run(&a[2], &a[3], &a[4], &a[5], &a[6], &a[7]),
         Some("athgt") if a.len() == 5 => athgt::run(&a[2], &a[3], &a[4]),
+        Some("streamrise") if a.len() == 5 => streamrise::run(&a[2], &a[3], a[4].parse().unwrap_or(5)),
         Some("udpprobe") if a.len() == 4 => udpprobe::run(a[2].parse().unwrap_or(8001), a[3].parse().unwrap_or(600)),
         Some("athdbg") if a.len() == 5 => athgt::dbg(&a[2], a[3].parse().unwrap_or(0), a[4].parse().unwrap_or(5)),
         Some("famview") if a.len() == 5 => famview::run(&a[2], &a[3], &a[4]),

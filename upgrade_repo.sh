@@ -40,16 +40,58 @@ tar -czf /tmp/data_v3.tgz --exclude='data/v3/ath/old_formula*' --exclude='data/v
 mkdir -p data_gz && rm -f data_gz/data.tgz.p_* data_gz/MD5SUMS
 split -b 20M /tmp/data_v3.tgz data_gz/data.tgz.p_
 (cd data_gz && md5sum data.tgz.p_* > MD5SUMS)
-printf "# data_gz\nCadangan terkompresi data V3 per %s (bukan lagi data 18 Nov).\nGabung: cat data.tgz.p_* > data.tgz && tar -xzf data.tgz\n" "$(date -u '+%Y-%m-%d %H:%M UTC')" > data_gz/README.md
+printf '# data_gz\nCompressed backup of the V3 data as of %s (no longer the 18 Nov data).\nRestore: cat data.tgz.p_* > data.tgz && tar -xzf data.tgz\n' "$(date -u '+%Y-%m-%d %H:%M UTC')" > data_gz/README.md
+# 4. (pre-V3 files were removed on 21 Nov; nothing superseded is left to annotate)
+# 4b. gRPC results report (English)
+bash grpc_report.sh
+# 5. STATUS_V3.md (English): numbers of this very run
+R=/tmp/rp.json; V=/tmp/fv.json; W=data/v3/fam2/wallet_class.jsonl
+n() { jq -r "$1" "$2"; }
+cat > STATUS_V3.md <<EOF
+# V3 status — $(date -u '+%Y-%m-%d %H:%M UTC')
 
-# 4. superseded files keep their content, with a pointer on top
-note() { f=$1; shift; grep -q "^> DIGANTIKAN" "$f" 2>/dev/null || { printf "> DIGANTIKAN (21 Nov): %s\n\n" "$*" | cat - "$f" > /tmp/n && mv /tmp/n "$f"; }; }
-for f in STATUS.md HASIL_DAN_MASALAH.md HASIL_ML_V3.md LANJUT_ML_AUDIT.md data_ringkas_18nov.md; do
-  [ -f "$f" ] && note "$f" "versi 18 Nov; angka & status terbaru di STATUS_V3.md dan README.md"
-done
-[ -f modul_18nov/README.md ] && note modul_18nov/README.md "salinan modul 18 Nov; versi aktif ada di src/"
-for d in data/v3/unified data/v3/family; do [ -d $d ] || continue
-  printf "# %s\nHasil antara versi sebelumnya (20 Nov). Digantikan oleh data/v3/fam2 (family, bersih exchange/bot),\ndata/v3/view (family aktif) dan data/v3/reput (reputasi + watchlist).\n" "$d" > $d/README.md
-done
+Generated automatically from the data at this commit (\`jaringan reput\`, \`jaringan famview\`).
+Data collection is STILL RUNNING; numbers grow with later commits.
+
+## Creators (only creators of coins seen on DexScreener)
+- Creators: **$(n .creators $R)** (dropped, no DexScreener coin: $(n .creators_non_dexscreener_dropped $R))
+- History not traced yet: $(n .creators_not_traced $R)
+- Coins recorded: $(n .coins $R); coins with a measured ATH: $(n .coins_with_ath $R); ATH >= \$50k (real): $(n .ath_ge50k $R); >= \$100k: $(n .ath_ge100k $R); >= \$1M: $(n .ath_ge1m $R)
+- Empty pools (graduated, price ~0): $(n .pool_kosong $R); doubtful ATH data: $(n .ath_data_ragu $R)
+- Creator status: $(n '.status | to_entries | map("\(.key) \(.value)") | join(", ")' $R)
+- Elimination reasons: $(n '.eliminasi_alasan | to_entries | map("\(.key) \(.value)") | join(", ")' $R)
+  (SERING_RUG = rugs often, KOIN_SEPI = thin coins, JUAL_DETIK_AWAL = sells in the first seconds, DEV_BOT = launch bot)
+
+## Families (one operator = one entity)
+- Families active <= 30 days: **$(n .families_active $V)**, wallets in them: $(n .wallets_in_active_families $V)
+- Wallet roles: $(n '.roles | to_entries | map("\(.key) \(.value)") | join(", ")' $V) (INDUK = funding parent, PERANTARA = intermediary, PENERIMA = receives profits)
+- Independent active devs: $(n .independent_devs_active $V); one-time dev wallets: $(n .one_time_dev_wallets_active $V)
+- Wallet classes checked: $(jq -r .class $W | sort | uniq -c | awk '{printf "%s %s, ", $2, $1}')(INFRA_LIST = exchange, INFRA_BUSY = bot / super-busy wallet, NON_WALLET = program account; none of them links a family)
+
+## Watchlist
+- Entities: **$(n .watchlist_entitas $R)** (families $(n .watchlist_family $R), independents $(n .watchlist_independen $R))
+- Wallets watched (DEV + INDUK + PERANTARA): **$(n .watchlist_wallet $R)**
+- Coins in the watchlist archive: $(n .watchlist_koin $R), successful (ATH >= \$50k): $(n .watchlist_koin_berhasil_ge50k $R)
+- Entity status: $(n '.entitas | to_entries | map("\(.key) \(.value)") | join(", ")' $R)
+
+## Done
+- Creators & families from DexScreener coins, screen (rugs / thin coins / early sells / launch bots), watchlist + project archive.
+- ATH formula 3 (validated +-5% vs GeckoTerminal); non-SOL pools, thin pools and buy-only pools excluded.
+- ShredStream gRPC receiver: Pump.fun creates seen ~0.15-0.9 s after the block, matched to the watchlist (see GRPC_SHREDSTREAM.md).
+- Rows broken by the Helius quota cleaned; jobs stop on quota; request rate sized to the key.
+
+## Not done yet
+- Data incomplete (ATH and dev histories still running; see "history not traced yet").
+- Paper mode (simulated buy when a watchlist entity creates a coin, hold to the DEX, P/L and latency).
+- Historical backtest + ML (will a watchlist entity's next coin rise again), walk-forward, simple-rule baseline.
+- Mint of new-format (0x81) stream transactions and parent -> new-wallet transfers in that format.
+
+## Problems
+- Helius key limited to ~15 calls/s (slow); remaining credits must be checked on the Helius dashboard.
+- Low vast.ai balance: the server stops when it runs out.
+- ShredStream trials end 21 Nov; longer tests need a paid plan. The vast server cannot receive UDP.
+- The VPS has no GitHub login (pushes go through the laptop).
+- No watchlist entity has created a coin during the stream tests yet (matching not proven on a real case).
+EOF
 git add -A
 git diff --cached --stat | tail -1

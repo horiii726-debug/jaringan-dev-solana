@@ -1,14 +1,14 @@
 [
   {
-    "ath_max_usd": 627133.0,
-    "berhasil_ath_ge50k": 3,
+    "ath_max_usd": 662503.0,
+    "berhasil_ath_ge50k": 4,
     "entitas": "ABNL41SwMLVRaCq6okEWsWyvLwm56nazUNwMrTHgmuyf",
-    "jam_sejak_launch": "2",
+    "jam_sejak_launch": "3",
     "koin": 13,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
     "tipe": "FAMILY",
-    "top3": "BTC:$627k,iCat:$399k,Brian:$212k",
+    "top3": "GTA:$663k,BTC:$627k,iCat:$399k",
     "wallets": [
       {
         "role": "DEV",
@@ -25,15 +25,15 @@
     ]
   },
   {
-    "ath_max_usd": 546566.0,
-    "berhasil_ath_ge50k": 2,
+    "ath_max_usd": 672891.0,
+    "berhasil_ath_ge50k": 3,
     "entitas": "7yG4YiriWeTFy3J72di5hTz5bG9t2DL8EabN1Nzx6m8H",
     "jam_sejak_launch": "26",
     "koin": 4,
     "rug": 0,
     "status": "LOLOS_BERKUALITAS",
     "tipe": "FAMILY",
-    "top3": "BUNCOIN:$547k,PAPA:$344k",
+    "top3": "BUCKME:$673k,BUNCOIN:$547k,PAPA:$344k",
     "wallets": [
       {
         "role": "DEV",
@@ -58,7 +58,7 @@
     "berhasil_ath_ge50k": 3,
     "entitas": "EVkj48m7S2hnqPChj8V6hpfu21CxCdGonGjsiDN2hsLQ",
     "jam_sejak_launch": "2",
-    "koin": 76,
+    "koin": 77,
     "rug": 6,
     "status": "LOLOS_BERKUALITAS",
     "tipe": "FAMILY",
@@ -139,6 +139,10 @@
       {
         "role": "DEV",
         "w": "AFzqFnTqMZ1JYe2hn4szrJuDSMeMGCdux4KLCkHz3GCV"
+      },
+      {
+        "role": "DEV",
+        "w": "ATLw3hVRcyLHuZXqENMP9zyAi2YCkyZiZ3BnykQZiLze"
       },
       {
         "role": "PERANTARA",
@@ -428,7 +432,7 @@
     "ath_max_usd": 97006.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "HG9mHiP6yZceNbfSQFjBcFFsrixe7eDfL6rK4AsKjU85",
-    "jam_sejak_launch": "8",
+    "jam_sejak_launch": "9",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -657,7 +661,7 @@
     "ath_max_usd": 80534.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "AFUqYVD21LtEVRLWxRaYzKY6nnWcnAYnM5rRhNivCadP",
-    "jam_sejak_launch": "21",
+    "jam_sejak_launch": "22",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -801,7 +805,7 @@
     "ath_max_usd": 51801.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "2WtRm1WTejE9HyhW9V526rBPVfZCqVgmHro4U93L4cmH",
-    "jam_sejak_launch": "26",
+    "jam_sejak_launch": "27",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -849,10 +853,27 @@
     ]
   },
   {
+    "ath_max_usd": 106267467.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "3SBp6p8g2uc6ibbV52D78tvYgzFzVqHQJGvfP9d3sTsG",
+    "jam_sejak_launch": "52",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "VTC6:$106267k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "3SBp6p8g2uc6ibbV52D78tvYgzFzVqHQJGvfP9d3sTsG"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 70190.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "3V8SXdSkP3612eEC5xtw4dcDgJdBc7eeiKMB8g9VCGSY",
-    "jam_sejak_launch": "24",
+    "jam_sejak_launch": "25",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -988,7 +1009,7 @@
     "ath_max_usd": 131948.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "4YE3dzCC2nZYSDzte64RcmoD74qD8otmY81uBAVuQMnE",
-    "jam_sejak_launch": "25",
+    "jam_sejak_launch": "26",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1066,6 +1087,23 @@
       {
         "role": "DEV",
         "w": "5roYXnk4GeMHxrGsdFpakAcwpyumqWRQUrRvWFKFUqiP"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 72645.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "5sDi5wQsFU7ojzfqDWaz1K64GqdKHsb48FE4RCy8fkW4",
+    "jam_sejak_launch": "51",
+    "koin": 2,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "Mabel:$73k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "5sDi5wQsFU7ojzfqDWaz1K64GqdKHsb48FE4RCy8fkW4"
       }
     ]
   },
@@ -1311,7 +1349,7 @@
     "ath_max_usd": 152969.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "79W5gXtEMAkcczPzY5sMwDz5NK2fDKL9Eb6qxPRouqLr",
-    "jam_sejak_launch": "32",
+    "jam_sejak_launch": "33",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1362,7 +1400,7 @@
     "ath_max_usd": 153494.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "87nZxy4m9UfP8bMVSYbnt5vkRYU5tRW93f6rQC5KB5u3",
-    "jam_sejak_launch": "32",
+    "jam_sejak_launch": "33",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1396,7 +1434,7 @@
     "ath_max_usd": 138425.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "8WvihjNUUcSuA1dVug1LyFPZ5nnkw4wkWUduBoonGtKf",
-    "jam_sejak_launch": "30",
+    "jam_sejak_launch": "31",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1427,6 +1465,23 @@
     ]
   },
   {
+    "ath_max_usd": 2707126084.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "8fXoc9a7shkcbQHU9LKkejxUgjdw9yEUkbTp6kfBXf9t",
+    "jam_sejak_launch": "55",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "VTC:$2707126k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "8fXoc9a7shkcbQHU9LKkejxUgjdw9yEUkbTp6kfBXf9t"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 5805402.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "8i4nRZfeCV7A2FqEy4qZMTMzPXCUHKXprqPEBsfAoKg3",
@@ -1444,6 +1499,23 @@
     ]
   },
   {
+    "ath_max_usd": 57462.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "8oQvFQyKduhDKe4FfysrDx4Dtasvr6ntZNj6mqop7zWX",
+    "jam_sejak_launch": "75",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "WW:$57k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "8oQvFQyKduhDKe4FfysrDx4Dtasvr6ntZNj6mqop7zWX"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 301932.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "8oRgrnWCxSJyjBFNAGzEYLvJnD4g5X3nK1QGizmghXPc",
@@ -1457,6 +1529,40 @@
       {
         "role": "DEV",
         "w": "8oRgrnWCxSJyjBFNAGzEYLvJnD4g5X3nK1QGizmghXPc"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 93640.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "8vGmzvQ3X289YyR2JCFqjCp1Us3YB5ivWKVvMVfSnuR3",
+    "jam_sejak_launch": "56",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "DACITY:$94k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "8vGmzvQ3X289YyR2JCFqjCp1Us3YB5ivWKVvMVfSnuR3"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 55328.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "91UD2AGR57XY4UBV9G8ZDuqebS9Ex7LXUwwwxtyBZU9K",
+    "jam_sejak_launch": "100",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "NGA6:$55k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "91UD2AGR57XY4UBV9G8ZDuqebS9Ex7LXUwwwxtyBZU9K"
       }
     ]
   },
@@ -1498,7 +1604,7 @@
     "ath_max_usd": 144169.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "9MaFXsCzLSwiNVUgdUKCMWCrp9vmt34HfN59rSqg9MDW",
-    "jam_sejak_launch": "52",
+    "jam_sejak_launch": "53",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1542,6 +1648,23 @@
       {
         "role": "DEV",
         "w": "9bpB6ZTY4UHGtL5ZYJ7DxRimug6P5iDJi2pibApvTsph"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 579775.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "9oG5wdJVyHkQkj7srJe2UhL2Q323DeonmKopAnj39RaY",
+    "jam_sejak_launch": "53",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "AI:$580k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "9oG5wdJVyHkQkj7srJe2UhL2Q323DeonmKopAnj39RaY"
       }
     ]
   },
@@ -1597,6 +1720,23 @@
     ]
   },
   {
+    "ath_max_usd": 81430.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "AXCdtYmV6CFe4DwvNetuhgiL1mDMGvgWKiueCiuYenX9",
+    "jam_sejak_launch": "51",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "AMAZON:$81k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "AXCdtYmV6CFe4DwvNetuhgiL1mDMGvgWKiueCiuYenX9"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 96611.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "AdTpbBwBSJTYPiVNPK7X6Y4CHH8Ziov4kqRdq3oY7LG4",
@@ -1610,23 +1750,6 @@
       {
         "role": "DEV",
         "w": "AdTpbBwBSJTYPiVNPK7X6Y4CHH8Ziov4kqRdq3oY7LG4"
-      }
-    ]
-  },
-  {
-    "ath_max_usd": 437719.0,
-    "berhasil_ath_ge50k": 3,
-    "entitas": "AosepN8EQoch2n3tv3UJ8n2ENy1sFqAikHWXKK4Mcjwr",
-    "jam_sejak_launch": "31",
-    "koin": 11,
-    "rug": 0,
-    "status": "LOLOS_DATA_KURANG",
-    "tipe": "INDEPENDEN",
-    "top3": "kimchi:$438k,kimrich:$155k,Vice_Cat:$52k",
-    "wallets": [
-      {
-        "role": "DEV",
-        "w": "AosepN8EQoch2n3tv3UJ8n2ENy1sFqAikHWXKK4Mcjwr"
       }
     ]
   },
@@ -1678,6 +1801,23 @@
       {
         "role": "DEV",
         "w": "BgukVoWBdRGMvsj6ck8HDMTnsA1xKiPSootqJKWP8hks"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 5571181654.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "BmAKuBDeQUXJXCSePE2bFVHgrnxJovapf4VbcdVheRfe",
+    "jam_sejak_launch": "55",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "VTC:$5571182k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "BmAKuBDeQUXJXCSePE2bFVHgrnxJovapf4VbcdVheRfe"
       }
     ]
   },
@@ -1770,7 +1910,7 @@
     "ath_max_usd": 100209.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "DWA35DqLXiNE6aCevYo46nHwG9h6QZgUwSpxYa9MC9et",
-    "jam_sejak_launch": "22",
+    "jam_sejak_launch": "23",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1937,10 +2077,27 @@
     ]
   },
   {
+    "ath_max_usd": 196038478.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "E821ovmutknpqqxCRxtrhEutPi7SgNm7ioXcWTsimnU3",
+    "jam_sejak_launch": "56",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "VTC:$196038k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "E821ovmutknpqqxCRxtrhEutPi7SgNm7ioXcWTsimnU3"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 64733.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "EBuyVCjWK7sZ7A6WnqgJ692wZJWFjug33Zoc6S1NGtrz",
-    "jam_sejak_launch": "47",
+    "jam_sejak_launch": "48",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1954,10 +2111,27 @@
     ]
   },
   {
+    "ath_max_usd": 2668974353.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "EHgSLaUpSPz36UNyuY1AK1xCiykEAQVnctQu32ttxsyi",
+    "jam_sejak_launch": "48",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "VTC:$2668974k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "EHgSLaUpSPz36UNyuY1AK1xCiykEAQVnctQu32ttxsyi"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 52643.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "EPfmD94LW1uLnfxBacW76v5ez6FfSq6gR7DCxw9Cz6yk",
-    "jam_sejak_launch": "57",
+    "jam_sejak_launch": "58",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -1988,6 +2162,40 @@
     ]
   },
   {
+    "ath_max_usd": 356000784.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "EdFhkUEjm9tHJZoHUJeWA8KTkmxt3tAajatjPXYfYt3d",
+    "jam_sejak_launch": "53",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "VTC:$356001k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "EdFhkUEjm9tHJZoHUJeWA8KTkmxt3tAajatjPXYfYt3d"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 68038.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "EfLhnE6VYHYF9dxXfUNjcb5mjt7d14sLeY3zaVWuqgH5",
+    "jam_sejak_launch": "45",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "HNYDRIP:$68k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "EfLhnE6VYHYF9dxXfUNjcb5mjt7d14sLeY3zaVWuqgH5"
+      }
+    ]
+  },
+  {
     "ath_max_usd": 163780.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "EoWaFRSYxhCb1KhaRJo53ZAHhCRcQy73g2TJtmtXxzux",
@@ -2008,7 +2216,7 @@
     "ath_max_usd": 59624.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "ErCXAswLYL3H5FCDFG4iJvBSeuzyeefJGyD5QFkGQppM",
-    "jam_sejak_launch": "39",
+    "jam_sejak_launch": "40",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -2025,7 +2233,7 @@
     "ath_max_usd": 351054.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "Ev5f9DSLceF19dyEzk7JeHgBNmC1u9WTrUSEXTvHDtU6",
-    "jam_sejak_launch": "22",
+    "jam_sejak_launch": "23",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -2059,7 +2267,7 @@
     "ath_max_usd": 100541.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "FAnhMwGL4fFBTuow8rF12NK48mnPvJWCxqUBh222S6b7",
-    "jam_sejak_launch": "37",
+    "jam_sejak_launch": "38",
     "koin": 2,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -2076,7 +2284,7 @@
     "ath_max_usd": 340619.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "FLeFgmUBKUCgahM1tkDmspM1rZSRfkmjqHRRfiBepLbq",
-    "jam_sejak_launch": "24",
+    "jam_sejak_launch": "25",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -2086,6 +2294,57 @@
       {
         "role": "DEV",
         "w": "FLeFgmUBKUCgahM1tkDmspM1rZSRfkmjqHRRfiBepLbq"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 159099.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "FNLyuU2iB9RWfJxTWoUQnKaBgVEf7gfgXrJkMy1xrXiH",
+    "jam_sejak_launch": "152",
+    "koin": 3,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "VI:$159k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "FNLyuU2iB9RWfJxTWoUQnKaBgVEf7gfgXrJkMy1xrXiH"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 75184.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "FVattc5v8RJSnBVf6w1UcExDwm8ETbsjbs66eAHVjafz",
+    "jam_sejak_launch": "48",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "AMAZON:$75k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "FVattc5v8RJSnBVf6w1UcExDwm8ETbsjbs66eAHVjafz"
+      }
+    ]
+  },
+  {
+    "ath_max_usd": 7657373.0,
+    "berhasil_ath_ge50k": 1,
+    "entitas": "FgBKWmfBSCTAATrAQKxNg2gkS4d7yu5qxPYr94P9vpLB",
+    "jam_sejak_launch": "54",
+    "koin": 1,
+    "rug": 0,
+    "status": "LOLOS_DATA_KURANG",
+    "tipe": "INDEPENDEN",
+    "top3": "IOF:$7657k",
+    "wallets": [
+      {
+        "role": "DEV",
+        "w": "FgBKWmfBSCTAATrAQKxNg2gkS4d7yu5qxPYr94P9vpLB"
       }
     ]
   },
@@ -2144,7 +2403,7 @@
     "ath_max_usd": 4305670421.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "G5ZMqPERpjWCD59zujKzCUbSLn5nkzFonbBzbje9CPNd",
-    "jam_sejak_launch": "55",
+    "jam_sejak_launch": "56",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -2348,7 +2607,7 @@
     "ath_max_usd": 60441.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "HW6A77oqtEZGFaZ4ukzARYjMCe2qwh6Hv6ZhZp6HM19V",
-    "jam_sejak_launch": "29",
+    "jam_sejak_launch": "30",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",
@@ -2501,7 +2760,7 @@
     "ath_max_usd": 145485.0,
     "berhasil_ath_ge50k": 1,
     "entitas": "vmyYm2MfgxpSXrR7ns5jPuZrjnNeknJiis41sKvwrz9",
-    "jam_sejak_launch": "32",
+    "jam_sejak_launch": "33",
     "koin": 1,
     "rug": 0,
     "status": "LOLOS_DATA_KURANG",

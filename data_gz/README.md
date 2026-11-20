@@ -1,3 +1,3 @@
 # data_gz
-Cadangan terkompresi data V3 per 2026-11-20 23:41 UTC (bukan lagi data 18 Nov).
-Gabung: cat data.tgz.p_* > data.tgz && tar -xzf data.tgz
+Compressed backup of the V3 data as of 2026-11-20 23:51 UTC (no longer the 18 Nov data).
+Restore: cat data.tgz.p_* > data.tgz && tar -xzf data.tgz

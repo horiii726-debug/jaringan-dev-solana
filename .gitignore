@@ -16,3 +16,12 @@ data/v3/**/run*.log
 data/v3/**/progress.log
 data/shred/
 checkpoints/credits*/
+!data/shred/
+data/shred/*
+!data/shred/creates.jsonl
+!data/shred/hits.jsonl
+!data/shred/dynamic_watch.jsonl
+!data/shred/GRPC_RESULTS.md
+!data/shred/rise/
+data/shred/rise/*
+!data/shred/rise/rise.jsonl

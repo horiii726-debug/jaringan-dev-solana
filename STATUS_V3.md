@@ -1,43 +1,44 @@
-# Status V3 — 2026-11-20 23:31 UTC
+# V3 status — 2026-11-20 23:51 UTC
 
-Angka di bawah dihasilkan otomatis dari data saat commit ini (`jaringan reput`, `jaringan famview`).
-Pengumpulan data MASIH BERJALAN, angka akan naik di commit berikutnya.
+Generated automatically from the data at this commit (`jaringan reput`, `jaringan famview`).
+Data collection is STILL RUNNING; numbers grow with later commits.
 
-## Creator (hanya yang koinnya ada di DexScreener)
-- Creator: **4376** (dibuang karena bukan koin DexScreener: 5004)
-- Riwayat belum ditelusuri: 3114
-- Koin tercatat: 27255; koin dengan ATH terukur: 514; ATH >= $50k (asli): 169; >= $100k: 104; >= $1 jt: 16
-- Pool kosong (lulus tapi harga ~0): 464; ATH data ragu: 0
-- Status creator: BELUM_CUKUP_DATA 3140, ELIMINASI 614, LOLOS_BELUM_TERBUKTI 504, LOLOS_DATA_KURANG 118
-- Alasan eliminasi: JUAL_DETIK_AWAL 163, KOIN_SEPI 441, SERING_RUG 73
+## Creators (only creators of coins seen on DexScreener)
+- Creators: **4384** (dropped, no DexScreener coin: 5004)
+- History not traced yet: 3002
+- Coins recorded: 27594; coins with a measured ATH: 630; ATH >= $50k (real): 212; >= $100k: 129; >= $1M: 29
+- Empty pools (graduated, price ~0): 691; doubtful ATH data: 0
+- Creator status: BELUM_CUKUP_DATA 2898, ELIMINASI 754, LOLOS_BELUM_TERBUKTI 583, LOLOS_DATA_KURANG 149
+- Elimination reasons: DEV_BOT 13, JUAL_DETIK_AWAL 174, KOIN_SEPI 560, SERING_RUG 77
+  (SERING_RUG = rugs often, KOIN_SEPI = thin coins, JUAL_DETIK_AWAL = sells in the first seconds, DEV_BOT = launch bot)
 
-## Family (satu operator = satu entitas)
-- Family aktif <= 30 hari: **500**, wallet di dalamnya: 4565
-- Peran wallet: DEV 670, INDUK 333, PENERIMA 3002, PERANTARA 560
-- Dev independen aktif: 760; wallet dev sekali pakai: 211
-- Kelas wallet yang dicek: INFRA_BUSY 269, INFRA_LIST 23, NON_WALLET 1162, ORDINARY 4089,  (INFRA_LIST = exchange, INFRA_BUSY = bot/wallet super ramai, NON_WALLET = akun program; ketiganya tidak dipakai menyambung family)
+## Families (one operator = one entity)
+- Families active <= 30 days: **536**, wallets in them: 4803
+- Wallet roles: DEV 719, INDUK 348, PENERIMA 3167, PERANTARA 569 (INDUK = funding parent, PERANTARA = intermediary, PENERIMA = receives profits)
+- Independent active devs: 816; one-time dev wallets: 216
+- Wallet classes checked: INFRA_BUSY 282, INFRA_LIST 24, NON_WALLET 1264, ORDINARY 4315, (INFRA_LIST = exchange, INFRA_BUSY = bot / super-busy wallet, NON_WALLET = program account; none of them links a family)
 
 ## Watchlist
-- Entitas: **116** (family 26, independen 90)
-- Wallet dipantau (DEV + INDUK + PERANTARA): **182**
-- Koin di arsip watchlist: 414, di antaranya berhasil (ATH >= $50k): 122
-- Status entitas: FAMILY:BELUM_CUKUP_DATA 40, FAMILY:ELIMINASI 186, FAMILY:LOLOS_BELUM_TERBUKTI 155, FAMILY:LOLOS_BERKUALITAS 2, FAMILY:LOLOS_DATA_KURANG 24, INDEPENDEN:BELUM_CUKUP_DATA 3091, INDEPENDEN:ELIMINASI 378, INDEPENDEN:LOLOS_BELUM_TERBUKTI 294, INDEPENDEN:LOLOS_DATA_KURANG 90
+- Entities: **146** (families 26, independents 120)
+- Wallets watched (DEV + INDUK + PERANTARA): **219**
+- Coins in the watchlist archive: 454, successful (ATH >= $50k): 154
+- Entity status: FAMILY:BELUM_CUKUP_DATA 48, FAMILY:ELIMINASI 190, FAMILY:LOLOS_BELUM_TERBUKTI 179, FAMILY:LOLOS_BERKUALITAS 2, FAMILY:LOLOS_DATA_KURANG 24, INDEPENDEN:BELUM_CUKUP_DATA 2835, INDEPENDEN:ELIMINASI 514, INDEPENDEN:LOLOS_BELUM_TERBUKTI 343, INDEPENDEN:LOLOS_DATA_KURANG 120
 
-## Sudah dikerjakan
-- Pengumpulan creator & family dari koin DexScreener, saringan (rug / sepi / jual detik awal), watchlist + arsip proyek.
-- ATH formula 3 (tervalidasi +-5% vs GeckoTerminal), buang pool non-SOL, pool sepi, pool cuma-beli.
-- Penerima ShredStream gRPC: deteksi create Pump.fun +-0,15-0,5 dtk setelah blok, cocokkan watchlist + wallet baru kiriman induk.
-- Data rusak akibat kuota Helius dibersihkan; job berhenti saat kuota habis; laju sesuai batas key.
+## Done
+- Creators & families from DexScreener coins, screen (rugs / thin coins / early sells / launch bots), watchlist + project archive.
+- ATH formula 3 (validated +-5% vs GeckoTerminal); non-SOL pools, thin pools and buy-only pools excluded.
+- ShredStream gRPC receiver: Pump.fun creates seen ~0.15-0.9 s after the block, matched to the watchlist (see GRPC_SHREDSTREAM.md).
+- Rows broken by the Helius quota cleaned; jobs stop on quota; request rate sized to the key.
 
-## Belum dikerjakan
-- Data belum lengkap (ATH & riwayat dev masih berjalan; lihat angka "belum ditelusuri").
-- Mode paper (beli pura-pura saat watchlist membuat koin, tahan sampai DEX, hitung untung/rugi & latensi).
-- Uji historis + ML (prediksi koin baru entitas akan naik lagi), walk-forward, pembanding aturan sederhana.
-- Alamat mint untuk transaksi format baru (0x81) di stream belum terbaca (nama, simbol, creator sudah).
+## Not done yet
+- Data incomplete (ATH and dev histories still running; see "history not traced yet").
+- Paper mode (simulated buy when a watchlist entity creates a coin, hold to the DEX, P/L and latency).
+- Historical backtest + ML (will a watchlist entity's next coin rise again), walk-forward, simple-rule baseline.
+- Mint of new-format (0x81) stream transactions and parent -> new-wallet transfers in that format.
 
-## Masalah
-- Key Helius dibatasi +-15 panggilan/detik (lambat); sisa kredit harus dicek di dashboard Helius.
-- Saldo vast.ai rendah: kalau habis, server berhenti.
-- Trial ShredStream habis 21 Nov; uji panjang butuh paket berbayar. Server vast tidak bisa menerima UDP.
-- VPS tidak punya login GitHub (push lewat laptop).
-- Belum ada entitas watchlist yang membuat koin selama uji ShredStream (pencocokan belum terbukti dengan contoh nyata).
+## Problems
+- Helius key limited to ~15 calls/s (slow); remaining credits must be checked on the Helius dashboard.
+- Low vast.ai balance: the server stops when it runs out.
+- ShredStream trials end 21 Nov; longer tests need a paid plan. The vast server cannot receive UDP.
+- The VPS has no GitHub login (pushes go through the laptop).
+- No watchlist entity has created a coin during the stream tests yet (matching not proven on a real case).

@@ -1,52 +1,61 @@
-# jaringan-dev-solana — V3 (creator & family dev Pump.fun dari koin DexScreener)
+# jaringan-dev-solana — V3 (Pump.fun creators & dev families from DexScreener coins)
 
-Angka terbaru (diperbarui tiap commit): **[STATUS_V3.md](STATUS_V3.md)**. Rincian perbaikan: [RINGKASAN_V3.md](RINGKASAN_V3.md).
-Rencana ML + eksekusi: [checkpoints/PLAN_V3_PREDIKSI.md](checkpoints/PLAN_V3_PREDIKSI.md). Titik lanjut kerja: [checkpoints/STATE.md](checkpoints/STATE.md).
+Latest numbers (refreshed on every commit): **[STATUS_V3.md](STATUS_V3.md)**. Fix details: [RINGKASAN_V3.md](RINGKASAN_V3.md).
+Live coin detection (ShredStream gRPC): [GRPC_SHREDSTREAM.md](GRPC_SHREDSTREAM.md) and [data/shred/GRPC_RESULTS.md](data/shred/GRPC_RESULTS.md).
+ML + execution plan: [checkpoints/PLAN_V3_PREDIKSI.md](checkpoints/PLAN_V3_PREDIKSI.md). Resume point: [checkpoints/STATE.md](checkpoints/STATE.md).
 
-Semua data hasil lama (sebelum 20 Nov: belum bersih dari exchange/bot, ATH rumus lama) sudah dihapus dari repo.
-Yang ada sekarang hanya data V3 di `data/v3/`.
+All pre-V3 result data (before 20 Nov: not cleaned of exchanges/bots, ATH from the old formula) was removed or
+rebuilt from the current V3 data. Data lives in `data/v3/`.
 
-## Tujuan
-1. Kumpulkan creator (dev) koin Pump.fun yang ada di DexScreener, telusuri semua koin yang pernah dia buat.
-2. Gabungkan wallet milik orang yang sama jadi 1 family (induk pendana -> wallet dev). Exchange, bot, akun program dibuang.
-3. Nilai reputasi: koin berhasil (ATH >= $50k, bukan pool sepi/palsu), rug, koin sepi, kapan dev mulai jual.
-4. Watchlist = family/creator yang lolos -> pantau DEV + INDUK + PERANTARA -> saat membuat koin baru, beli
-   secepat mungkin (blok yang sama/berikutnya) dan tahan sampai DEX. Paper dulu; live hanya atas perintah pemilik.
+## Goal
+1. Collect the creators (devs) of Pump.fun coins that are on DexScreener and trace every coin they ever launched.
+2. Merge wallets of the same operator into one family (funding parent -> dev wallets). Exchanges, bots and program
+   accounts are dropped.
+3. Score reputation: successful coins (ATH >= $50k, not a thin / buy-only pool), rugs, thin coins, how fast the dev sells.
+4. Watchlist = families / creators that pass -> watch DEV + PARENT (INDUK) + INTERMEDIARY (PERANTARA) wallets ->
+   when they create a new coin, buy as early as possible (same / next block) and hold until the DEX.
+   Paper first; live only on the owner's explicit order.
 
-## Penemuan
-- **78% creator hanya membuat 1 koin** (wallet sekali pakai). Koin berikutnya dibuat wallet baru yang didanai induk,
-  jadi yang harus dipantau adalah INDUK, bukan hanya wallet creator.
-- **Rumus ATH PumpSwap lama 26% terlalu rendah**: pool sekarang punya cadangan SOL virtual + suplai token di event.
-- **14% kelulusan dipasangkan USDC / token lain**, bukan SOL -> dulu terbaca ATH palsu jutaan dolar (SPONGEBOB "$9,5 jt").
-- **ATH raksasa palsu**: pool sepi (USEF "$97 jt" dari 58 transaksi) dan pool cuma-beli (EXEN 4.078 beli vs 42 jual).
-- **Sebagian kelulusan resmi masuk pool kosong** (±0,15 SOL, harga ~0) -> koin itu gagal, bukan salah baca (dicek harga eksekusi).
-- **Bersih dari exchange/bot**: wallet dicek satu per satu; exchange, bot/wallet super ramai, akun program tidak dipakai
-  untuk menyambung family (jumlah di STATUS_V3.md).
-- **ShredStream gRPC**: create koin Pump.fun terdeteksi ±0,15-0,5 detik setelah blok (RPC biasa: ±2,6 detik).
-  Sebagian transaksi di stream memakai format transaksi baru Solana (diawali 0x81).
-- **Key Helius baru dibatasi ±15 panggilan/detik**; lebih dari itu ditolak (HTTP 429).
-- Server vast.ai **tidak bisa menerima UDP** -> ShredStream mentah (UDP) tidak bisa; gRPC bisa.
+## Findings
+- **78% of creators launch only one coin** (one-time wallets). The next coin comes from a new wallet funded by the
+  parent, so the PARENT must be watched, not just the creator wallet.
+- **The old PumpSwap ATH formula was 26% too low**: pools now carry virtual SOL reserves + token supply in their events.
+- **14% of graduations are paired with USDC / another token**, not SOL -> previously read as fake multi-million ATHs
+  (SPONGEBOB "$9.5M").
+- **Fake giant ATHs**: thin pools (USEF "$97M" from 58 trades) and buy-only pools (EXEN 4,078 buys vs 42 sells).
+- **Some official graduations land in an empty pool** (~0.15 SOL, price ~0) -> those coins failed; verified with
+  execution prices, not a misread.
+- **Exchange / bot cleanup**: every linking wallet is classified; exchanges, super-busy bot wallets and program
+  accounts never link a family. Devs that are launch bots are eliminated (`DEV_BOT`).
+- **ShredStream gRPC**: Pump.fun creates seen ~0.15-0.9 s after the block (plain RPC: ~2.6 s). Much of the stream
+  uses the new Solana transaction format (first byte 0x81). Many creators are spam bots (same name repeatedly).
+- **The new Helius key is limited to ~15 calls/s**; above that it answers HTTP 429.
+- The vast.ai server **cannot receive UDP** -> raw (UDP) ShredStream does not work there; gRPC does.
 
-## Isi repo
-| Folder / file | Isi |
+## Repository layout
+| Path | Content |
 |---|---|
-| `src/` | program Rust `jaringan` (subcommand). V3 yang dipakai: `dexs`, `devtrace`, `fam2`, `famview`, `coinrise`, `athgt`, `reput`, `udpprobe`, `athdbg` |
-| `shredrx/` | penerima ShredStream gRPC (deteksi create Pump.fun, cocokkan watchlist) |
-| `config/` | aturan & ambang (`reput.toml` = saringan creator, `devtrace.toml`, `budget.toml` = batas kredit) |
-| `data/v3/reput/` | `watchlist.json/tsv`, `watchlist_koin.tsv` (arsip proyek), `entitas.tsv` (family + independen), `dev_reputation.tsv` & `creator_coins.tsv` (per creator) |
-| `data/v3/export/family_anggota.tsv` | semua anggota family: root, wallet, peran (DEV/INDUK/PERANTARA/PENERIMA) |
-| `data/v3/view/` | family aktif <= 30 hari, dev independen, wallet sekali pakai |
-| `data/v3/dev/` | riwayat koin tiap dev (`devs.jsonl`) + creator tiap koin (`roles.jsonl`) |
-| `data/v3/fam2/` | sambungan dana antar wallet + kelas wallet (exchange/bot/biasa) |
-| `data/v3/ath/` | ATH per koin (formula 3) |
-| `data/v3/universe/` | koin DexScreener + kelulusan Pump.fun on-chain |
-| `*.sh` | operasi: `start_all.sh`, `stop_helius.sh`, `start_shredrx.sh`, `reput_loop.sh`, `restart_*.sh` |
+| `src/` | Rust program `jaringan` (subcommands). V3 uses: `dexs`, `devtrace`, `fam2`, `famview`, `coinrise`, `athgt`, `reput`, `streamrise`, `udpprobe`, `athdbg` |
+| `shredrx/` | ShredStream gRPC receiver (detects Pump.fun creates, matches the watchlist) |
+| `config/` | rules & thresholds (`reput.toml` = creator screen, `devtrace.toml`, `budget.toml` = credit cap) |
+| `data/v3/reput/` | `watchlist.json/tsv`, `watchlist_koin.tsv` (project archive), `entitas.tsv` (families + independents), `dev_reputation.tsv` & `creator_coins.tsv` (per creator) |
+| `data/v3/export/family_anggota.tsv` | every family member: root, wallet, role (DEV/INDUK/PERANTARA/PENERIMA) |
+| `family_export/` | family summary, family coins, family wallets (rebuilt from cleaned V3 data) |
+| `data/v3/view/` | families active <= 30 days, independent devs, one-time wallets |
+| `data/v3/dev/` | coin history per dev (`devs.jsonl`) + creator per coin (`roles.jsonl`) |
+| `data/v3/fam2/` | funding links between wallets + wallet classes (exchange / bot / ordinary) |
+| `data/v3/ath/` | ATH per coin (formula 3) |
+| `data/v3/universe/` | DexScreener coins + on-chain Pump.fun graduations |
+| `data/shred/` | live coins from the gRPC stream, rises, results report |
+| `data_gz/` | compressed backup of the current `data/v3` |
+| `*.sh` | operations: `start_all.sh`, `stop_helius.sh`, `start_shredrx.sh`, `reput_loop.sh`, `grpc_report.sh`, `restart_*.sh` |
 
-## Menjalankan (di VPS)
+## Running (on the VPS)
 ```
-bash start_all.sh        # devtrace, fam2, coinrise, athgt (laju sesuai batas key Helius)
-bash restart_reput.sh    # rapor + watchlist tiap 10 menit
-bash start_shredrx.sh    # penerima ShredStream (butuh .allenhark.env)
-bash stop_helius.sh      # hentikan semua job Helius
+bash start_all.sh        # devtrace, fam2, coinrise, athgt (rate sized to the Helius key)
+bash restart_reput.sh    # reputation + watchlist every 10 minutes
+bash start_shredrx.sh    # ShredStream gRPC receiver (needs .allenhark.env)
+bash grpc_report.sh      # rewrite data/shred/GRPC_RESULTS.md
+bash stop_helius.sh      # stop every Helius job
 ```
-Kunci API hanya di file `.env*` di server (tidak pernah di-commit).
+API keys only live in `.env*` files on the server (never committed).
