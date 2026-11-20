@@ -93,3 +93,4 @@
 {"by_source":{"DS_PROMOTED":71,"ONCHAIN_PUMP_MIGRATION":27466},"cycle":81,"errors":0,"new_qualified_or_tier_up":0,"not_on_ds":21704,"qualified_mints":285,"registry":27537,"rows":5437,"secs":246,"t":1795218092,"watched":27141}
 {"by_source":{"DS_PROMOTED":71,"ONCHAIN_PUMP_MIGRATION":27469},"cycle":82,"errors":0,"new_qualified_or_tier_up":0,"not_on_ds":21698,"qualified_mints":285,"registry":27540,"rows":5443,"secs":254,"t":1795218400,"watched":27141}
 {"by_source":{"DS_PROMOTED":72,"ONCHAIN_PUMP_MIGRATION":27471},"cycle":83,"errors":0,"new_qualified_or_tier_up":2,"not_on_ds":21702,"qualified_mints":287,"registry":27543,"rows":5439,"secs":242,"t":1795218688,"watched":27141}
+{"by_source":{"DS_PROMOTED":73,"ONCHAIN_PUMP_MIGRATION":27472},"cycle":84,"errors":0,"new_qualified_or_tier_up":1,"not_on_ds":21697,"qualified_mints":288,"registry":27545,"rows":5442,"secs":237,"t":1795218983,"watched":27139}

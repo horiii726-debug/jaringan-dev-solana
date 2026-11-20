@@ -1,6 +1,7 @@
 # jaringan-dev-solana — V3 (Pump.fun creators & dev families from DexScreener coins)
 
 Latest numbers (refreshed on every commit): **[STATUS_V3.md](STATUS_V3.md)**. Fix details: [RINGKASAN_V3.md](RINGKASAN_V3.md).
+**System map (start here before going live): [SYSTEM_MAP.md](SYSTEM_MAP.md).**
 Live coin detection (ShredStream gRPC): [GRPC_SHREDSTREAM.md](GRPC_SHREDSTREAM.md) and [data/shred/GRPC_RESULTS.md](data/shred/GRPC_RESULTS.md).
 ML + execution plan: [checkpoints/PLAN_V3_PREDIKSI.md](checkpoints/PLAN_V3_PREDIKSI.md). Resume point: [checkpoints/STATE.md](checkpoints/STATE.md).
 
