@@ -48,7 +48,7 @@ for f in STATUS.md HASIL_DAN_MASALAH.md HASIL_ML_V3.md LANJUT_ML_AUDIT.md data_r
   [ -f "$f" ] && note "$f" "versi 18 Nov; angka & status terbaru di STATUS_V3.md dan README.md"
 done
 [ -f modul_18nov/README.md ] && note modul_18nov/README.md "salinan modul 18 Nov; versi aktif ada di src/"
-for d in data/v3/unified data/v3/family; do
+for d in data/v3/unified data/v3/family; do [ -d $d ] || continue
   printf "# %s\nHasil antara versi sebelumnya (20 Nov). Digantikan oleh data/v3/fam2 (family, bersih exchange/bot),\ndata/v3/view (family aktif) dan data/v3/reput (reputasi + watchlist).\n" "$d" > $d/README.md
 done
 git add -A

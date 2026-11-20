@@ -382,6 +382,14 @@ pub fn run(uni: &str, dev_dir: &str, rise_dir: &str, fam_file: &str, ath_dir: &s
     let scope_txt: Vec<&str> = all.iter().map(|d| d.as_str()).collect();
     fs::write(format!("{out}/ds_creators.txt"), format!("{}\n", scope_txt.join("\n"))).map_err(|e| e.to_string())?;
     let mut creator_coins: HashMap<String, Vec<Value>> = HashMap::new();
+    // launch bots (21 Nov): DEV wallets fam2 classed INFRA_BUSY / INFRA_LIST (newest class per wallet wins)
+    let mut cls: HashMap<String, String> = HashMap::new();
+    for v in read_jsonl(&std::env::var("JAR_WALLET_CLASS").unwrap_or("data/v3/fam2/wallet_class.jsonl".into())) {
+        if let (Some(w), Some(c)) = (v["w"].as_str(), v["class"].as_str()) {
+            cls.insert(w.to_string(), c.to_string());
+        }
+    }
+    let busy: std::collections::HashSet<&str> = cls.iter().filter(|(_, c)| c.starts_with("INFRA")).map(|(w, _)| w.as_str()).collect();
     for d in all {
         let v = devs.get(d).unwrap_or(&none);
         let mut coins = v["coins"].as_array().cloned().unwrap_or_default();
@@ -412,7 +420,10 @@ pub fn run(uni: &str, dev_dir: &str, rise_dir: &str, fam_file: &str, ath_dir: &s
         let mut r = profile(&coins, &rise);
         r.last_bt = role_bt.get(d).copied().unwrap_or(0).max(r.last_bt);
         let t = exit_type(&r);
-        let (st, why, cek) = screen(&r, n_thin, thin_known, n_fast, a50, &sc);
+        let (mut st, mut why, cek) = screen(&r, n_thin, thin_known, n_fast, a50, &sc);
+        if busy.contains(d.as_str()) {
+            (st, why) = ("ELIMINASI", if why == "-" { "DEV_BOT".into() } else { format!("DEV_BOT+{why}") });
+        }
         *status_n.entry(st).or_insert(0) += 1;
         for w in why.split('+').filter(|w| *w != "-") {
             *why_n.entry(w.to_string()).or_insert(0) += 1;
@@ -483,7 +494,11 @@ median_detik_jual_pertama\tmedian_porsi_jual_pct\ttahan_pct\ttipe_exit\tjam_seja
         let (_, a50, _, _, amax, top) = ath_counts(&coins, &ath);
         let mut r = profile(&coins, &rise);
         r.last_bt = dws.iter().filter_map(|d| role_bt.get(d).copied()).fold(r.last_bt, i64::max);
-        let (mut st, why, cek) = screen(&r, n_thin, known, n_fast, a50, &sc);
+        let (mut st, mut why, cek) = screen(&r, n_thin, known, n_fast, a50, &sc);
+        // a DEV wallet that fam2 classed as a super-busy wallet (INFRA_BUSY) is a launch bot, not a person
+        if dws.iter().any(|d| busy.contains(d.as_str())) {
+            (st, why) = ("ELIMINASI", if why == "-" { "DEV_BOT".into() } else { format!("DEV_BOT+{why}") });
+        }
         if status_rank(st) <= 1 && now - r.last_bt > active_s {
             st = "LOLOS_TIDAK_AKTIF";
         }
