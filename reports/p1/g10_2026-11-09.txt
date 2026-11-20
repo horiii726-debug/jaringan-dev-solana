@@ -1,1 +1,0 @@
-G10 sample=200 match=200 mismatch=0 not_fetched=0

@@ -1,0 +1,12 @@
+# Quality dev / family (owner 21 Nov 2026). version 2 = owner's own rule change after seeing v1 (logged):
+#  - selling within 60 s is fine unless the dev dumps (>= 90% of its tokens) there; max 25% of coins like that
+#  - rugs up to 40% are fine; a rug counts only if the dev was already selling within the first hour
+version = 3
+min_coins = 3
+max_rug_pct = 40
+fast_s = 60
+max_fast_pct = 25
+moon_pct = 400       # moonshot = rise >= +400% (5x) from the reachable entry
+min_moons = 2
+active_days = 30      # v3 owner 21 Nov: active = launched within the last 30 days
+# constants in src/qdev.rs: DUMP_SHARE = 0.9, RUG_WINDOW_S = 3600

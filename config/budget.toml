@@ -1,5 +1,5 @@
 # Helius credit budget (owner can change). Jobs stop cleanly at the cap.
-max_provider_credits = 1_000_000   # 18 Nov: owner OK to use 1M (target: quality wallets to mirror)
+max_provider_credits = 3_000_000   # 21 Nov new Helius key (old key: max usage reached); ledger of the old key in checkpoints/credits_oldkey_21nov
 max_rps = 7
 window_start = "2026-11-09T00:00:00Z"
 window_end   = "2026-11-16T00:00:00Z"
@@ -8,3 +8,6 @@ fund_max_pages = 3
 amm_max_pages = 10
 paper_bank_usd_cents = 1400    # paper bankroll $14
 paper_sol_usd_cents = 7108     # SOL price used for paper sizing
+tatum_rps = 5    # 21 Nov: Tatum Solana RPC gateway (light methods only)
+public_rps = 6   # 21 Nov: api.mainnet-beta.solana.com (light methods only, no key sent)
+shyft_rps = 2   # 21 Nov: Shyft RPC (light methods only)

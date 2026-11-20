@@ -1,1 +1,0 @@
-jenis	akar_atau_dev	dev	koin_total	koin_min50k	koin_min1M	koin_min10M	terbaik_usd	riwayat_ada_data	ragpul	sepi	turun	persen_min50k

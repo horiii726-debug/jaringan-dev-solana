@@ -3,3 +3,16 @@
 target/
 logs/
 secrets/
+# 21 Nov: secrets in any form, and only the current V3 data
+.env*
+*.env*
+data/*
+!data/v3/
+data/v3/ath/old_formula*/
+data/v3/ath/bak_quote/
+data/v3/ath_val*/
+data/v3/**/*.bak*
+data/v3/**/run*.log
+data/v3/**/progress.log
+data/shred/
+checkpoints/credits*/

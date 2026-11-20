@@ -1,1 +1,0 @@
-symbol	puncak_mcap_usd	volume_usd	pembeli	creator	koin_creator(6-15nov)	akar_dana	tingkat	berhenti_karena	insider_awal/pembeli_awal	koin_besar_dari_akar_yg_sama

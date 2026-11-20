@@ -1,1 +1,0 @@
-TEST MultiClass logloss model 0.5003 vs tebak-rata-rata 0.5023 (+0.4%)

@@ -11,13 +11,13 @@ use std::io::Write;
 pub const PAMM: &str = "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA";
 const TAG: [u8; 8] = [0xe4, 0x45, 0xa5, 0x2e, 0x51, 0xcb, 0x9a, 0x1d];
 pub const PAMM_CREATE_POOL: [u8; 8] = [177, 49, 12, 210, 160, 118, 167, 116];
-const BUY: [u8; 8] = [103, 244, 82, 31, 44, 245, 119, 119];
-const SELL: [u8; 8] = [62, 47, 55, 10, 165, 3, 220, 42];
+pub const BUY: [u8; 8] = [103, 244, 82, 31, 44, 245, 119, 119];
+pub const SELL: [u8; 8] = [62, 47, 55, 10, 165, 3, 220, 42];
 
-fn u64_at(d: &[u8], o: usize) -> Option<u64> {
+pub fn u64_at(d: &[u8], o: usize) -> Option<u64> {
     d.get(o..o + 8).map(|s| u64::from_le_bytes(s.try_into().unwrap_or([0; 8])))
 }
-fn pk_at(d: &[u8], o: usize) -> Option<String> {
+pub fn pk_at(d: &[u8], o: usize) -> Option<String> {
     d.get(o..o + 32).map(|s| bs58::encode(s).into_string())
 }
 

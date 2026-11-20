@@ -1,0 +1,98 @@
+## N1 git
+head d5f0374
+tracked_files 603
+untracked_or_modified 11
+## N2 data archive
+md5_ok 20 of 20
+archive_entries 1906
+data_dir_files 1859
+## N3 datasets
+ds_jsonl_rows 5992
+ds_jsonl_distinct_mints 5984
+ds_jsonl_keys ["dex","liq","mcap","mint","pair_created","sym","vol24"]
+ds_jsonl_dex pumpswap=5945 pumpfun=39 meteora=8 
+mig_oct_rows 38996
+mig_new_rows 1783
+launches launches_2026-11-16.jsonl 46755
+launches launches_2026-11-17.jsonl 51174
+launches launches_2026-11-18.jsonl 3179
+launches_gz launches_2026-11-06.jsonl.gz 7500
+launches_gz launches_2026-11-07.jsonl.gz 39000
+launches_gz launches_2026-11-08.jsonl.gz 39054
+launches_gz launches_2026-11-09.jsonl.gz 40129
+launches_gz launches_2026-11-10.jsonl.gz 44229
+launches_gz launches_2026-11-11.jsonl.gz 45723
+launches_gz launches_2026-11-12.jsonl.gz 44793
+launches_gz launches_2026-11-13.jsonl.gz 48204
+launches_gz launches_2026-11-14.jsonl.gz 43603
+launches_gz launches_2026-11-15.jsonl.gz 42021
+## N4 infra labels (no source/date column)
+exchange_list_p3 28
+exchange_list_dataset 27
+labels_tsv_rows 258
+labels_tsv_columns 2 
+labels_tsv_class BOT_HUB=30 EXCHANGE_SERVICE=33 KNOWN_LIST=21 OPERATOR=174 
+infra_union 91
+## N5 old family graph (data/family_a, family_export)
+fa_edges 61915
+fa_edges_distinct_sig 54683
+fa_edges_sol_lt_0.1 10283
+fa_edges_sol_lt_1 42410
+fa_edges_endpoint_in_infra_union 0
+fa_roots 89
+fa_top3_root_edges 8661 5146 4355 
+fa_wallets 2714
+fa_wallets_busy 803
+fa_up_rows 443
+fa_up_end wallet_ramai=267 KNOWN_LIST=90 EXCHANGE_SERVICE=40 induk_akumulasi=31 max_depth=8 BOT_HUB=4 EXCHANGE=3 
+export_rows 2745
+export_roles DEV=181 INDUK=97 KELUARGA=1558 PERANTARA=206 RAMAI=703 
+export_families 97
+export_families_with_RAMAI 55
+export_RAMAI_ntx_min_max 305 400 
+export_family_size n=97 min=2 med=9 p90=75 max=232
+
+export_ujung_atas EXCHANGE=2 EXCHANGE_SERVICE=21 KNOWN_LIST=35 induk_akumulasi=31 max_depth=8 
+## N6 MadeOnSol probe (raw files saved 2026-11-20, 3 calls)
+openapi_version 1.20.0 paths 181
+tier BASIC daily_limit 200
+gate /wallet/{address}/funding PRO
+gate /wallet/{address}/flags PRO
+gate /wallet/batch/classify PRO
+gate /deployer-hunter/{wallet} FREE
+gate /deployer-hunter/{wallet}/as-of PRO
+gate /token/{mint} FREE
+gate /tokens/{mint}/bundles PRO
+gate /tokens/{mint}/peak-history PRO
+token_3MG_deployer 55vi54w1hVX3ajKbgB6Khw74JjDCEwFL4YMsaMdFHYPd
+our_3MG_creator 55vi54w1hVX3ajKbgB6Khw74JjDCEwFL4YMsaMdFHYPd
+## N7 provider keys present (names only)
+.env present keys=HELIUS_API_KEY 
+.rpc.env MISSING
+.bitquery_token MISSING
+.madeonsol.env present keys=MADEONSOL_KEY 
+## N8 hashes
+74ab0770b9e49169 data/roots/ds.jsonl
+a255251e072f120b data/family_a/edges.jsonl
+466b4a4aaeac7c13 family_export/wallet_family.csv
+## N9 round-2 additions (CRITIC T0_r1 findings)
+state_md_lines 48
+archive_dirs 55 archive_files 1851
+data_v3_files 8
+archive_uncompressed_bytes 1355146592
+dataset_du 207M
+src data/mig_oct.jsonl rows=38996 mints=38996 wsol_mints=35363
+src data/raw/migrations.jsonl rows=9019 mints=9019 wsol_mints=7603
+src data/mig_new.jsonl rows=1783 mints=1783 wsol_mints=1545
+union_all_mints 49255 union_wsol_mints 44057
+ds_mints_in_union_wsol 5247 ds_mints_in_union_all 5969
+roots_sh_mcap_fallback 21:mcap: (.marketCap // .fdv)
+ds_calls_for_union_all 1642 minutes_at_300_per_min 6
+madeonsol_token_lookups_per_day_max 200
+ds_now_mcap_ge_50k 240 ge_100k 152 ge_1m 66 (current snapshot, mcap may be FDV fallback)
+export_rows_robust 2745 export_role_sum 2745
+export_wallets_in_gt1_family 9
+fa_sigs_with_gt1_edge 3075 fa_max_edges_per_sig 20
+fa_children_with_gt1_parent 3049
+fa_wallets_roots 92 export_families 97
+export_families_not_edge_roots 8

@@ -48,6 +48,41 @@ pub struct Rpc {
     prior: u64,
     job: String,
     free: bool,
+    hdr: Option<(String, String)>,
+}
+
+/// Secondary providers for light, standard methods (owner 21 Nov: use Tatum + public RPC so Helius quota is kept for
+/// full-transaction and transfer history). Tatum key goes ONLY to the Tatum gateway (header), never elsewhere.
+pub struct Aux {
+    pub v: Vec<Rpc>,
+    i: usize,
+}
+
+impl Aux {
+    pub fn new(job: &str) -> Result<Self, String> {
+        let mut v = Vec::new();
+        if let Some(k) = fs::read_to_string(".tatum.env").ok().and_then(|s| s.lines().find_map(|l| l.strip_prefix("TATUM_API_KEY=").map(|k| k.trim().to_string()))) {
+            v.push(Rpc::endpoint(&format!("{job}_tatum"), "https://solana-mainnet.gateway.tatum.io/", Some(("x-api-key".into(), k)), cfg_u64("config/budget.toml", "tatum_rps").unwrap_or(3))?);
+        }
+        // 21 Nov: Shyft RPC (owner key in .env SHYFT_API_KEY; the key only goes to rpc.shyft.to, in its URL)
+        if let Some(k) = fs::read_to_string(".env").ok().and_then(|s| s.lines().find_map(|l| l.strip_prefix("SHYFT_API_KEY=").map(|k| k.trim().to_string()))).filter(|k| !k.is_empty()) {
+            v.push(Rpc::endpoint(&format!("{job}_shyft"), &format!("https://rpc.shyft.to?api_key={k}"), Some(("x-api-key".into(), k.clone())), cfg_u64("config/budget.toml", "shyft_rps").unwrap_or(2))?);
+        }
+        v.push(Rpc::endpoint(&format!("{job}_public"), "https://api.mainnet-beta.solana.com", None, cfg_u64("config/budget.toml", "public_rps").unwrap_or(2))?);
+        Ok(Aux { v, i: 0 })
+    }
+    /// Round robin; on failure try the next provider. Err only when every provider failed.
+    pub fn call(&mut self, method: &str, params: Value) -> Result<Value, String> {
+        let mut last = String::new();
+        for _ in 0..self.v.len() {
+            self.i = (self.i + 1) % self.v.len();
+            match self.v[self.i].call(method, params.clone(), 0) {
+                Ok(r) => return Ok(r),
+                Err(e) => last = e,
+            }
+        }
+        Err(last)
+    }
 }
 
 /// Credits for a successful response (Helius billing page, checked 2026-11-16).
@@ -58,6 +93,9 @@ pub fn cost(method: &str, params: &Value, result: &Value) -> u64 {
             return 10 * n.div_ceil(100).max(1);
         }
         return 10;
+    }
+    if method == "getTransfersByAddress" {
+        return 10; // price not confirmed from Helius docs: counted like getTransactionsForAddress (conservative)
     }
     1
 }
@@ -96,6 +134,27 @@ impl Rpc {
             cap,
             prior: ledger_others(job),
             job: job.into(),
+            hdr: None,
+        })
+    }
+
+    /// A non-Helius endpoint (no Helius credits counted, own rate limit, optional auth header).
+    pub fn endpoint(job: &str, url: &str, hdr: Option<(String, String)>, rps: u64) -> Result<Self, String> {
+        let key = hdr.as_ref().map(|h| h.1.clone()).unwrap_or_else(|| "\u{0}".into());
+        Ok(Rpc {
+            url: url.into(),
+            free: true,
+            key,
+            agent: ureq::AgentBuilder::new().timeout(Duration::from_secs(60)).build(),
+            last: Instant::now() - Duration::from_secs(1),
+            gap: Duration::from_millis(1000 / rps.max(1)),
+            credits: 0,
+            calls: 0,
+            retries: 0,
+            cap: u64::MAX,
+            prior: 0,
+            job: job.into(),
+            hdr,
         })
     }
 
@@ -131,7 +190,11 @@ impl Rpc {
             if self.calls.is_multiple_of(200) {
                 self.prior = ledger_others(&self.job);
             }
-            let err = match self.agent.post(&self.url).set("content-type", "application/json").send_string(&body) {
+            let mut req = self.agent.post(&self.url).set("content-type", "application/json");
+            if let Some((h, v)) = &self.hdr {
+                req = req.set(h, v);
+            }
+            let err = match req.send_string(&body) {
                 Ok(resp) => {
                     let mut s = String::new();
                     match resp.into_reader().read_to_string(&mut s) {
@@ -208,7 +271,11 @@ impl Rpc {
             self.last = Instant::now();
             self.last += self.gap * (reqs.len() as u32).saturating_sub(1);
             self.calls += 1;
-            let err = match self.agent.post(&self.url).set("content-type", "application/json").send_string(&body) {
+            let mut req = self.agent.post(&self.url).set("content-type", "application/json");
+            if let Some((h, v)) = &self.hdr {
+                req = req.set(h, v);
+            }
+            let err = match req.send_string(&body) {
                 Ok(resp) => {
                     let mut s = String::new();
                     match resp.into_reader().read_to_string(&mut s).map_err(|e| e.to_string()).and_then(|_| serde_json::from_str::<Value>(&s).map_err(|e| e.to_string())) {

@@ -1,0 +1,21 @@
+# Creator screen (owner 21 Nov 2026: "eliminasi creator yang sering rug, koinnya sepi, dan jual di detik-detik pertama").
+# version 1 = PROVISIONAL thresholds set before seeing the screened list; the owner may change them (log the change).
+version = 2
+rug_max_pct = 40          # SERING_RUG: > 40% of coins with rise data rugged (owner rule v2: rug counts only if the dev sold within 1 h)
+rug_min_measured = 2      # ... judged only with >= 2 measured coins
+thin_pool_txs = 200       # a graduated coin whose whole pool history has < 200 txs is sepi (USEF "$97M" from 58 txs)
+thin_curve_trades = 50    # a coin whose fully read bonding curve has < 50 trades is sepi
+thin_max_pct = 50         # KOIN_SEPI: >= 50% of the creator's coins with activity data are sepi
+fast_sell_s = 10          # JUAL_DETIK_AWAL: the dev's first sell within 10 s of the create ...
+fast_sell_max_pct = 50    # ... on >= 50% of the coins it bought
+# LOLOS_BERKUALITAS = not eliminated, all 3 checks had data, >= 1 coin with ATH >= $50k (not sepi)
+# LOLOS_DATA_KURANG = same but a check had no data (e.g. dev history not traced yet)
+# v2 (21 Nov, after the "$97M from 58 txs" / "EXEN 4,078 buys vs 42 sells" finds; set before the re-run):
+thin_traders = 50         # a pool with < 50 distinct traders (in the scanned trades) is sepi
+sell_min_pct = 5          # PALSU: sells < 5% of >= 100 pool trades (buy-only pool, no real market)
+ragu_min_checks = 10      # DATA_RAGU: with >= 10 small trades checked ...
+ragu_max_pct = 20         # ... > 20% execute > 15% away from the spot price -> the pool's ATH is not used
+# v3 (owner 21 Nov: "gua mau creator coinnya ada di dexscreener"): only creators with >= 1 coin seen on DexScreener
+only_dexscreener = 1
+# v4 (owner 21 Nov: watchlist): an entity (family or independent creator) is watched only if it launched within 30 days
+active_days = 30

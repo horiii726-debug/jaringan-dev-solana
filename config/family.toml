@@ -1,0 +1,12 @@
+# Family builder v1 (V3 7-8, owner 2026-11-20 goal: 1000 families). PROVISIONAL thresholds set before any family
+# result was seen; QUANT replaces them with measured distributions (new version) before verdicts.
+version = 1
+max_depth = 8              # funding chain levels climbed per dev
+dust_lamports = 10000000   # 0.01 SOL: inbound below this is dust, never funding (T2)
+material_pct = 50          # funder must give >= 50% of all SOL the wallet received before the as-of time (T6)
+busy_sigs = 1000           # >= 1000 signatures ...
+busy_window_s = 86400      # ... within 24 h before the funding time = INFRA_BUSY (exchange/bot/service behaviour, T1/T4)
+legacy_disperse_max = 5    # legacy clean (21 Nov): a tx paying > 5 recipients = disperse/airdrop/bot, not a family link (PROVISIONAL)
+giant_cap = 100            # unify (21 Nov): a family above 100 wallets is flagged GIANT_REVIEW (V3 8.3 alarm; PROVISIONAL)
+out_limit = 100            # fam2 (21 Nov): newest 100 outbound SOL transfers of a dev (dev -> wallet = dev knows it, owner rule)
+one_time_max_tx = 30       # famview (21 Nov): dev wallet with 1 coin and <= 30 txs in its complete history = one-time wallet (PROVISIONAL)

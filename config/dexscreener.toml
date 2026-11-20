@@ -1,0 +1,15 @@
+# DexScreener API, read from https://docs.dexscreener.com/api/reference on 2026-11-20
+# (copy: data/v3/dexscreener/api_reference.html). Change = new logged version.
+version = 3
+base = "https://api.dexscreener.com"
+tokens_path = "/tokens/v1/solana/"   # up to 30 comma-separated addresses; documented limit 300 req/min
+batch = 30
+rpm_tokens = 240                      # below the documented 300/min
+rpm_meta = 50                         # profiles/boosts/takeovers: documented 60/min
+promoted = "/token-profiles/latest/v1,/token-profiles/recent-updates/v1,/token-boosts/latest/v1,/token-boosts/top/v1,/community-takeovers/latest/v1"
+poll_s = 300                          # owner 2026-11-20: every 5 minutes
+max_age_h = 720                       # owner 2026-11-20 (2nd msg): 30 days (was 168 = 7 days, v1)
+min_mcap_usd = 50000                  # owner 2026-11-20: tracing floor (bigger is better); marketCap only, never FDV
+min_txns_h1 = 1                       # active = at least 1 trade in the last hour
+snap_every_s = 3600                   # v3: disk budget, one snapshot row per mint per hour ...
+snap_min_mcap_usd = 10000             # ... and only for mints with marketCap >= $10k (raw pairs kept at first sight + qualification)

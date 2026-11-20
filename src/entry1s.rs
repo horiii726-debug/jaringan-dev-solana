@@ -52,7 +52,7 @@ pub fn run(list: &str, curve_f: &str, amm_f: &str) -> Result<(), String> {
             // curve finished before we could land -> PumpSwap
             let Some(a) = amm.get(mint) else { need_amm.push(mint.to_string()); continue };
             let at: Vec<&Value> = a["t"].as_array().map(|x| x.iter().collect()).unwrap_or_default();
-            let before = at.iter().filter(|t| t[0].as_u64().unwrap_or(0) < entry_slot).last().or(at.first());
+            let before = at.iter().rfind(|t| t[0].as_u64().unwrap_or(0) < entry_slot).or(at.first());
             let Some(t) = before else { no_data += 1; continue };
             let (b, q) = (t[5].as_f64().unwrap_or(0.0), t[6].as_f64().unwrap_or(0.0));
             if b <= 0.0 { no_data += 1; continue; }

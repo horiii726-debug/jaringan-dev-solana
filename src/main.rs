@@ -1,3 +1,17 @@
+mod famview;
+mod qdev;
+mod reput;
+mod athgt;
+mod udpprobe;
+mod mosq;
+mod fam2;
+mod coinrise;
+mod unify;
+mod famath;
+mod legacyclean;
+mod famv3;
+mod devtrace;
+mod dexs;
 mod decode;
 mod rpc;
 mod fund;
@@ -103,6 +117,24 @@ fn main() -> ExitCode {
         Some("devhist") if a.len() == 5 => a[3].parse().map_err(|_| "bad pages".to_string()).and_then(|p| svc::dev_history(&a[2], p, &a[4])),
         Some("tpsim") if a.len() == 7 => tpsim::run(&split(&a[2]), &split(&a[3]), &split(&a[4]), &a[5], &a[6]),
         Some("kelly") if a.len() == 8 => match (a[5].parse(), a[6].parse(), a[7].parse()) { (Ok(s), Ok(p), Ok(c)) => tpsim::kelly(&a[2], &a[3], &a[4], s, p, c), _ => Err("usage: kelly train test key start_usd sol_usd cap_sol".into()) },
+        Some("dexs") if a.len() == 4 => a[3].parse().map_err(|_| "bad cycles".to_string()).and_then(|c| dexs::run(&a[2], c)),
+        Some("devtrace") if a.len() == 5 => devtrace::run(&a[2], &a[3], a[4] == "1"),
+        Some("famv3") if a.len() == 5 => famv3::run(&a[2], &a[3], a[4] == "1"),
+        Some("famreport") if a.len() == 4 => famv3::report(&a[2], &a[3]),
+        Some("legacyclean") if a.len() == 5 => legacyclean::run(&a[2], &a[3], &a[4]),
+        Some("famath") if a.len() == 4 => famath::run(&a[2], &a[3]),
+        Some("unify") if a.len() == 6 => unify::run(&a[2], &a[3], &a[4], &a[5]),
+        Some("coinrise") if a.len() == 6 => coinrise::run(&a[2], &a[3], &a[4], a[5] == "1"),
+        Some("watchlist") if a.len() == 5 => coinrise::watchlist_now(&a[2], &a[3], &a[4]),
+        Some("fam2") if a.len() == 5 => fam2::run(&a[2], &a[3], a[4] == "1"),
+        Some("mosq") if a.len() == 4 => a[3].parse().map_err(|_| "bad max".to_string()).and_then(|m| mosq::run(&a[2], m)),
+        Some("qdev") if a.len() == 5 => qdev::run(&a[2], &a[3], &a[4]),
+        Some("qfam") if a.len() == 6 => qdev::run_family(&a[2], &a[3], &a[4], &a[5]),
+        Some("reput") if a.len() == 8 => reput::run(&a[2], &a[3], &a[4], &a[5], &a[6], &a[7]),
+        Some("athgt") if a.len() == 5 => athgt::run(&a[2], &a[3], &a[4]),
+        Some("udpprobe") if a.len() == 4 => udpprobe::run(a[2].parse().unwrap_or(8001), a[3].parse().unwrap_or(600)),
+        Some("athdbg") if a.len() == 5 => athgt::dbg(&a[2], a[3].parse().unwrap_or(0), a[4].parse().unwrap_or(5)),
+        Some("famview") if a.len() == 5 => famview::run(&a[2], &a[3], &a[4]),
         Some("graph") if a.len() == 5 => graph::run(&split(&a[3]), &split(&a[4]), &a[2]),
         _ => Err("usage: jaringan launches <start_unix> <end_unix> <out.jsonl> | check <launches.jsonl>".into()),
     };

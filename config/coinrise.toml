@@ -1,0 +1,8 @@
+# Rise / rug per family coin (owner 21 Nov). version 1 = PROVISIONAL, set before any result was seen.
+version = 2
+max_pages = 10        # oldest 10 x 100 txs of the mint (curve life); cut histories are flagged
+rug_last_pct = 10     # not graduated and last price <= 10% of the curve peak = collapsed (rug-like)
+# v2 (owner 21 Nov): serial fast-sell dev -> whole family (all affiliated wallets) off the watchlist
+bl_min_coins = 3
+bl_fast_s = 60
+bl_fast_share_pct = 80

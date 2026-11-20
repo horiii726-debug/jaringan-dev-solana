@@ -70,7 +70,7 @@ pub fn build(out: &str) -> Result<(), String> {
         *payer_prev.entry(payer.clone()).or_default() += 1;
         win.push_back(bt);
         let after_vsol = v["after_vsol"].as_f64().unwrap_or(30e9) / 1e9;
-        if bt < START || bt >= END { continue; }
+        if !(START..END).contains(&bt) { continue; }
         if after_vsol >= 114.0 { inst += 1; continue; } // bought out at birth -> not buyable on curve
         let label = mig.get(&mint).map(|g| *g - bt <= 86_400).unwrap_or(false) as u8;
         let name = v["name"].as_str().unwrap_or("");
@@ -112,7 +112,7 @@ pub fn eval(test: &str, pred: &str) -> Result<(), String> {
     let labels: Vec<u8> = fs::read_to_string(test).map_err(|e| e.to_string())?.lines().skip(1)
         .filter_map(|l| l.split('\t').next()?.parse().ok()).collect();
     let probs: Vec<f64> = fs::read_to_string(pred).map_err(|e| e.to_string())?.lines().skip(1)
-        .filter_map(|l| l.split('\t').last()?.parse().ok()).collect();
+        .filter_map(|l| l.split('\t').next_back()?.parse().ok()).collect();
     if labels.len() != probs.len() || labels.is_empty() {
         return Err(format!("rows differ: labels {} preds {}", labels.len(), probs.len()));
     }

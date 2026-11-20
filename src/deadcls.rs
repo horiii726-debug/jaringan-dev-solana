@@ -79,7 +79,7 @@ pub fn deadcls(dir: &str, trades_f: &str) -> Result<(), String> {
             continue;
         }
         let px = |x: &serde_json::Value| x[8].as_f64().unwrap_or(0.0) / x[9].as_f64().unwrap_or(1.0).max(1.0);
-        let entry = t.iter().filter(|x| slot_of(x) < cslot + 2).last().map(|x| px(x)).unwrap_or(30e9 / 1.073e15);
+        let entry = t.iter().rfind(|x| slot_of(x) < cslot + 2).map(|x| px(x)).unwrap_or(30e9 / 1.073e15);
         let peak = t.iter().map(|x| px(x)).fold(0.0, f64::max);
         let last = px(t[t.len() - 1]);
         let (mut fb, mut fs_, mut buyers) = (0.0f64, 0.0f64, HashSet::new());
@@ -169,7 +169,7 @@ pub fn deadcls(dir: &str, trades_f: &str) -> Result<(), String> {
         if mil > 0 { n_moon_fam += 1; n_moon += mil; if recent > 0 { n_moon_active += 1; } }
         rows.push((mil * 100_000 + big * 1000 + on_ds, format!("{} | {status} | koin {n} | rug {rg} | di DexScreener {on_ds} | >=$40k {k40} | >=$50k {k50} | >=$100k {big} | MOONSHOT >=$1jt {mil} | {akt} | terakhir bikin {last}", &r[..8.min(r.len())])));
     }
-    rows.sort_by(|a, b| b.0.cmp(&a.0));
+    rows.sort_by_key(|r| std::cmp::Reverse(r.0));
     println!("\nfamily dgn moonshot (>=$1jt): {n_moon_fam} | total koin moonshot: {n_moon} | family moonshot yg masih AKTIF sejak 15 Nov: {n_moon_active}");
     println!("\nATURAN PEMILIK (sering rug = >=2 rug dan >=1/3 koinnya; kecuali >=2 koin >=$100k): pakai {keep} | keluarkan {drop_n}");
     for r in rows.iter().take(20) {

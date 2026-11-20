@@ -353,7 +353,7 @@ pub fn report(out_dir: &str) -> Result<(), String> {
         }
         summary.push((coins.len(), format!("{} | wallet {} | koin {} | lulus {n_grad} | DS {n_ds} | gagal {n_fail} | dev {}\n", &root[..8], fam_w.len(), coins.len(), devs_up.len())));
     }
-    summary.sort_by(|a, b| b.0.cmp(&a.0));
+    summary.sort_by_key(|s| std::cmp::Reverse(s.0));
     let head: String = summary.into_iter().map(|s| s.1).collect();
     let txt = format!("RINGKASAN FAMILY (induk | wallet | koin | lulus | DexScreener | gagal | dev awal)\n{head}{out}");
     fs::write(format!("{out_dir}/report.txt"), &txt).map_err(|e| e.to_string())?;

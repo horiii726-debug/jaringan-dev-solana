@@ -1,0 +1,34 @@
+HTTP/2 200 
+date: Fri, 20 Nov 2026 15:51:24 GMT
+content-type: application/json
+server: cloudflare
+vary: Accept-Encoding
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-robots-tag: noindex, nofollow
+referrer-policy: strict-origin-when-cross-origin
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: cross-origin
+content-signal: search=yes, ai-assist=yes, ai-train=no
+content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' analytics.madeonsol.com challenges.cloudflare.com static.ads-twitter.com; style-src 'self' 'unsafe-inline'; img-src 'self' https: data: blob:; font-src 'self' data:; connect-src 'self' https://supabase.madeonsol.com wss://supabase.madeonsol.com wss://madeonsol.com analytics.madeonsol.com challenges.cloudflare.com analytics.twitter.com t.co; frame-src challenges.cloudflare.com analytics.madeonsol.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests
+access-control-allow-headers: Authorization, Content-Type
+access-control-allow-methods: GET, POST, PATCH, DELETE, OPTIONS
+access-control-allow-origin: *
+access-control-expose-headers: X-Request-Id, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, Retry-After, X-Data-Delay, X-MadeOnSol-Quota-Warning, X-Read-Source, X-Cache, X-MadeOnSol-Upgrade-Hint, X-MadeOnSol-Renewal-Warning, X-MadeOnSol-Renewal-Url, X-Subscription-Expires-At, X-Subscription-Days-Left
+access-control-max-age: 86400
+cache-control: no-store, private
+x-ratelimit-limit: 200
+x-ratelimit-remaining: 199
+x-ratelimit-reset: 1795219200
+x-ratelimit-used: 1
+x-request-id: f1389eaa-8f09-442a-8763-f958adeeae5f
+x-frame-options: DENY
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+permissions-policy: camera=(), microphone=(), geolocation=()
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q0c%2BIFW%2FERKPuwQ%2FHP%2Fy1MD0zExAGzz4FG9qORMip3MCUJKLE%2FngWZBwoBo5XM8EqoO89JkUy7jDTQyA0z2nXg77BPBD86xxEXCc1kIaOlij5%2FNobAyz0nUtsPe1tTux"}]}
+cf-ray: a5d89da82e3c94fb-CPH
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,2 @@
+# V3 section 5 tiers (USD). Owner 2026-11-20: >= 50k is the floor for dev tracing, higher is better.
+tiers_usd = "50000,100000,250000,500000,1000000,5000000,10000000,50000000,100000000"

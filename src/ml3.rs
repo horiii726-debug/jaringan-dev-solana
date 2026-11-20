@@ -15,6 +15,7 @@
 //!  - class label (used only as a training target, never as an exit): MATI (no graduation, best < +30%),
 //!    SCALP (no graduation, best >= +30%), LULUS (graduated, best < 10x), MOON (graduated, best >= 10x).
 //!  - split by time: train 14 Nov 00-18 h, embargo 18-20 h, valid 14 Nov 20-24 h, test 15 Nov (looked at once).
+//!
 //! Usage: jaringan ml3 build <out_dir> <lat_s>     -> rows.tsv, train.tsv, valid.tsv, test.tsv, pool.cd
 //!        jaringan ml3 eval  <out_dir> [family_mints.txt]  (needs pred_valid.tsv, pred_test.tsv from catboost calc)
 use crate::graph::read_lines;
@@ -95,7 +96,7 @@ fn read_preds(test_tsv: &str, pred_tsv: &str) -> HashMap<String, f64> {
     let mints: Vec<String> = fs::read_to_string(test_tsv).unwrap_or_default().lines().skip(1)
         .filter_map(|l| l.split('\t').nth(1).map(String::from)).collect();
     let probs: Vec<f64> = fs::read_to_string(pred_tsv).unwrap_or_default().lines().skip(1)
-        .filter_map(|l| l.split('\t').last()?.parse().ok()).collect();
+        .filter_map(|l| l.split('\t').next_back()?.parse().ok()).collect();
     if mints.len() != probs.len() {
         eprintln!("p_grad_prior: rows differ ({} vs {}) -> feature left empty", mints.len(), probs.len());
         return HashMap::new();
@@ -201,7 +202,7 @@ pub fn build(out: &str, lat_s: i64) -> Result<(), String> {
         *payer_prev.entry(payer.clone()).or_default() += 1;
         win.push_back(bt);
         let sol_quote = v["quote"].as_str().unwrap_or("").starts_with("1111") && v["mayhem"] != true;
-        if bt < D14 || bt >= D16 || !sol_quote {
+        if !(D14..D16).contains(&bt) || !sol_quote {
             continue;
         }
         pop_all += 1;

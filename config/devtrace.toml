@@ -1,0 +1,21 @@
+# Dev tracing (V3 Stage 2, owner 2026-11-20). version 1 = PROVISIONAL descriptive thresholds, set before any
+# result was seen; QUANT replaces them with measured distributions (new version) before any verdict is drawn.
+version = 7
+max_pages = 10                 # dev history: newest 10 x 100 txs (10 credits per page)
+fast_dump_s = 300              # dev's first sell within 5 min of the create ...
+fast_dump_sold_pct = 90        # ... and sold >= 90% of the tokens it bought  -> fast_dump
+alive_min_liq_usd = 5000       # a coin counts as alive on DEX only with >= $5k liquidity now
+good_mcap_usd = 50000          # "good" coin = marketCap >= $50k (tier floor) and alive
+pattern_min_coins = 3          # POLA_RUG needs >= 3 coins ...
+pattern_dump_share_pct = 50    # ... with >= 50% of them fast_dump
+fallback_min_mcap_usd = 0  # v7: every coin seen on DexScreener, highest marketCap first
+# v3 (21 Nov): after qualified + fallback, ALL coins graduated in the 30-day window, newest first (graduated_all, owner goal 1000 families)
+# v4 (owner 21 Nov "wallet berkualitas, bukan asal"): all-graduated fallback OFF; quality seeds first
+graduated_all = 0    # v7 (owner 21 Nov 21:30 UTC): OFF, only creators of DexScreener coins
+roles_batch = 200
+seed_min_peak_usd = 100000   # MadeOnSol recent-bonds seed: peak market cap >= $100k
+# v5 (owner 21 Nov): fallback coins with a DexScreener pair <= 24 h old and trading go first
+# v6 (21 Nov): creators with resolved roles but no history run (orphans of earlier loops) are queued, best coin first
+orphan_batch = 200
+# v7 (owner 21 Nov): only creators with >= 1 coin seen on DexScreener get a history run
+ds_creators_only = 1

@@ -1,8 +1,0 @@
-== wallet: 1510 dinilai, 263 BAD
-== koin seumur hidup: 4052, rug-like (dev jual <=60 dtk): 1805
-== asal dana:    1483 akar     125 dana_dari_exchange     188 tidak_diketahui 
-== link baru dari Bitquery: 6847
-== watchlist sebelum: "A_TIM=68 B_DEV=1202 B_TIM=1 C_DEV=173 C_TIM=22"
-== watchlist sesudah: "A_TIM=1 B_DEV=1197 B_TIM=1 C_DEV=98 C_TIM=22"
-== wallet dipantau sesudah: 7111
-REP_DONE
